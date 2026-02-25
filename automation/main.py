@@ -665,7 +665,7 @@ best_season: "{best_season}"
         word_count = len(final_body.split())
         print(f"      ✅ Published: {final_slug}")
         print(f"      📊 Words: {word_count} | Category: {cat}")
-        processed_count += 1
+        processed_count += 5
 
         print("      💤 Cooling down 60s (rate limit)...")
         time.sleep(60)
