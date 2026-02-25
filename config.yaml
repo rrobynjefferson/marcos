@@ -39,7 +39,6 @@ taxonomies:
   tag: "tags"
 
 params:
-  # Description translated to English
   description: "Global Adventure Guide — Destinations, Travel Routes, Logistics, Itineraries & Tips from Every Corner of the Earth."
   defaultImage: "/images/default-adventure.webp"
   author:
