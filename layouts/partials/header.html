@@ -1,13 +1,14 @@
-<header class="bg-stone-900 border-b-4 border-emerald-500 sticky top-0 z-50 shadow-2xl font-sans">
+<header class="bg-stone-900 border-b-4 border-emerald-500 sticky top-0 z-50 shadow-2xl">
     
     <!-- Top Bar -->
     <div class="bg-black text-gray-400 text-[10px] py-1.5 hidden md:block border-b border-stone-800">
         <div class="container mx-auto px-4 flex justify-between items-center">
             <div class="flex gap-4 items-center">
-                <!-- Go Template Date Format kept as is, assume logic handles English locale -->
+                <!-- Date Format kept as original (Hugo Syntax) -->
                 <span class="uppercase tracking-widest font-bold text-emerald-400">{{ now.Format "Mon, Jan 02, 2006" }}</span>
                 <span class="text-stone-700">|</span>
-                <span class="font-medium text-gray-500">Global Adventure Guide across 5 Continents</span>
+                <!-- Translated to English, Icon Removed -->
+                <span class="font-medium text-gray-500">Adventure Guide from 5 Continents</span>
             </div>
             <div class="flex items-center gap-3">
                 <span class="inline-flex items-center gap-1.5 font-bold tracking-wider text-gray-400">
@@ -21,7 +22,7 @@
     <!-- Main Header -->
     <div class="container mx-auto px-4 h-16 md:h-20 flex items-center justify-between relative">
         
-        <!-- Logo (Kept as requested) -->
+        <!-- Logo (Kept exactly as requested) -->
         <a href="/" class="flex items-center gap-3 group shrink-0" aria-label="WorldAdventure.Guide Homepage">
             <div class="w-10 h-10 rounded-lg border-2 border-stone-600 flex items-center justify-center group-hover:border-emerald-500 transition-all duration-300 bg-stone-800 shadow-inner">
                 <svg class="w-5 h-5 text-emerald-400 group-hover:text-emerald-300 transition" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -36,32 +37,34 @@
             </div>
         </a>
 
-        <!-- Desktop Navigation (Text Only) -->
-        <nav class="hidden lg:flex items-center gap-2">
+        <!-- Desktop Navigation -->
+        <nav class="hidden lg:flex items-center gap-1">
+            <!-- Icon Removed -->
             <a href="/" class="px-3 py-2 text-[11px] font-black text-white uppercase tracking-widest hover:text-emerald-400 transition rounded hover:bg-stone-800">Home</a>
 
             <!-- ASIA -->
             <div class="relative group py-5">
                 <button class="flex items-center gap-1 px-3 py-2 text-[11px] font-black text-gray-300 group-hover:text-white uppercase tracking-widest cursor-pointer focus:outline-none transition hover:bg-stone-800 rounded">
-                    Asia
+                    <!-- Icon Removed -->
+                    Asia <span class="text-[8px] text-emerald-400 ml-0.5">▼</span>
                 </button>
-                <div class="absolute left-0 top-full w-64 bg-stone-900 border border-stone-700 border-t-4 border-t-emerald-500 shadow-2xl opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 transform translate-y-1 group-hover:translate-y-0 z-50 rounded-b-xl">
-                    <div class="p-2 grid gap-1">
-                        <a href="/categories/asia-adventures" class="block px-4 py-3 hover:bg-stone-800 rounded-lg transition group/item">
-                            <span class="block font-bold text-sm text-white mb-0.5">Himalaya & Nepal</span>
-                            <span class="text-[10px] text-gray-500 block">Everest, Annapurna, K2</span>
+                <div class="absolute left-0 top-full w-72 bg-stone-900 border border-stone-700 border-t-4 border-t-emerald-500 shadow-2xl opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 transform translate-y-1 group-hover:translate-y-0 z-50 rounded-b-xl">
+                    <div class="p-3 grid gap-1">
+                        <a href="/categories/asia-adventures" class="flex items-start gap-3 px-3 py-3 text-xs text-gray-300 hover:text-white hover:bg-stone-800 rounded-lg transition group/item">
+                            <!-- Icon Removed -->
+                            <div><span class="block font-black text-white">Himalaya & Nepal</span><span class="text-[10px] text-gray-500">Everest, Annapurna, K2</span></div>
                         </a>
-                        <a href="/categories/mountain-expeditions" class="block px-4 py-3 hover:bg-stone-800 rounded-lg transition">
-                            <span class="block font-bold text-sm text-white mb-0.5">Indonesia Adventure</span>
-                            <span class="text-[10px] text-gray-500 block">Rinjani, Bromo, Komodo</span>
+                        <a href="/categories/mountain-expeditions" class="flex items-start gap-3 px-3 py-3 text-xs text-gray-300 hover:text-white hover:bg-stone-800 rounded-lg transition">
+                            <!-- Icon Removed -->
+                            <div><span class="block font-black text-white">Indonesia Adventure</span><span class="text-[10px] text-gray-500">Rinjani, Bromo, Komodo, Raja Ampat</span></div>
                         </a>
-                        <a href="/categories/tropical-jungles" class="block px-4 py-3 hover:bg-stone-800 rounded-lg transition">
-                            <span class="block font-bold text-sm text-white mb-0.5">Southeast Asia</span>
-                            <span class="text-[10px] text-gray-500 block">Vietnam, Thailand, Borneo</span>
+                        <a href="/categories/tropical-jungles" class="flex items-start gap-3 px-3 py-3 text-xs text-gray-300 hover:text-white hover:bg-stone-800 rounded-lg transition">
+                            <!-- Icon Removed -->
+                            <div><span class="block font-black text-white">Southeast Asia</span><span class="text-[10px] text-gray-500">Vietnam, Thailand, Malaysia, Borneo</span></div>
                         </a>
-                        <a href="/categories/asia-adventures" class="block px-4 py-3 hover:bg-stone-800 rounded-lg transition">
-                            <span class="block font-bold text-sm text-white mb-0.5">Japan & East Asia</span>
-                            <span class="text-[10px] text-gray-500 block">Fuji, Japan Alps, Bhutan</span>
+                        <a href="/categories/asia-adventures" class="flex items-start gap-3 px-3 py-3 text-xs text-gray-300 hover:text-white hover:bg-stone-800 rounded-lg transition">
+                            <!-- Icon Removed -->
+                            <div><span class="block font-black text-white">Japan & East Asia</span><span class="text-[10px] text-gray-500">Fuji, Japan Alps, Bhutan</span></div>
                         </a>
                     </div>
                 </div>
@@ -70,21 +73,22 @@
             <!-- EUROPE -->
             <div class="relative group py-5">
                 <button class="flex items-center gap-1 px-3 py-2 text-[11px] font-black text-gray-300 group-hover:text-white uppercase tracking-widest cursor-pointer focus:outline-none transition hover:bg-stone-800 rounded">
-                    Europe
+                    <!-- Icon Removed -->
+                    Europe <span class="text-[8px] text-emerald-400 ml-0.5">▼</span>
                 </button>
-                <div class="absolute left-0 top-full w-64 bg-stone-900 border border-stone-700 border-t-4 border-t-emerald-500 shadow-2xl opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 transform translate-y-1 group-hover:translate-y-0 z-50 rounded-b-xl">
-                    <div class="p-2 grid gap-1">
-                        <a href="/categories/europe-trekking" class="block px-4 py-3 hover:bg-stone-800 rounded-lg transition">
-                            <span class="block font-bold text-sm text-white mb-0.5">Alps & Dolomites</span>
-                            <span class="text-[10px] text-gray-500 block">Mont Blanc, Via Ferrata</span>
+                <div class="absolute left-0 top-full w-72 bg-stone-900 border border-stone-700 border-t-4 border-t-emerald-500 shadow-2xl opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 transform translate-y-1 group-hover:translate-y-0 z-50 rounded-b-xl">
+                    <div class="p-3 grid gap-1">
+                        <a href="/categories/europe-trekking" class="flex items-start gap-3 px-3 py-3 text-xs text-gray-300 hover:text-white hover:bg-stone-800 rounded-lg transition">
+                            <!-- Icon Removed -->
+                            <div><span class="block font-black text-white">Alps & Dolomites</span><span class="text-[10px] text-gray-500">Mont Blanc, Via Ferrata, Swiss Alps</span></div>
                         </a>
-                        <a href="/categories/europe-trekking" class="block px-4 py-3 hover:bg-stone-800 rounded-lg transition">
-                            <span class="block font-bold text-sm text-white mb-0.5">Scandinavia Wild</span>
-                            <span class="text-[10px] text-gray-500 block">Norway Fjords, Iceland</span>
+                        <a href="/categories/europe-trekking" class="flex items-start gap-3 px-3 py-3 text-xs text-gray-300 hover:text-white hover:bg-stone-800 rounded-lg transition">
+                            <!-- Icon Removed -->
+                            <div><span class="block font-black text-white">Scandinavia Wild</span><span class="text-[10px] text-gray-500">Norway Fjords, Iceland, Faroe</span></div>
                         </a>
-                        <a href="/categories/europe-trekking" class="block px-4 py-3 hover:bg-stone-800 rounded-lg transition">
-                            <span class="block font-bold text-sm text-white mb-0.5">Pilgrimage Trails</span>
-                            <span class="text-[10px] text-gray-500 block">Camino de Santiago, GR20</span>
+                        <a href="/categories/europe-trekking" class="flex items-start gap-3 px-3 py-3 text-xs text-gray-300 hover:text-white hover:bg-stone-800 rounded-lg transition">
+                            <!-- Icon Removed -->
+                            <div><span class="block font-black text-white">Pilgrimage Trails</span><span class="text-[10px] text-gray-500">Camino de Santiago, GR20</span></div>
                         </a>
                     </div>
                 </div>
@@ -93,21 +97,22 @@
             <!-- AMERICAS -->
             <div class="relative group py-5">
                 <button class="flex items-center gap-1 px-3 py-2 text-[11px] font-black text-gray-300 group-hover:text-white uppercase tracking-widest cursor-pointer focus:outline-none transition hover:bg-stone-800 rounded">
-                    Americas
+                    <!-- Icon Removed -->
+                    Americas <span class="text-[8px] text-emerald-400 ml-0.5">▼</span>
                 </button>
-                <div class="absolute left-0 top-full w-64 bg-stone-900 border border-stone-700 border-t-4 border-t-emerald-500 shadow-2xl opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 transform translate-y-1 group-hover:translate-y-0 z-50 rounded-b-xl">
-                    <div class="p-2 grid gap-1">
-                        <a href="/categories/americas-exploration" class="block px-4 py-3 hover:bg-stone-800 rounded-lg transition">
-                            <span class="block font-bold text-sm text-white mb-0.5">Patagonia</span>
-                            <span class="text-[10px] text-gray-500 block">Torres del Paine, Fitz Roy</span>
+                <div class="absolute left-0 top-full w-72 bg-stone-900 border border-stone-700 border-t-4 border-t-emerald-500 shadow-2xl opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 transform translate-y-1 group-hover:translate-y-0 z-50 rounded-b-xl">
+                    <div class="p-3 grid gap-1">
+                        <a href="/categories/americas-exploration" class="flex items-start gap-3 px-3 py-3 text-xs text-gray-300 hover:text-white hover:bg-stone-800 rounded-lg transition">
+                            <!-- Icon Removed -->
+                            <div><span class="block font-black text-white">Patagonia</span><span class="text-[10px] text-gray-500">Torres del Paine, Fitz Roy, Inca Trail</span></div>
                         </a>
-                        <a href="/categories/americas-exploration" class="block px-4 py-3 hover:bg-stone-800 rounded-lg transition">
-                            <span class="block font-bold text-sm text-white mb-0.5">Amazon & Jungle</span>
-                            <span class="text-[10px] text-gray-500 block">Brazil, Ecuador, Peru</span>
+                        <a href="/categories/americas-exploration" class="flex items-start gap-3 px-3 py-3 text-xs text-gray-300 hover:text-white hover:bg-stone-800 rounded-lg transition">
+                            <!-- Icon Removed -->
+                            <div><span class="block font-black text-white">Amazon & Jungle</span><span class="text-[10px] text-gray-500">Brazil, Ecuador, Venezuela</span></div>
                         </a>
-                        <a href="/categories/americas-exploration" class="block px-4 py-3 hover:bg-stone-800 rounded-lg transition">
-                            <span class="block font-bold text-sm text-white mb-0.5">North America</span>
-                            <span class="text-[10px] text-gray-500 block">Yosemite, Grand Canyon</span>
+                        <a href="/categories/americas-exploration" class="flex items-start gap-3 px-3 py-3 text-xs text-gray-300 hover:text-white hover:bg-stone-800 rounded-lg transition">
+                            <!-- Icon Removed -->
+                            <div><span class="block font-black text-white">North America</span><span class="text-[10px] text-gray-500">Yosemite, Grand Canyon, Banff</span></div>
                         </a>
                     </div>
                 </div>
@@ -116,36 +121,38 @@
             <!-- AFRICA & MORE -->
             <div class="relative group py-5">
                 <button class="flex items-center gap-1 px-3 py-2 text-[11px] font-black text-gray-300 group-hover:text-white uppercase tracking-widest cursor-pointer focus:outline-none transition hover:bg-stone-800 rounded">
-                    Africa+
+                    <!-- Icon Removed -->
+                    Africa+ <span class="text-[8px] text-emerald-400 ml-0.5">▼</span>
                 </button>
-                <div class="absolute left-0 top-full w-64 bg-stone-900 border border-stone-700 border-t-4 border-t-emerald-500 shadow-2xl opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 transform translate-y-1 group-hover:translate-y-0 z-50 rounded-b-xl">
-                    <div class="p-2 grid gap-1">
-                        <a href="/categories/africa-expeditions" class="block px-4 py-3 hover:bg-stone-800 rounded-lg transition">
-                            <span class="block font-bold text-sm text-white mb-0.5">East Africa</span>
-                            <span class="text-[10px] text-gray-500 block">Kilimanjaro, Serengeti</span>
+                <div class="absolute left-0 top-full w-72 bg-stone-900 border border-stone-700 border-t-4 border-t-emerald-500 shadow-2xl opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 transform translate-y-1 group-hover:translate-y-0 z-50 rounded-b-xl">
+                    <div class="p-3 grid gap-1">
+                        <a href="/categories/africa-expeditions" class="flex items-start gap-3 px-3 py-3 text-xs text-gray-300 hover:text-white hover:bg-stone-800 rounded-lg transition">
+                            <!-- Icon Removed -->
+                            <div><span class="block font-black text-white">East Africa</span><span class="text-[10px] text-gray-500">Kilimanjaro, Serengeti, Gorilla Trek</span></div>
                         </a>
-                        <a href="/categories/africa-expeditions" class="block px-4 py-3 hover:bg-stone-800 rounded-lg transition">
-                            <span class="block font-bold text-sm text-white mb-0.5">Sahara & North</span>
-                            <span class="text-[10px] text-gray-500 block">Morocco Atlas, Desert</span>
+                        <a href="/categories/africa-expeditions" class="flex items-start gap-3 px-3 py-3 text-xs text-gray-300 hover:text-white hover:bg-stone-800 rounded-lg transition">
+                            <!-- Icon Removed -->
+                            <div><span class="block font-black text-white">Sahara & North Africa</span><span class="text-[10px] text-gray-500">Morocco Atlas, Erg Chebbi Desert</span></div>
                         </a>
-                        <a href="/categories/oceania-wilderness" class="block px-4 py-3 hover:bg-stone-800 rounded-lg transition">
-                            <span class="block font-bold text-sm text-white mb-0.5">Oceania & Pacific</span>
-                            <span class="text-[10px] text-gray-500 block">NZ Milford, Outback</span>
+                        <a href="/categories/oceania-wilderness" class="flex items-start gap-3 px-3 py-3 text-xs text-gray-300 hover:text-white hover:bg-stone-800 rounded-lg transition">
+                            <!-- Icon Removed -->
+                            <div><span class="block font-black text-white">Oceania & Pacific</span><span class="text-[10px] text-gray-500">NZ Milford Track, GBR, Outback</span></div>
                         </a>
-                        <a href="/categories/middle-east-discovery" class="block px-4 py-3 hover:bg-stone-800 rounded-lg transition">
-                            <span class="block font-bold text-sm text-white mb-0.5">Middle East</span>
-                            <span class="text-[10px] text-gray-500 block">Petra, Wadi Rum, Oman</span>
+                        <a href="/categories/middle-east-discovery" class="flex items-start gap-3 px-3 py-3 text-xs text-gray-300 hover:text-white hover:bg-stone-800 rounded-lg transition">
+                            <!-- Icon Removed -->
+                            <div><span class="block font-black text-white">Middle East</span><span class="text-[10px] text-gray-500">Petra, Wadi Rum, Oman Mountains</span></div>
                         </a>
                     </div>
                 </div>
             </div>
 
+            <!-- Icon Removed -->
             <a href="/categories/travel-logistics" class="px-3 py-2 text-[11px] font-black text-gray-300 uppercase tracking-widest hover:text-emerald-400 transition rounded hover:bg-stone-800">Logistics</a>
         </nav>
 
         <!-- Right Side Actions -->
         <div class="flex items-center gap-3">
-            <!-- Mobile Menu Button (Icon kept purely for functional UI purpose) -->
+            <!-- Mobile Menu Button -->
             <button id="mobile-menu-btn" aria-label="Open Menu" class="lg:hidden text-white focus:outline-none hover:text-emerald-400 transition p-2 rounded border border-stone-700 hover:border-emerald-500">
                 <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"/></svg>
             </button>
@@ -155,6 +162,7 @@
     <!-- Mobile Menu -->
     <div id="mobile-menu" class="hidden lg:hidden bg-stone-900 border-t border-stone-800 w-full z-50 shadow-xl">
         <nav class="flex flex-col p-4 space-y-1 max-h-[80vh] overflow-y-auto">
+            <!-- Icons removed, text translated -->
             <a href="/" class="flex items-center gap-2 px-4 py-3 text-xs font-black text-white uppercase bg-stone-800 rounded-lg border-l-4 border-emerald-500">Home</a>
             
             <div class="px-4 pt-5 pb-2 text-[10px] font-black text-emerald-500 uppercase tracking-widest">Asia</div>
