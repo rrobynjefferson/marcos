@@ -1,0 +1,11 @@
+name = "neo-news"
+license = "MIT"
+licenselink = "https://github.com/example/neo-news/blob/master/LICENSE"
+description = "Adventure Travel Blog Theme"
+homepage = "https://marcos.biz.id/"
+tags = ["blog", "adventure", "travel"]
+features = ["tailwindcss", "alpine.js"]
+min_version = "0.110.0"
+
+[author]
+  name = "WorldAdventure Team"

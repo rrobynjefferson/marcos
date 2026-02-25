@@ -1,0 +1,8 @@
+# Cloudflare Pages Redirects
+# Format: [from] [to] [status]
+
+# SPA fallback (jika dibutuhkan)
+# /* /index.html 200
+
+# Redirect trailing slash agar konsisten
+# /articles/* /articles/:splat/ 301

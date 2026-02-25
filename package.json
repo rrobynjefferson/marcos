@@ -1,10 +1,11 @@
 {
-  "name": "project-neo-news",
+  "name": "adventure-guide",
   "version": "1.0.0",
-  "description": "Autonomous US News Portal",
+  "description": "WorldAdventure.Guide — Global Adventure Travel",
   "scripts": {
     "build:css": "tailwindcss -i ./assets/css/input.css -o ./static/css/style.css --minify",
-    "build": "npm run build:css && hugo --gc --minify"
+    "build": "npm run build:css && hugo --gc --minify",
+    "build:cf": "npm run build:css && hugo --gc --minify --baseURL $CF_PAGES_URL"
   },
   "dependencies": {
     "alpinejs": "^3.13.3",
