@@ -5,6 +5,7 @@ canonifyURLs: true
 
 permalinks:
   articles: "/:slug/"
+  posts: "/:slug/"
 
 markup:
   goldmark:
