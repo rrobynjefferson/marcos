@@ -1,0 +1,48 @@
+baseURL: "https://marcos.biz.id/"
+languageCode: "en-us"
+title: "WorldAdventure.Guide"
+canonifyURLs: true
+
+permalinks:
+  articles: "/:slug/"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - Sitemap
+  page:
+    - HTML
+    - Sitemap
+  section:
+    - HTML
+    - RSS
+    - Sitemap
+  taxonomy:
+    - HTML
+    - RSS
+  term:
+    - HTML
+    - RSS
+
+services:
+  rss:
+    limit: 50
+
+taxonomies:
+  category: "categories"
+  tag: "tags"
+
+params:
+  description: "Panduan Adventure Dunia — Destinasi, Rute Perjalanan, Logistik, Itinerary & Tips dari Seluruh Penjuru Bumi."
+  defaultImage: "/images/default-adventure.webp"
+  author:
+    name: "WorldAdventure Team"
+    email: "contact@marcos.biz.id"
+  tagline: "Explore Every Corner of Earth"
+  siteLang: "id"

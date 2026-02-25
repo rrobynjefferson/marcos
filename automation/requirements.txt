@@ -1,0 +1,10 @@
+requests
+groq
+Pillow
+pytz
+python-slugify
+google-api-python-client
+oauth2client
+pytrends
+pandas
+lxml
