@@ -15,15 +15,15 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0 
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.12' 
+          python-version: '3.12'
 
       - name: Install Dependencies
-        # Menambahkan error handling jika file requirements tidak ada
         run: |
           if [ -f automation/requirements.txt ]; then
             pip install -r automation/requirements.txt
@@ -32,19 +32,33 @@ jobs:
             exit 1
           fi
 
+      - name: Ensure Data Directory Exists
+        run: |
+          mkdir -p automation/data
+          # Buat link_memory.json kosong jika belum ada
+          if [ ! -f automation/data/link_memory.json ]; then
+            echo "{}" > automation/data/link_memory.json
+            echo "📁 Created fresh link_memory.json"
+          else
+            echo "📁 link_memory.json exists ($(cat automation/data/link_memory.json | python3 -c 'import sys,json; d=json.load(sys.stdin); print(len(d))' 2>/dev/null || echo 0) entries)"
+          fi
+
       - name: Run Content Engine
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
-          GOOGLE_INDEXING_KEY: ${{ secrets.GOOGLE_INDEXING_KEY }} 
-          # Pastikan INDEXNOW_KEY sesuai dengan file txt di folder static/public
+          GOOGLE_INDEXING_KEY: ${{ secrets.GOOGLE_INDEXING_KEY }}
           INDEXNOW_KEY: "e74819b68a0f40e98f6ec3dc24f610f0"
         run: python automation/main.py
 
-      # DEBUGGING: Cek apakah file benar-benar tergenerate sebelum commit
       - name: Verify Content Generation
         run: |
-          echo "Checking content folder..."
-          ls -la content/articles/ | head -n 5
+          echo "=== Content Articles ==="
+          if [ -d content/articles ]; then
+            ls -la content/articles/ | tail -n 5
+            echo "Total articles: $(ls content/articles/*.md 2>/dev/null | wc -l)"
+          else
+            echo "No articles folder yet."
+          fi
 
       - name: Commit and Push
         run: |
@@ -53,19 +67,16 @@ jobs:
           
           git add .
           
-          # Cek status sebelum commit
           if git diff --staged --quiet; then
-            echo "No changes to commit. Bot sleeping."
+            echo "✅ No changes to commit. Bot sleeping."
           else
-            echo "Changes detected. Committing..."
+            echo "📝 Changes detected. Committing..."
+            git commit -m "🌍 New Adventure Guide — $(date +'%Y-%m-%d %H:%M')"
             
-            # --- PERBAIKAN UTAMA DI SINI ---
-            # Hapus '[skip ci]' agar Cloudflare Pages mendeteksi update & melakukan build ulang
-            git commit -m "⚽ New Sport Update"
-            
-            # Pull rebase untuk mencegah konflik jika ada update manual
+            # Pull rebase untuk mencegah konflik
             git pull --rebase origin main
             
-            # Push ke repository
+            # Push ke repository (Cloudflare Pages akan auto-deploy)
             git push origin main
+            echo "🚀 Pushed to GitHub — Cloudflare Pages will auto-deploy"
           fi
