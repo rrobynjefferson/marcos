@@ -1,8 +1,7 @@
 [build]
-  command = "npm install && npm run build"
+  # Netlify akan menginstall npm, lalu build Hugo dengan URL dinamis
+  command = "npm install && hugo --gc --minify --buildFuture -b $URL"
   publish = "public"
 
 [build.environment]
-  HUGO_VERSION = "0.124.1"
-  NODE_VERSION = "20"
-  NPM_FLAGS = "--legacy-peer-deps"
+  HUGO_VERSION = "0.120.0"
