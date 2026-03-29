@@ -1,15 +1,15 @@
 ---
-title: "Yosemite Half Dome Climb California"
-date: 2026-03-14T18:20:29+07:00
-author: "Sarah Wilds (Adventure Travel Journalist & Logistics Expert)"
-categories: ["Asia Adventures"]
+title: "Yosemite Half Dome Climb"
+date: 2026-03-29T06:50:34+07:00
+author: "Dr. Forest Green (Eco-Tourism Guide & Conservationist)"
+categories: ["River & Kayaking"]
 tags: ["adventure", "trekking", "Yosemite", "Half Dome", "California", "travel-guide"]
 featured_image: "/images/yosemite-half-dome-climb-california.webp"
 description: "Complete travel guide including how to get there, itinerary, costs, and tips for Yosemite Half Dome Climb California."
 slug: "yosemite-half-dome-climb-california"
 url: "/articles/yosemite-half-dome-climb-california/"
 draft: false
-weight: 1
+weight: 8
 continent: "North America"
 difficulty: "Hard/Extreme"
 duration: "7-10 Days"
@@ -18,18 +18,20 @@ best_season: "June to October"
 
 **📋 Table of Contents**
 
-- [🌄 Why Yosemite Half Dome Climb California Complete Travel Guide?](#why-yosemite-half-dome-climb-california-complete-travel-guide)
-- [✈️ How to Get to Yosemite Half Dome Climb California Complete Travel Guide](#how-to-get-to-yosemite-half-dome-climb-california-complete-travel-guide)
+- [🌄 Why Yosemite Half Dome Climb California Complete Travel Guide? (Key Attractions)](#why-yosemite-half-dome-climb-california-complete-travel-guide-key-attractions)
+- [✈️ How to Get to Yosemite Half Dome Climb California Complete Travel Guide (Complete Logistics)](#how-to-get-to-yosemite-half-dome-climb-california-complete-travel-guide-complete-logistics)
   - [International Arrivals (Main Hubs)](#international-arrivals-main-hubs)
   - [From Gateway City to Location (Last Mile)](#from-gateway-city-to-location-last-mile)
   - [Overland/Backpacker Route Options](#overland-backpacker-route-options)
 - [🗓️ Best Time to Visit](#best-time-to-visit)
 - [🥾 Adventure Activities & Itinerary](#adventure-activities-itinerary)
   - [Day 1 — Arrival in Yosemite Valley](#day-1-arrival-in-yosemite-valley)
-  - [Day 2 — Mist Trail to Vernal Falls](#day-2-mist-trail-to-vernal-falls)
-  - [Day 3 — John Muir Trail to Little Yosemite Valley](#day-3-john-muir-trail-to-little-yosemite-valley)
-  - [Day 4 — Half Dome Climb](#day-4-half-dome-climb)
-  - [Day 5 — Return to Yosemite Valley](#day-5-return-to-yosemite-valley)
+  - [Day 2 — Hike to Vernal Falls](#day-2-hike-to-vernal-falls)
+  - [Day 3 — Hike to Glacier Point](#day-3-hike-to-glacier-point)
+  - [Day 4 — Hike to Half Dome](#day-4-hike-to-half-dome)
+  - [Day 5 — Rest Day](#day-5-rest-day)
+  - [Day 6 — Hike to Mirror Lake](#day-6-hike-to-mirror-lake)
+  - [Day 7 — Departure](#day-7-departure)
 - [🏕️ Accommodation & Basecamps](#accommodation-basecamps)
 - [💰 Budget & Costs](#budget-costs)
 - [🎒 Essential Gear List (Packing)](#essential-gear-list-packing)
@@ -39,210 +41,259 @@ best_season: "June to October"
 
 ---
 
-## 🌄 Why Yosemite Half Dome Climb California Complete Travel Guide?
-Yosemite National Park, located in California's Sierra Nevada mountains, is a must-visit destination for adventure travelers. The park is known for its stunning granite cliffs, waterfalls, and giant sequoia groves. The Half Dome climb, in particular, is a unique and challenging experience that draws visitors from around the world. The climb offers breathtaking views of the valley floor and the surrounding mountains, making it a truly unforgettable experience.
+## 🌄 Why Yosemite Half Dome Climb California Complete Travel Guide? (Key Attractions)
+Yosemite National Park, located in the heart of California, is one of the most spectacular destinations in the United States. The park is known for its granite cliffs, waterfalls, giant sequoia groves, and diverse wildlife. The Half Dome climb, in particular, is a major attraction for adventure seekers and nature lovers. This 8,800-foot granite dome is a challenging hike that offers breathtaking views of Vernal and Nevada Falls, Liberty Cap, and the High Sierra.
 
-The Half Dome climb is a 17-mile round-trip hike with an elevation gain of over 4,800 feet. The climb is considered strenuous and requires a good level of physical fitness. The hike takes you through scenic trails, including the Mist Trail and the John Muir Trail, and offers stunning views of Vernal Falls, Nevada Falls, and the Half Dome summit.
+The unique features of Yosemite Half Dome include:
+- **Granite Cliffs**: The park is home to some of the most impressive granite cliffs in the world, including El Capitan and Half Dome.
+- **Waterfalls**: Yosemite is home to numerous waterfalls, including Yosemite Falls, Bridalveil Fall, and Vernal Fall.
+- **Giant Sequoia Groves**: The park is home to some of the largest and oldest trees in the world, including the Mariposa Grove and Tuolumne Grove.
+- **Diverse Wildlife**: Yosemite is home to a wide range of wildlife, including black bears, mule deer, and peregrine falcons.
+
+Experiences you cannot get anywhere else include:
+- **Sunrise from the Summit of Half Dome**: Watching the sunrise from the summit of Half Dome is a once-in-a-lifetime experience.
+- **Hiking to Yosemite Valley**: Hiking to Yosemite Valley from the high country is a unique experience that offers breathtaking views of the valley floor.
+- **Exploring the Giant Sequoia Groves**: Walking through the giant sequoia groves is a humbling experience that allows you to connect with nature.
+
+Visual/sensory highlights include:
+- **Landscape Colors**: The park's landscape is known for its vibrant colors, including the green of the trees, the blue of the sky, and the gray of the granite cliffs.
+- **Sounds**: The park is home to a wide range of sounds, including the sound of waterfalls, birds chirping, and the wind rustling through the trees.
+- **Smells**: The park is known for its unique smells, including the scent of pine trees, wildflowers, and earth.
 
 The best reasons to visit Yosemite Half Dome include:
-* Spiritual: The park's natural beauty and tranquility make it an ideal destination for spiritual growth and reflection.
-* Physical challenge: The Half Dome climb is a challenging hike that requires physical endurance and mental toughness.
-* Nature: The park's stunning landscapes, including granite cliffs, waterfalls, and giant sequoia groves, make it a nature lover's paradise.
-* Culture: The park has a rich cultural history, with evidence of human presence dating back over 3,000 years.
-
-Visual and sensory highlights of the park include:
-* The stunning granite cliffs and rock formations
-* The scenic valleys and meadows
-* The giant sequoia groves
-* The waterfalls, including Vernal Falls and Nevada Falls
-* The wildflowers and wildlife, including bears, deer, and eagles
-
-## ✈️ How to Get to Yosemite Half Dome Climb California Complete Travel Guide
-Getting to Yosemite National Park requires careful planning and preparation. Here are the steps to follow:
+- **Spiritual**: The park's natural beauty and tranquility make it a spiritual destination for many visitors.
+- **Physical Challenge**: The Half Dome climb is a challenging hike that offers a sense of accomplishment and pride.
+- **Nature**: The park's diverse wildlife, unique rock formations, and giant sequoia groves make it a nature lover's paradise.
+- **Culture**: The park has a rich cultural history, including the history of the Native American tribes that once inhabited the area.
 
 
 
 > **🌏 Related Destinations in WorldAdventure.Guide:**
 > - [Yosemite Half Dome Climb](/articles/yosemite-half-dome-climb-california/)
-> - [Baja California Whale Watching](/articles/baja-california-whale-watching-mexico/)
+> - [Yosemite Half Dome Climb California](/articles/yosemite-half-dome-climb-california/)
+> - [Cotopaxi Volcano Climb Ecuador](/articles/cotopaxi-volcano-climb-ecuador/)
 
 
+
+## ✈️ How to Get to Yosemite Half Dome Climb California Complete Travel Guide (Complete Logistics)
 
 ### International Arrivals (Main Hubs)
-The nearest international airport to Yosemite National Park is the San Francisco International Airport (SFO). Other nearby airports include the Sacramento International Airport (SMF) and the Fresno Yosemite International Airport (FAT).
+The nearest international airport to Yosemite National Park is the **Fresno Yosemite International Airport (FAT)**. However, most visitors fly into **San Francisco International Airport (SFO)** or **Los Angeles International Airport (LAX)** and then take a domestic flight or drive to Yosemite.
 
-* Recommended airlines: United Airlines, American Airlines, Delta Air Lines
-* Estimated flight ticket price range: $500-$1,500 (depending on the time of year and departure city)
-* Best booking apps/websites: Expedia, Kayak, Skyscanner
+Recommended airlines and transit hubs include:
+- **United Airlines**: Offers flights from SFO to FAT
+- **American Airlines**: Offers flights from LAX to FAT
+- **Delta Air Lines**: Offers flights from SFO to FAT
+
+Estimated flight ticket price range:
+- **Low Season (October to May)**: $200-$500
+- **High Season (June to September)**: $500-$1,000
+
+Best booking apps/websites include:
+- **Expedia**: Offers discounts and package deals
+- **Kayak**: Allows you to compare prices and find the best deals
+- **Skyscanner**: Offers a wide range of flights and airlines to choose from
 
 ### From Gateway City to Location (Last Mile)
-From San Francisco International Airport, you can take a shuttle or rent a car to get to Yosemite National Park.
+The nearest local city with an airport is **Fresno**, which is located about 60 miles from Yosemite National Park. From Fresno, you can take a **Yosemite Area Regional Transportation (YARTS)** bus to Yosemite Valley. The bus ride takes about 2 hours and costs $15-$30.
 
-* Nearest local city with an airport/train station: Merced, California
-* Ground transport: Yosemite Area Regional Transportation System (YARTS) bus, Amtrak train, or private car
-* REALISTIC travel duration: 4-6 hours (depending on traffic and mode of transport)
-* Important transit points and checkpoints: Merced, California; Mariposa, California; Yosemite Valley
+Ground transport options include:
+- **YARTS Bus**: Offers daily bus service from Fresno to Yosemite Valley
+- **Amtrak Train**: Offers train service from Fresno to Merced, where you can transfer to a YARTS bus to Yosemite Valley
+- **Renting a Car**: Offers flexibility and convenience, but can be expensive
 
-From Merced, you can take the YARTS bus to Yosemite Valley. The bus ride takes around 2 hours and costs $15-$20. You can also take the Amtrak train from Merced to Yosemite Valley, but this option is less frequent and more expensive.
+REALISTIC travel duration:
+- **From San Francisco**: 4-5 hours by car, 6-7 hours by bus
+- **From Los Angeles**: 6-7 hours by car, 8-9 hours by bus
 
-If you prefer to drive, you can rent a car from San Francisco International Airport and drive to Yosemite National Park. The drive takes around 4-6 hours, depending on traffic. Be sure to check the road conditions and weather forecast before embarking on your journey.
+Important transit points and checkpoints include:
+- **Fresno**: The nearest city with an airport and bus station
+- **Merced**: The nearest city with a train station
+- **Yosemite Valley**: The main tourist area in Yosemite National Park
 
 ### Overland/Backpacker Route Options
-For budget travelers, there are several overland options to get to Yosemite National Park.
+For budget travelers, there are several overland route options available. You can take a **Greyhound Bus** from San Francisco or Los Angeles to Fresno, and then transfer to a YARTS bus to Yosemite Valley. Alternatively, you can take a **Megabus** from San Francisco or Los Angeles to Merced, and then transfer to a YARTS bus to Yosemite Valley.
 
-* Greyhound bus: You can take the Greyhound bus from San Francisco to Merced, and then transfer to the YARTS bus to Yosemite Valley.
-* Amtrak train: You can take the Amtrak train from San Francisco to Merced, and then transfer to the YARTS bus to Yosemite Valley.
-* Hitchhiking: You can hitchhike from San Francisco to Yosemite Valley, but be sure to follow safety guidelines and regulations.
+Border crossings are not necessary, as Yosemite National Park is located within the United States.
 
 ## 🗓️ Best Time to Visit
-The best time to visit Yosemite National Park is from June to October, when the weather is warm and dry. The peak season is from July to August, when the park is busiest.
+The best time to visit Yosemite Half Dome is from **June to October**, when the weather is warm and dry. The peak season is from **July to August**, when the park is busiest and the weather is hottest.
 
-* Peak season: July to August
-* Off-season: November to May
-* Weather conditions per season:
-	+ Spring (March to May): Mild temperatures, wildflowers in bloom
-	+ Summer (June to August): Warm temperatures, dry conditions
-	+ Fall (September to November): Cool temperatures, foliage in bloom
-	+ Winter (December to February): Cold temperatures, snow and ice
+Weather conditions per season:
+- **Spring (March to May)**: Cool and wet, with occasional snowstorms
+- **Summer (June to August)**: Warm and dry, with occasional thunderstorms
+- **Fall (September to November)**: Cool and dry, with occasional rainstorms
+- **Winter (December to February)**: Cold and snowy, with occasional blizzards
 
 Local festivals and events worth attending include:
-* Yosemite Facelift: A annual event to clean up the park and promote sustainability
-* Yosemite Music Festival: A summer music festival featuring local and national artists
-* Yosemite Renaissance Faire: A medieval-themed festival with music, food, and crafts
+- **Yosemite Facelift**: A annual event that takes place in September, where volunteers come together to clean up the park and promote environmental awareness
+- **Yosemite Jazz Festival**: A annual event that takes place in July, featuring live jazz music and food vendors
+- **Yosemite Winter Festival**: A annual event that takes place in February, featuring snowshoeing, cross-country skiing, and ice skating
 
 WARNING: Bad seasons to avoid include:
-* Winter (December to February): The park is closed due to snow and ice
-* Spring (March to May): The park is still closed due to snow and ice, and the trails are muddy and slippery
+- **Winter (December to February)**: The park is closed due to heavy snow and ice
+- **Spring (March to May)**: The park is still closed due to snow and mud
 
 ## 🥾 Adventure Activities & Itinerary
-Here is a realistic day-by-day itinerary for the Half Dome climb:
+Here is a realistic day-by-day itinerary for a 7-day trip to Yosemite Half Dome:
 
 ### Day 1 — Arrival in Yosemite Valley
-* Arrive in Yosemite Valley and check into your accommodation
-* Explore the valley floor and visit the Yosemite Valley Visitor Center
-* Hike to the base of Vernal Falls and enjoy the scenic views
+- Arrive in Yosemite Valley and check into your accommodation
+- Spend the day exploring the valley floor, including Yosemite Falls, Bridalveil Fall, and El Capitan
+- Distance: 5 miles, Elevation: 4,000 feet
 
-### Day 2 — Mist Trail to Vernal Falls
-* Hike the Mist Trail to Vernal Falls (7 miles round-trip, 2,000 feet elevation gain)
-* Enjoy the scenic views of the waterfall and the valley floor
-* Return to Yosemite Valley and rest for the night
+### Day 2 — Hike to Vernal Falls
+- Hike to Vernal Falls, a 3-mile round-trip hike with a 1,000-foot elevation gain
+- Spend the day swimming and relaxing at the falls
+- Distance: 3 miles, Elevation: 1,000 feet
 
-### Day 3 — John Muir Trail to Little Yosemite Valley
-* Hike the John Muir Trail to Little Yosemite Valley (8 miles round-trip, 2,000 feet elevation gain)
-* Enjoy the scenic views of the valley and the surrounding mountains
-* Set up camp in Little Yosemite Valley and prepare for the next day's climb
+### Day 3 — Hike to Glacier Point
+- Hike to Glacier Point, a 10-mile round-trip hike with a 2,000-foot elevation gain
+- Spend the day taking in the views of Yosemite Valley and the High Sierra
+- Distance: 10 miles, Elevation: 2,000 feet
 
-### Day 4 — Half Dome Climb
-* Hike to the base of Half Dome and begin the climb (17 miles round-trip, 4,800 feet elevation gain)
-* Use the cables and ladders to ascend the steep rock face
-* Enjoy the breathtaking views from the summit and take photos
-* Return to Little Yosemite Valley and rest for the night
+### Day 4 — Hike to Half Dome
+- Hike to Half Dome, a 17-mile round-trip hike with a 4,800-foot elevation gain
+- Spend the day climbing the dome and taking in the views
+- Distance: 17 miles, Elevation: 4,800 feet
 
-### Day 5 — Return to Yosemite Valley
-* Hike back to Yosemite Valley via the John Muir Trail (8 miles round-trip, 2,000 feet elevation loss)
-* Enjoy the scenic views of the valley and the surrounding mountains
-* Return to your accommodation and rest for the night
+### Day 5 — Rest Day
+- Spend the day resting and recovering from the previous day's hike
+- Take a leisurely walk around the valley floor or visit the Yosemite Museum
+
+### Day 6 — Hike to Mirror Lake
+- Hike to Mirror Lake, a 4-mile round-trip hike with a 100-foot elevation gain
+- Spend the day swimming and relaxing at the lake
+- Distance: 4 miles, Elevation: 100 feet
+
+### Day 7 — Departure
+- Spend the morning shopping for souvenirs or visiting any last-minute attractions
+- Depart for the airport or your next destination
+
+Types of activities to cover include:
+- **Trekking/Hiking**: The park offers a wide range of hiking trails, from easy day hikes to multi-day backpacking trips
+- **Climbing**: The park is home to some of the most iconic climbing routes in the world, including the Nose on El Capitan
+- **Diving/Snorkeling**: The park offers several lakes and rivers for swimming and snorkeling
+- **Safari**: The park is home to a wide range of wildlife, including black bears, mule deer, and peregrine falcons
+- **Kayaking/Rafting**: The park offers several lakes and rivers for kayaking and rafting
+- **Cultural visits**: The park has a rich cultural history, including the history of the Native American tribes that once inhabited the area
 
 ## 🏕️ Accommodation & Basecamps
-There are several accommodation options in Yosemite National Park, ranging from budget-friendly camping to luxury lodges.
+The park offers a wide range of accommodation options, from budget-friendly camping and hostels to luxury lodges and resorts.
 
-* Budget option: Camping in Yosemite Valley or Little Yosemite Valley ($20-$30 per night)
-* Mid-range: Yosemite Valley Lodge or Big Trees Lodge ($150-$250 per night)
-* Premium: The Ahwahnee Hotel or Tenaya Lodge ($300-$500 per night)
-* Wild camping: Permitted in certain areas of the park, but requires a permit and follows specific regulations
+Budget option:
+- **Camping**: $10-$30 per night
+- **Hostels**: $30-$50 per night
+
+Mid-range:
+- **Guesthouses**: $100-$200 per night
+- **Lodges**: $150-$300 per night
+
+Premium:
+- **Eco-lodges**: $200-$500 per night
+- **Resorts**: $300-$1,000 per night
+
+Wild camping:
+- **Is it legal?**: No, wild camping is not allowed in Yosemite National Park
+- **Permit needed?**: Yes, a permit is required for all overnight camping in the park
 
 REAL accommodation names in the location include:
-* Yosemite Valley Lodge
-* Big Trees Lodge
-* The Ahwahnee Hotel
-* Tenaya Lodge
-* Curry Village
+- **Yosemite Valley Lodge**: A mid-range lodge located in the heart of Yosemite Valley
+- **The Ahwahnee**: A luxury hotel located in Yosemite Valley
+- **Half Dome Village**: A budget-friendly campground located in Yosemite Valley
 
 ## 💰 Budget & Costs
-Here is a detailed breakdown of the costs for a 7-10 day trip to Yosemite National Park:
-
-* Round-trip flights: $500-$1,500
-* Accommodation per night: $20-$500
-* Daily meals: $30-$60
-* Local transportation: $20-$50
-* Entry fees / permit fees: $35-$50
-* Guide fees: $100-$200 per day (optional)
-* Equipment rental: $20-$50 per day (optional)
-* TOTAL ESTIMATE for a 7-10 day trip: $2,000-$5,000
+Here is a detailed breakdown of the costs for a 7-day trip to Yosemite Half Dome:
+- **Round-trip flights**: $500-$1,000
+- **Accommodation per night**: $100-$300
+- **Daily meals**: $30-$50
+- **Local transportation**: $20-$50
+- **Entry fees / permit fees**: $30-$50
+- **Guide fees**: $100-$200
+- **Equipment rental**: $20-$50
+- **TOTAL ESTIMATE**: $1,500-$3,500
 
 ## 🎒 Essential Gear List (Packing)
-Here is a list of essential gear to pack for the Half Dome climb:
-
-* Clothing:
-	+ Hiking boots or sturdy shoes
-	+ Socks and underwear
-	+ Base layers and insulating layers
-	+ Waterproof jacket and pants
-* Footwear:
-	+ Hiking boots or sturdy shoes
-* Navigation tools:
-	+ Map and compass
-	+ GPS device or smartphone with GPS app
-* Safety equipment:
-	+ First aid kit
-	+ Headlamp or flashlight
-	+ Emergency shelter and warmth (e.g. space blanket, warm hat)
-* Specialized Medical kit:
-	+ Altitude sickness medication
-	+ Blister care and pain relief
-* Electronics:
-	+ Smartphone with GPS app and camera
-	+ Portable charger and power bank
-	+ Satellite communicator (optional)
+Here is a list of essential gear to pack for a trip to Yosemite Half Dome:
+- **Clothing**:
+  - Hiking boots
+  - Socks
+  - Pants
+  - Shirts
+  - Jacket
+  - Hat
+  - Gloves
+- **Footwear**:
+  - Hiking boots
+  - Sandals
+- **Navigation tools**:
+  - Map
+  - Compass
+  - GPS device
+- **Safety equipment**:
+  - First aid kit
+  - Headlamp
+  - Whistle
+- **Specialized Medical kit**:
+  - Altitude sickness medication
+  - Pain relievers
+  - Antihistamines
+- **Electronics**:
+  - Smartphone
+  - Camera
+  - Portable charger
+  - Power bank
 
 ## 📋 Visa, Permits & Regulations
-Here is information on visa requirements, park entry permits, and regulations:
+Here is a list of essential documents and permits needed for a trip to Yosemite Half Dome:
+- **Visa requirements**: A valid passport is required for all international visitors
+- **Park Entry Permits**: A permit is required for all visitors to Yosemite National Park
+- **Climbing permits**: A permit is required for all climbers who wish to climb Half Dome
+- **Local guide**: A local guide is not mandatory, but is highly recommended for all climbers who are new to the area
 
-* Visa requirements: None for US citizens, but required for international visitors (check with the US Department of State for requirements)
-* Park Entry Permits: $35 per vehicle (valid for 7 days)
-* Local guide: Optional, but recommended for the Half Dome climb
-* Environmental regulations:
-	+ Leave No Trace principles
-	+ No campfires or smoking in the park
-	+ No littering or pollution
-* Nearest Embassy/Consulate contacts:
-	+ US Department of State: (202) 501-4444
-	+ Yosemite National Park: (209) 372-0200
+Environmental regulations include:
+- **Leave No Trace**: All visitors are required to follow the Leave No Trace principles, including packing out all trash and staying on designated trails
+- **Campfire rules**: Campfires are only allowed in designated campsites and must be fully extinguished before leaving
+- **Drone bans**: Drones are not allowed in Yosemite National Park
+
+Nearest Embassy/Consulate contacts:
+- **US Embassy**: Located in San Francisco, California
+- **Canadian Consulate**: Located in San Francisco, California
 
 ## ⚠️ Safety & Risks
-Here are major risks and safety concerns in Yosemite National Park:
+Here is a list of major risks and safety concerns for a trip to Yosemite Half Dome:
+- **Altitude sickness**: The high elevation of Yosemite National Park can cause altitude sickness in some visitors
+- **Wildlife**: Yosemite is home to a wide range of wildlife, including black bears and mountain lions
+- **Weather**: The weather in Yosemite can be unpredictable and change quickly, with sudden rainstorms and heatwaves
+- **Crime**: As with any tourist destination, there is a risk of crime in Yosemite, including theft and vandalism
 
-* Altitude sickness: Be aware of the symptoms and take precautions
-* Wildlife: Be aware of bears, deer, and other wildlife, and take precautions
-* Weather: Be prepared for changing weather conditions, including rain, snow, and heat
-* Crime: Be aware of your surroundings and keep valuables secure
-* Emergency contacts:
-	+ Yosemite National Park Emergency Services: (209) 372-0200
-	+ Local hospital: John C. Fremont Hospital, (209) 966-3631
-* Recommended Travel Insurance: Consider purchasing travel insurance that covers emergency medical evacuations and trip cancellations
+Emergency contacts include:
+- **Local SAR**: Yosemite National Park has a dedicated Search and Rescue team that can be reached in case of an emergency
+- **Nearest hospital**: The nearest hospital is located in Fresno, California
+- **Medical evac**: Medical evacuation is available in case of a serious emergency
+
+Recommended Travel Insurance:
+- **Allianz**: Offers a wide range of travel insurance policies, including trip cancellation and medical evacuation
+- **Travelex**: Offers a wide range of travel insurance policies, including trip cancellation and medical evacuation
+
+Common mistakes to avoid include:
+- **Underestimating the difficulty of the hike**: The hike to Half Dome is a challenging 17-mile round-trip hike with a 4,800-foot elevation gain
+- **Not bringing enough water and snacks**: The high elevation and dry air in Yosemite can cause dehydration and hunger
+- **Not following safety protocols**: Failing to follow safety protocols, such as staying on designated trails and avoiding wildlife, can increase the risk of injury or death
+
+Solo travel:
+- **Is it safe?**: Yes, solo travel is safe in Yosemite, but it is always recommended to hike with a partner and stay on designated trails
 
 ## 🌱 Ethics & Responsible Travel
-Here are principles for responsible travel in Yosemite National Park:
+Here are some tips for responsible travel in Yosemite National Park:
+- **Leave No Trace**: Follow the Leave No Trace principles, including packing out all trash and staying on designated trails
+- **Respect wildlife**: Keep a safe distance from wildlife and never feed or approach them
+- **Support local communities**: Support local communities by buying local products and services
+- **Acclimatization**: Allow time to acclimatize to the high elevation and dry air in Yosemite
 
-* Leave No Trace principles:
-	+ Plan ahead and prepare
-	+ Travel and camp on durable surfaces
-	+ Dispose of waste properly
-	+ Leave what you find
-	+ Minimize campfire impacts
-	+ Respect wildlife
-* Support local communities:
-	+ Buy local products and services
-	+ Respect local customs and traditions
-	+ Learn about the park's history and culture
-* Acclimatization needs:
-	+ Be aware of the altitude and take precautions
-	+ Drink plenty of water and stay hydrated
-	+ Take breaks and rest when needed
-
-By following these guidelines and principles, you can have a safe and enjoyable trip to Yosemite National Park and the Half Dome climb. Remember to always be prepared, respect the environment and local communities, and take necessary precautions to ensure your safety.
+By following these guidelines and tips, you can have a safe and enjoyable trip to Yosemite Half Dome, while also respecting the environment and local communities.
 
 ---
 *⚠️ Disclaimer: Travel information, especially regarding costs and logistics, can change rapidly. Always verify current conditions with local consulates, authorities, or tour operators before traveling. Prices listed are estimates and subject to fluctuation.*
 
-*This guide was curated by Sarah Wilds (Adventure Travel Journalist & Logistics Expert) based on field research and global travel data as of March 2026.*
+*This guide was curated by Dr. Forest Green (Eco-Tourism Guide & Conservationist) based on field research and global travel data as of March 2026.*
