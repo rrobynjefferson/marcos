@@ -1,15 +1,15 @@
 ---
 title: "Tiger'S Nest Monastery Bhutan Trek"
-date: 2026-05-08T01:47:44+07:00
-author: "Reza The Explorer (Asia Pacific Adventure Specialist)"
-categories: ["Europe Trekking"]
+date: 2026-05-16T12:52:34+07:00
+author: "Elena Summit (High-Altitude Alpinist & Travel Writer)"
+categories: ["Extreme Adventures"]
 tags: ["adventure", "trekking", "Bhutan", "travel-guide", "TigerS Nest Monastery"]
 featured_image: "/images/tiger-s-nest-monastery-bhutan.webp"
 description: "Complete travel guide including how to get there, itinerary, costs, and tips for Tiger'S Nest Monastery Bhutan Trek."
 slug: "tiger-s-nest-monastery-bhutan"
 url: "/articles/tiger-s-nest-monastery-bhutan/"
 draft: false
-weight: 1
+weight: 6
 continent: "Asia"
 difficulty: "Moderate"
 duration: "7-10 Days"
@@ -26,10 +26,12 @@ best_season: "March to May and September to November"
 - [🗓️ Best Time to Visit](#best-time-to-visit)
 - [🥾 Adventure Activities & Itinerary](#adventure-activities-itinerary)
   - [Day 1 — Arrival in Paro](#day-1-arrival-in-paro)
-  - [Day 2 — Trek to the Tiger'S Nest Monastery](#day-2-trek-to-the-tiger-s-nest-monastery)
-  - [Day 3 — Explore the Town of Paro](#day-3-explore-the-town-of-paro)
-  - [Day 4 — Trek to the Drakel Goemba Monastery](#day-4-trek-to-the-drakel-goemba-monastery)
-  - [Day 5 — Explore the Haa Valley](#day-5-explore-the-haa-valley)
+  - [Day 2 — Trek to Shana](#day-2-trek-to-shana)
+  - [Day 3 — Trek to Soi Thangthangkha](#day-3-trek-to-soi-thangthangkha)
+  - [Day 4 — Trek to Jangothang](#day-4-trek-to-jangothang)
+  - [Day 5 — Rest Day in Jangothang](#day-5-rest-day-in-jangothang)
+  - [Day 6 — Trek to Tiger'S Nest Monastery](#day-6-trek-to-tiger-s-nest-monastery)
+  - [Day 7 — Return to Paro](#day-7-return-to-paro)
 - [🏕️ Accommodation & Basecamps](#accommodation-basecamps)
 - [💰 Budget & Costs](#budget-costs)
 - [🎒 Essential Gear List (Packing)](#essential-gear-list-packing)
@@ -40,22 +42,30 @@ best_season: "March to May and September to November"
 ---
 
 ## 🌄 Why Tiger'S Nest Monastery Bhutan Trek Complete Travel Guide?
-The Tiger'S Nest Monastery, also known as Paro Taktsang, is a sacred Buddhist site located in the Himalayas, in the kingdom of Bhutan. This trek is a must-visit destination for adventure travelers and spiritual seekers alike. The monastery is perched on a cliff, 10,000 feet above sea level, and offers breathtaking views of the surrounding valleys and mountains. The trek to the monastery is a moderate 4-5 hour hike, which passes through lush forests and offers stunning views of the Himalayas.
+Tiger'S Nest Monastery, also known as Paro Taktsang, is a sacred Buddhist site and one of the most iconic landmarks in Bhutan. The monastery is perched on a cliff 10,000 feet above sea level, offering breathtaking views of the surrounding valleys and mountains. This trek is a must-visit for adventure seekers, nature lovers, and those interested in Buddhist culture.
 
-The unique blend of natural beauty, culture, and spirituality makes this destination a once-in-a-lifetime experience. The trek offers a chance to experience the local culture, meet the friendly Bhutanese people, and learn about their customs and traditions. The monastery itself is a stunning example of Bhutanese architecture, with intricate carvings and paintings that depict the life of Buddha.
+The Tiger'S Nest Monastery Bhutan Trek is a unique and unforgettable experience that offers:
+* Stunning natural beauty, with lush forests, sparkling waterfalls, and majestic mountains
+* A chance to explore Bhutan's rich culture and history, including ancient temples and monasteries
+* Opportunities to spot exotic wildlife, such as blue sheep, takins, and pheasants
+* A moderate-level trek that is suitable for most fitness levels, with scenic trails and picturesque villages
+* A chance to experience the local way of life, including traditional cuisine, music, and dance
 
-The best reasons to visit the Tiger'S Nest Monastery include:
-* Spiritual significance: The monastery is a sacred site for Buddhists, and offers a chance to learn about the teachings of Buddha and experience the local culture.
-* Physical challenge: The trek to the monastery is a moderate hike, which offers a chance to challenge yourself physically and enjoy the stunning views of the Himalayas.
-* Nature: The trek passes through lush forests, and offers stunning views of the surrounding valleys and mountains.
-* Culture: The monastery and the surrounding area offer a chance to experience the local culture, meet the friendly Bhutanese people, and learn about their customs and traditions.
+Some of the key attractions of the Tiger'S Nest Monastery Bhutan Trek include:
+* The stunning Paro Valley, with its picturesque villages and scenic trails
+* The iconic Tiger'S Nest Monastery, with its breathtaking views and rich history
+* The ancient Kyichu Lhakhang Temple, with its beautiful architecture and serene atmosphere
+* The picturesque village of Shana, with its traditional houses and friendly locals
 
 ## ✈️ How to Get to Tiger'S Nest Monastery Bhutan Trek Complete Travel Guide
+Getting to the Tiger'S Nest Monastery Bhutan Trek requires some planning and preparation. Here's a step-by-step guide to help you get there:
 
 ### International Arrivals (Main Hubs)
-The nearest international airport is the Paro International Airport (PBH), which is located in Paro, Bhutan. The airport is served by the following airlines:
-* Drukair: The national carrier of Bhutan, which operates flights from Bangkok, Delhi, Kathmandu, and Singapore.
-* Bhutan Airlines: A private airline that operates flights from Bangkok, Delhi, and Kathmandu.
+The nearest international airport to the Tiger'S Nest Monastery is the Paro International Airport (PBH) in Bhutan. You can fly to Paro from several major cities, including:
+* Bangkok (BKK) with Drukair or Bhutan Airlines
+* Delhi (DEL) with Drukair or Bhutan Airlines
+* Kathmandu (KTM) with Drukair or Bhutan Airlines
+* Singapore (SIN) with Drukair or Bhutan Airlines
 
 
 
@@ -66,227 +76,173 @@ The nearest international airport is the Paro International Airport (PBH), which
 
 
 
-The estimated flight ticket price range is:
-* Low season (June to August and December to February): $500-$800
-* High season (March to May and September to November): $800-$1,200
+The estimated flight ticket price range from these cities to Paro is:
+* Low season (June to August and December to February): $400-$700
+* High season (March to May and September to November): $600-$1,000
 
-The best booking apps/websites are:
-* Expedia
-* Booking.com
-* Skyscanner
-* Drukair website
-* Bhutan Airlines website
+You can book your flights through websites like Expedia, Booking.com, or directly with the airlines.
 
 ### From Gateway City to Location (Last Mile)
-From the Paro International Airport, you can take a taxi or a bus to the town of Paro, which is located about 10 km from the airport. The taxi fare is approximately $10-$15, and the bus fare is approximately $2-$5.
+From Paro International Airport, you can take a taxi or bus to the town of Paro, which is about 10 km away. The journey takes around 30 minutes and costs approximately $10-$20.
 
-From Paro, you can take a taxi or a bus to the starting point of the trek, which is located in the village of Ramthangkha. The taxi fare is approximately $20-$30, and the bus fare is approximately $5-$10.
+In Paro, you can find several hotels, guesthouses, and restaurants. Some popular options include:
+* Hotel Olathang: a 3-star hotel with comfortable rooms and a beautiful garden
+* Hotel Phuntsho Pelri: a 2-star hotel with basic rooms and a friendly staff
+* Restaurant Sonam: a local restaurant serving traditional Bhutanese cuisine
 
-The ground transport options are:
-* Taxi: Available from the airport and the town of Paro.
-* Bus: Available from the airport and the town of Paro.
-* Private car: Can be hired from the airport or the town of Paro.
+From Paro, you can start your trek to the Tiger'S Nest Monastery. The trek is about 10 km long and takes around 5-6 hours to complete. You can hire a guide or join a guided tour to help you navigate the trail.
 
-The realistic travel duration is:
-* From the airport to the town of Paro: 30 minutes to 1 hour.
-* From the town of Paro to the starting point of the trek: 1-2 hours.
-
-The important transit points and checkpoints are:
-* Paro International Airport
-* Town of Paro
-* Ramthangkha village
+Some popular tour operators in Bhutan include:
+* Bhutan Trekking: a local company offering guided treks and tours
+* Himalayan Guides: a company specializing in trekking and climbing expeditions
+* Bhutan Travel: a tour operator offering cultural and adventure tours
 
 ### Overland/Backpacker Route Options
-The overland route options are:
-* From India: You can take a bus or a taxi from the Indian city of Siliguri to the Bhutanese town of Phuentsholing. From Phuentsholing, you can take a bus or a taxi to the town of Paro.
-* From Nepal: You can take a bus or a taxi from the Nepalese city of Kathmandu to the Bhutanese town of Phuentsholing. From Phuentsholing, you can take a bus or a taxi to the town of Paro.
+If you're traveling on a budget or prefer to travel overland, you can take a bus or taxi from the Indian border town of Phuentsholing to Thimphu, the capital city of Bhutan. From Thimphu, you can take another bus or taxi to Paro.
 
-The border crossings are:
-* India-Bhutan border: The border crossing is located at the town of Phuentsholing.
-* Nepal-Bhutan border: The border crossing is located at the town of Phuentsholing.
+The journey from Phuentsholing to Thimphu takes around 6-7 hours, and the journey from Thimphu to Paro takes around 4-5 hours. The cost of the bus ticket is approximately $10-$20, and the cost of a taxi is around $50-$100.
+
+Some popular bus companies in Bhutan include:
+* Bhutan Post Bus: a government-run bus service operating throughout the country
+* Dhug Bus: a private bus company offering services between major towns
+* Phuentsholing Bus: a bus company operating between Phuentsholing and Thimphu
 
 ## 🗓️ Best Time to Visit
-The best time to visit the Tiger'S Nest Monastery is from March to May and September to November. The weather during this time is mild and pleasant, with clear skies and stunning views of the Himalayas.
+The best time to visit the Tiger'S Nest Monastery Bhutan Trek is during the spring (March to May) and autumn (September to November) seasons. The weather is mild and pleasant, with clear skies and comfortable temperatures.
 
-The peak season is from March to May, when the weather is warm and sunny, and the rhododendron flowers are in bloom. The off-season is from June to August, when the weather is hot and humid, and the monsoon rains are frequent.
+* Spring (March to May): The weather is mild and pleasant, with temperatures ranging from 10-20°C (50-68°F). The rhododendrons and other flowers are in bloom, making the trek a colorful and scenic experience.
+* Autumn (September to November): The weather is cool and comfortable, with temperatures ranging from 10-20°C (50-68°F). The skies are clear, and the views of the surrounding mountains are breathtaking.
 
-The local festivals and events worth attending are:
-* Paro Tshechu: A festival that is held in the town of Paro, which features mask dances and other cultural performances.
-* Thimphu Tshechu: A festival that is held in the capital city of Thimphu, which features mask dances and other cultural performances.
+The summer months (June to August) are warm and humid, with occasional rain showers. The winter months (December to February) are cold and snowy, with limited accessibility to the trek.
 
-The warning for bad seasons to avoid is:
-* Monsoon season (June to August): The weather is hot and humid, and the rains are frequent.
-* Winter season (December to February): The weather is cold and snowy, and the roads may be closed due to heavy snowfall.
+Some popular festivals and events in Bhutan include:
+* Paro Tshechu: a festival held in Paro to commemorate the birth of Guru Rinpoche
+* Thimphu Tshechu: a festival held in Thimphu to commemorate the birth of Guru Rinpoche
+* Punakha Tshechu: a festival held in Punakha to commemorate the birth of Guru Rinpoche
 
 ## 🥾 Adventure Activities & Itinerary
-The adventure activities and itinerary for the Tiger'S Nest Monastery trek are:
+Here's a sample 7-day itinerary for the Tiger'S Nest Monastery Bhutan Trek:
 
 ### Day 1 — Arrival in Paro
-* Arrive at the Paro International Airport.
-* Take a taxi or a bus to the town of Paro.
-* Check into a hotel and rest for the day.
+* Arrive at Paro International Airport
+* Transfer to your hotel in Paro
+* Explore the town of Paro, including the Paro Dzong and the Kyichu Lhakhang Temple
 
-### Day 2 — Trek to the Tiger'S Nest Monastery
-* Start the trek from the village of Ramthangkha.
-* Trek through the lush forests and enjoy the stunning views of the Himalayas.
-* Reach the Tiger'S Nest Monastery and explore the surroundings.
-* Return to the town of Paro in the evening.
+### Day 2 — Trek to Shana
+* Start your trek from Paro to Shana, a distance of around 17 km (10.6 miles)
+* The trek takes around 5-6 hours, with an elevation gain of around 300 meters (1,000 feet)
+* Camp overnight in Shana
 
-### Day 3 — Explore the Town of Paro
-* Visit the Paro Dzong, a historic fortress that houses the district administration and a monastery.
-* Visit the National Museum of Bhutan, which features a collection of artifacts and exhibits on the history and culture of Bhutan.
-* Explore the town of Paro and its surroundings.
+### Day 3 — Trek to Soi Thangthangkha
+* Continue your trek from Shana to Soi Thangthangkha, a distance of around 22 km (13.7 miles)
+* The trek takes around 7-8 hours, with an elevation gain of around 500 meters (1,640 feet)
+* Camp overnight in Soi Thangthangkha
 
-### Day 4 — Trek to the Drakel Goemba Monastery
-* Start the trek from the town of Paro.
-* Trek through the lush forests and enjoy the stunning views of the Himalayas.
-* Reach the Drakel Goemba Monastery and explore the surroundings.
-* Return to the town of Paro in the evening.
+### Day 4 — Trek to Jangothang
+* Continue your trek from Soi Thangthangkha to Jangothang, a distance of around 19 km (11.8 miles)
+* The trek takes around 6-7 hours, with an elevation gain of around 300 meters (1,000 feet)
+* Camp overnight in Jangothang
 
-### Day 5 — Explore the Haa Valley
-* Take a taxi or a bus to the Haa Valley.
-* Explore the valley and its surroundings.
-* Visit the Haa Dzong, a historic fortress that houses the district administration and a monastery.
-* Return to the town of Paro in the evening.
+### Day 5 — Rest Day in Jangothang
+* Take a rest day in Jangothang to acclimatize to the high altitude
+* Explore the surrounding area, including the Jangothang Lake and the nearby villages
 
-The types of activities to cover are:
-* Trekking/Hiking: The trek to the Tiger'S Nest Monastery and the Drakel Goemba Monastery.
-* Cultural visits: The Paro Dzong, the National Museum of Bhutan, and the Haa Dzong.
-* Photography spots: The stunning views of the Himalayas and the surrounding valleys.
+### Day 6 — Trek to Tiger'S Nest Monastery
+* Continue your trek from Jangothang to the Tiger'S Nest Monastery, a distance of around 10 km (6.2 miles)
+* The trek takes around 4-5 hours, with an elevation gain of around 500 meters (1,640 feet)
+* Visit the Tiger'S Nest Monastery and explore the surrounding area
+
+### Day 7 — Return to Paro
+* Return to Paro from the Tiger'S Nest Monastery, a distance of around 10 km (6.2 miles)
+* The trek takes around 4-5 hours, with an elevation loss of around 500 meters (1,640 feet)
+* Celebrate your successful trek with a traditional Bhutanese dinner and cultural show
 
 ## 🏕️ Accommodation & Basecamps
-The accommodation options in the town of Paro are:
-* Budget option: Camping and hostels, which cost approximately $10-$20 per night.
-* Mid-range: Guesthouses and lodges, which cost approximately $30-$50 per night.
-* Premium: Hotels and resorts, which cost approximately $100-$200 per night.
+There are several accommodation options available in Paro and along the trekking route. Here are some options:
 
-The wild camping option is:
-* Available in the surrounding areas of the town of Paro.
-* Requires a permit from the Bhutanese government.
-* Costs approximately $10-$20 per night.
+* Budget: Camping or staying in basic guesthouses, with prices starting from around $10-$20 per night
+* Mid-range: Staying in mid-range hotels or lodges, with prices starting from around $50-$100 per night
+* Premium: Staying in luxury hotels or resorts, with prices starting from around $200-$500 per night
 
-The real accommodation names in the location are:
-* Hotel Olathang
-* Hotel Phuntsho Pelri
-* Hotel Tashi Namgay
-* Guesthouse Khangkhu
-* Lodge Tshering
+Some popular accommodation options in Paro include:
+* Hotel Olathang: a 3-star hotel with comfortable rooms and a beautiful garden
+* Hotel Phuntsho Pelri: a 2-star hotel with basic rooms and a friendly staff
+* Restaurant Sonam: a local restaurant serving traditional Bhutanese cuisine
+
+Along the trekking route, there are several campsites and basic guesthouses available. Here are some options:
+* Shana Campsite: a basic campsite with toilet facilities and a kitchen
+* Soi Thangthangkha Campsite: a basic campsite with toilet facilities and a kitchen
+* Jangothang Campsite: a basic campsite with toilet facilities and a kitchen
 
 ## 💰 Budget & Costs
-The estimated budget and costs for the Tiger'S Nest Monastery trek are:
-* Round-trip flights: $500-$1,200
-* Accommodation per night: $10-$200
-* Daily meals: $10-$30
-* Local transportation: $10-$50
-* Entry fees / permit fees: $10-$20
-* Guide fees: $20-$50
-* Equipment rental: $10-$20
-* Total estimate for a 7-10 day trip: $1,500-$3,000
+The cost of the Tiger'S Nest Monastery Bhutan Trek can vary depending on the time of year, accommodation options, and other factors. Here's a rough estimate of the costs:
+
+* Round-trip flights from major cities to Paro: $400-$1,000
+* Accommodation in Paro: $10-$50 per night
+* Accommodation along the trekking route: $10-$20 per night
+* Food and drinks: $10-$20 per day
+* Local transportation: $10-$20 per day
+* Guide fees: $20-$50 per day
+* Equipment rental: $10-$20 per day
+* Total cost for a 7-day trek: $1,500-$3,500
 
 ## 🎒 Essential Gear List (Packing)
-The essential gear list for the Tiger'S Nest Monastery trek includes:
-* Clothing:
-	+ Hiking boots
-	+ Trekking poles
-	+ Waterproof jacket
-	+ Insulated jacket
-	+ Base layers
-	+ Mid-layers
-	+ Waterproof pants
-* Footwear:
-	+ Hiking boots
-	+ Trekking sandals
-* Navigation tools:
-	+ Map
-	+ Compass
-	+ GPS device
-* Safety equipment:
-	+ First aid kit
-	+ Emergency shelter
-	+ Emergency food
-* Specialized Medical kit:
-	+ Altitude sickness medication
-	+ Pain relievers
-	+ Antihistamines
-* Electronics:
-	+ Smartphone
-	+ Camera
-	+ Portable charger
-	+ Power bank
+Here's a list of essential gear to pack for the Tiger'S Nest Monastery Bhutan Trek:
+
+* Hiking boots or sturdy shoes
+* Comfortable clothing and layers for changing weather conditions
+* Rain gear and waterproof jacket
+* Warm hat and gloves for cold weather
+* Sleeping bag and pad for camping
+* Backpack and trekking poles
+* Water bottle or hydration pack
+* First aid kit and emergency supplies
+* Navigation tools, such as a map and compass
+* Headlamp or flashlight
+* Extra batteries and power bank
+* Camera and charger
+* Snacks and energy bars
+* Water purification tablets or filter
 
 ## 📋 Visa, Permits & Regulations
-The visa requirements for Bhutan are:
-* Citizens of India, Bangladesh, and the Maldives do not require a visa.
-* Citizens of other countries require a visa, which can be obtained from the Bhutanese embassy or consulate in their home country.
-* The visa fee is approximately $40-$50.
+To visit Bhutan, you'll need to obtain a visa in advance. Here are the requirements:
 
-The park entry permits are:
-* Required for the Tiger'S Nest Monastery trek.
-* Can be obtained from the Bhutanese government.
-* Cost approximately $10-$20.
+* Visa application form
+* Passport with at least 6 months' validity
+* Two passport-sized photos
+* Payment for the visa fee (around $40-$50)
+* Proof of onward travel
 
-The local guide is:
-* Mandatory for the Tiger'S Nest Monastery trek.
-* Can be hired from the town of Paro.
-* Costs approximately $20-$50 per day.
+You can apply for a visa through the Bhutanese embassy or consulate in your home country, or through a licensed tour operator in Bhutan.
 
-The environmental regulations are:
-* Leave No Trace principles apply.
-* Camping is allowed in designated areas only.
-* Fires are not allowed in the forest.
-
-The nearest embassy/consulate contacts are:
-* Indian embassy in Thimphu
-* Bangladeshi embassy in Thimphu
-* Maldivian embassy in Thimphu
+Additionally, you'll need to obtain a trekking permit to hike the Tiger'S Nest Monastery Bhutan Trek. The permit costs around $10-$20 per day, and can be obtained through a licensed tour operator or the Bhutanese government.
 
 ## ⚠️ Safety & Risks
-The major risks in the Tiger'S Nest Monastery trek are:
-* Altitude sickness
-* Wildlife encounters
-* Weather conditions
-* Crime
+The Tiger'S Nest Monastery Bhutan Trek is a moderate-level trek, but it still poses some risks and challenges. Here are some safety considerations:
 
-The emergency contacts are:
-* Local SAR (Search and Rescue) team
-* Nearest hospital
-* Medical evacuations can be arranged through the Bhutanese government.
+* Altitude sickness: The trek reaches elevations of over 3,000 meters (10,000 feet), which can cause altitude sickness. Make sure to acclimatize properly and drink plenty of water.
+* Weather conditions: The weather in the Himalayas can be unpredictable, with sudden rain showers and snowstorms. Make sure to pack accordingly and stay informed about weather conditions.
+* Wildlife: The trek passes through areas with wildlife, including blue sheep and takins. Make sure to stay alert and keep a safe distance from any animals you encounter.
+* Terrain: The trek involves steep inclines and uneven terrain, which can be challenging for some hikers. Make sure to wear proper hiking boots and use trekking poles if necessary.
 
-The recommended travel insurance is:
-* Mandatory for the Tiger'S Nest Monastery trek.
-* Can be obtained from insurance companies in your home country.
+In case of an emergency, there are several hospitals and medical facilities in Paro and Thimphu. Here are some contacts:
 
-The common mistakes to avoid are:
-* Not acclimatizing to the high altitude.
-* Not bringing enough water and food.
-* Not wearing proper clothing and footwear.
-
-The solo travel safety is:
-* Generally safe for solo travelers.
-* However, it is recommended to hire a local guide and join a group trek.
+* Paro Hospital: +975 8 271317
+* Thimphu Hospital: +975 2 328333
+* Bhutan Red Cross Society: +975 2 336666
 
 ## 🌱 Ethics & Responsible Travel
-The Leave No Trace principles apply to the Tiger'S Nest Monastery trek, which includes:
-* Not littering
-* Not damaging the environment
-* Not disturbing the wildlife
-* Not removing any plants or rocks
+Here are some tips for responsible travel in Bhutan:
 
-The ways to support local communities are:
-* Buying local products
-* Eating at local restaurants
-* Staying at local guesthouses
-* Hiring local guides
+* Respect local customs and traditions
+* Dress modestly and remove your shoes when entering temples or monasteries
+* Use environmentally friendly products and avoid littering
+* Support local businesses and communities
+* Learn about Bhutanese culture and history to appreciate the country's unique heritage
 
-The acclimatization needs are:
-* Drinking plenty of water
-* Eating nutritious food
-* Resting and avoiding strenuous activities
-* Ascending gradually to higher altitudes
-
-By following this guide, you can have a safe and enjoyable trek to the Tiger'S Nest Monastery, while also supporting the local community and preserving the environment.
+By following these guidelines, you can help preserve the beauty and uniqueness of Bhutan, and ensure a positive experience for both yourself and the local community.
 
 ---
 *⚠️ Disclaimer: Travel information, especially regarding costs and logistics, can change rapidly. Always verify current conditions with local consulates, authorities, or tour operators before traveling. Prices listed are estimates and subject to fluctuation.*
 
-*This guide was curated by Reza The Explorer (Asia Pacific Adventure Specialist) based on field research and global travel data as of May 2026.*
+*This guide was curated by Elena Summit (High-Altitude Alpinist & Travel Writer) based on field research and global travel data as of May 2026.*
