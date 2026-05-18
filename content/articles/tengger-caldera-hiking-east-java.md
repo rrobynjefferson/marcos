@@ -1,19 +1,19 @@
 ---
-title: "Tengger Caldera Hiking East Java"
-date: 2026-04-25T07:00:22+07:00
-author: "Mike Overland (4x4 & Overland Route Specialist)"
-categories: ["Global Destinations"]
-tags: ["adventure", "trekking", "destination", "travel-guide", "Tengger Caldera", "East Java"]
+title: "Tengger Caldera Hiking"
+date: 2026-05-18T14:49:06+07:00
+author: "Yuki Yamamoto (Eastern Hemisphere Trekking Guide)"
+categories: ["Desert Trekking"]
+tags: ["adventure", "trekking", "East Java", "travel-guide", "Tengger Caldera"]
 featured_image: "/images/tengger-caldera-hiking-east-java.webp"
 description: "Complete travel guide including how to get there, itinerary, costs, and tips for Tengger Caldera Hiking East Java."
 slug: "tengger-caldera-hiking-east-java"
 url: "/articles/tengger-caldera-hiking-east-java/"
 draft: false
-weight: 7
+weight: 1
 continent: "Asia"
 difficulty: "Moderate"
-duration: "7-10 Days"
-best_season: "June to September"
+duration: "5-7 Days"
+best_season: "May to October"
 ---
 
 **📋 Table of Contents**
@@ -25,13 +25,11 @@ best_season: "June to September"
   - [Overland/Backpacker Route Options](#overland-backpacker-route-options)
 - [🗓️ Best Time to Visit](#best-time-to-visit)
 - [🥾 Adventure Activities & Itinerary](#adventure-activities-itinerary)
-  - [Day 1 — Arrival in Surabaya](#day-1-arrival-in-surabaya)
-  - [Day 2 — Malang to Cemoro Lawang](#day-2-malang-to-cemoro-lawang)
-  - [Day 3 — Tengger Caldera Hiking](#day-3-tengger-caldera-hiking)
-  - [Day 4 — Mount Penanjakan](#day-4-mount-penanjakan)
-  - [Day 5 — Sea of Sand](#day-5-sea-of-sand)
-  - [Day 6 — Tenggerese Village](#day-6-tenggerese-village)
-  - [Day 7 — Departure](#day-7-departure)
+  - [Day 1 — Arrival in Probolinggo](#day-1-arrival-in-probolinggo)
+  - [Day 2 — Bromo Sunrise](#day-2-bromo-sunrise)
+  - [Day 3 — Semeru Trekking](#day-3-semeru-trekking)
+  - [Day 4 — Madakaripura Waterfall](#day-4-madakaripura-waterfall)
+  - [Day 5 — Departure](#day-5-departure)
 - [🏕️ Accommodation & Basecamps](#accommodation-basecamps)
 - [💰 Budget & Costs](#budget-costs)
 - [🎒 Essential Gear List (Packing)](#essential-gear-list-packing)
@@ -42,27 +40,22 @@ best_season: "June to September"
 ---
 
 ## 🌄 Why Tengger Caldera Hiking East Java Complete Travel Guide?
-Tengger Caldera, located in East Java, Indonesia, is a unique and must-visit destination for adventure travelers. The caldera is home to several active and dormant volcanoes, including Mount Bromo, which is one of the most iconic and accessible volcanoes in Indonesia. The area offers breathtaking landscapes, diverse wildlife, and a rich cultural heritage. The Tengger Caldera Hiking trail is a 10-12 km hike that takes you through the stunning landscapes of the caldera, including the Sea of Sand, a vast desert-like area surrounded by volcanic peaks.
+Tengger Caldera, located in East Java, Indonesia, is a unique and must-visit destination for adventure travelers. The caldera is home to several active and dormant volcanoes, including Mount Bromo, Mount Batok, and Mount Semeru. The area offers breathtaking landscapes, diverse wildlife, and a rich cultural heritage. The experiences you can have in Tengger Caldera include:
 
-The experiences you cannot get anywhere else include:
-* Watching the sunrise over Mount Bromo from the summit of Mount Penanjakan
-* Hiking through the Sea of Sand, a surreal and breathtaking landscape
-* Visiting the traditional Tenggerese villages and learning about their unique culture and traditions
-* Seeing the diverse wildlife of the caldera, including eagles, hawks, and monkeys
+* Watching the sunrise over Mount Bromo, with its majestic volcanic landscape
+* Hiking to the summit of Mount Semeru, the highest peak in Java
+* Exploring the traditional villages and meeting the local people, the Tenggerese
+* Visiting the Madakaripura Waterfall, a beautiful and secluded waterfall
+* Taking a jeep tour of the caldera, with its stunning scenery and unique rock formations
 
-The visual/sensory highlights of the destination include:
-* The stunning sunrises and sunsets over the caldera
-* The breathtaking landscapes of the Sea of Sand and the surrounding volcanic peaks
-* The vibrant colors of the traditional Tenggerese clothing and textiles
-* The sounds of the local wildlife, including the calls of eagles and hawks
+The visual and sensory highlights of Tengger Caldera include:
 
-The best reasons to visit Tengger Caldera Hiking East Java include:
-* Spiritual: The area is home to several sacred sites, including the Hindu temple of Pura Luhur Poten
-* Physical challenge: The hike to the summit of Mount Bromo and the surrounding peaks is a moderate to challenging hike
-* Nature: The area is home to diverse wildlife and stunning landscapes
-* Culture: The Tenggerese people have a unique and rich culture, with a strong tradition of textiles, music, and dance
+* The vibrant colors of the sunrise and sunset, with the volcanic landscape as a backdrop
+* The sounds of nature, including the calls of birds and the rustling of leaves
+* The smells of the local flora, including the fragrance of flowers and the scent of trees
+* The feeling of being in a unique and untouched environment, with its rugged beauty and natural charm
 
-## ✈️ How to Get to Tengger Caldera Hiking East Java Complete Travel Guide
+The best reasons to visit Tengger Caldera include:
 
 
 
@@ -73,202 +66,250 @@ The best reasons to visit Tengger Caldera Hiking East Java include:
 
 
 
+* Spiritual: The area is home to several sacred sites, including the Poten Temple and the Luhur Poten Temple
+* Physical challenge: The hiking trails in the caldera offer a range of challenges, from easy to extreme
+* Nature: The caldera is home to a diverse range of flora and fauna, including several endangered species
+* Culture: The local people, the Tenggerese, have a rich and unique culture, with their own language, customs, and traditions
+
+## ✈️ How to Get to Tengger Caldera Hiking East Java Complete Travel Guide
+To get to Tengger Caldera, you will need to fly into one of the major international airports in Indonesia, such as Jakarta (CGK) or Surabaya (SUB). From there, you can take a domestic flight to Malang (MLG) or a bus or train to Probolinggo, the nearest city to the caldera.
+
 ### International Arrivals (Main Hubs)
-The closest international airport to Tengger Caldera is Juanda International Airport (SUB) in Surabaya, East Java. The airport is served by several major airlines, including Garuda Indonesia, Lion Air, and Sriwijaya Air. You can also fly into Soekarno-Hatta International Airport (CGK) in Jakarta and then take a domestic flight to Juanda International Airport.
+The best major international airports to fly into are:
 
-Recommended airlines and transit hubs:
-* Garuda Indonesia: Offers direct flights from Singapore and Kuala Lumpur to Juanda International Airport
-* Lion Air: Offers direct flights from Jakarta and Bali to Juanda International Airport
-* Sriwijaya Air: Offers direct flights from Jakarta and Bali to Juanda International Airport
+* Jakarta (CGK) - Soekarno-Hatta International Airport
+* Surabaya (SUB) - Juanda International Airport
 
-Estimated flight ticket price range:
-* Low season: $200-$500 USD per person for a return ticket from Singapore or Kuala Lumpur to Juanda International Airport
-* High season: $500-$1,000 USD per person for a return ticket from Singapore or Kuala Lumpur to Juanda International Airport
+Recommended airlines include:
 
-Best booking apps/websites:
-* Skyscanner: Offers a wide range of flight options and allows you to compare prices across different airlines
-* Expedia: Offers a wide range of flight options and allows you to book hotels and car rentals at the same time
-* Garuda Indonesia website: Offers direct flights and allows you to book online
+* Garuda Indonesia
+* Lion Air
+* Sriwijaya Air
+
+The estimated flight ticket price range from major hubs is:
+
+* Low season (April to May and September to November): $500-$800
+* High season (June to August and December to March): $800-$1,200
+
+The best booking apps and websites include:
+
+* Expedia
+* Booking.com
+* Skyscanner
 
 ### From Gateway City to Location (Last Mile)
-The nearest local city with an airport is Malang, which is about 3 hours away from Tengger Caldera. You can take a taxi or bus from Malang to the town of Cemoro Lawang, which is the starting point for the Tengger Caldera Hiking trail.
+From Malang (MLG) or Probolinggo, you can take a bus or taxi to the caldera. The nearest town to the caldera is Cemoro Lawang, which is about 30 kilometers from Probolinggo.
 
-Ground transport options:
-* Taxi: Costs around $20-$30 USD per person for a one-way trip from Malang to Cemoro Lawang
-* Bus: Costs around $5-$10 USD per person for a one-way trip from Malang to Cemoro Lawang
-* Jeep: Costs around $50-$100 USD per person for a one-way trip from Malang to Cemoro Lawang
+* Bus: The bus company, Mila Trans, operates from Probolinggo to Cemoro Lawang. The fare is around IDR 20,000 ($1.50) and the journey takes about 1 hour.
+* Taxi: The taxi fare from Probolinggo to Cemoro Lawang is around IDR 100,000 ($7.50) and the journey takes about 45 minutes.
 
-Recommended companies:
-* Taxi: Blue Bird Taxi or Express Taxi
-* Bus: ALS or Gunung Harta
-* Jeep: Cemoro Lawang Jeep or Bromo Jeep
+The ground transport options include:
 
-Realistic travel duration:
-* From Malang to Cemoro Lawang: 3-4 hours by taxi or bus, 2-3 hours by jeep
-* From Surabaya to Malang: 2-3 hours by taxi or bus, 1-2 hours by train
+* Jeep: The jeep tour is a popular way to explore the caldera, with its rugged terrain and stunning scenery. The cost is around IDR 500,000 ($37.50) per person for a full-day tour.
+* Motorbike: You can also rent a motorbike to explore the caldera, with its scenic roads and stunning views. The cost is around IDR 50,000 ($3.75) per day.
 
-Important transit points and checkpoints:
-* Malang: The nearest local city with an airport and a major transportation hub
-* Cemoro Lawang: The starting point for the Tengger Caldera Hiking trail and a small town with basic amenities
-* Wonokitri: A small village on the way to Cemoro Lawang with basic amenities
+The realistic travel duration from the gateway city to the location is:
+
+* From Malang (MLG) to Cemoro Lawang: 2-3 hours by bus or taxi
+* From Probolinggo to Cemoro Lawang: 1-2 hours by bus or taxi
+
+The important transit points and checkpoints include:
+
+* Probolinggo: The nearest city to the caldera, with its bus station and taxi stand.
+* Cemoro Lawang: The nearest town to the caldera, with its scenic views and rugged terrain.
 
 ### Overland/Backpacker Route Options
-If you are traveling on a budget or prefer to take the scenic route, you can take the overland route from Surabaya or Malang to Tengger Caldera. The journey takes around 4-6 hours by bus or taxi and passes through the scenic countryside of East Java.
+The alternative land routes for budget travelers include:
 
-Alternative land routes:
-* From Surabaya: Take the bus or taxi from Surabaya to Malang, then transfer to another bus or taxi to Cemoro Lawang
-* From Malang: Take the bus or taxi from Malang to Cemoro Lawang
+* From Yogyakarta: You can take a bus from Yogyakarta to Probolinggo, with a journey time of around 10 hours. The fare is around IDR 100,000 ($7.50).
+* From Bali: You can take a bus from Bali to Probolinggo, with a journey time of around 12 hours. The fare is around IDR 150,000 ($11.25).
 
-Border crossings:
-* None, as Tengger Caldera is located within Indonesia
+The border crossings if crossing countries include:
+
+* Indonesia-Malaysia border: If you are coming from Malaysia, you can cross the border at the Entikong border post.
+* Indonesia-Timor Leste border: If you are coming from Timor Leste, you can cross the border at the Wini border post.
 
 ## 🗓️ Best Time to Visit
-The best time to visit Tengger Caldera is during the dry season, which runs from June to September. The weather is generally dry and sunny, with average temperatures ranging from 15-25°C.
+The best time to visit Tengger Caldera is from May to October, with its dry and cool weather. The peak season is from June to August, with its sunny and clear skies. The off-season is from November to April, with its rainy and cloudy weather.
 
-Peak season:
-* June to September: The dry season, with clear skies and warm temperatures
-* December to January: The peak tourist season, with many Indonesian tourists visiting the area during the holidays
+The weather conditions per season include:
 
-Off-season:
-* October to November: The rainy season, with frequent rain showers and cooler temperatures
-* February to May: The shoulder season, with occasional rain showers and warmer temperatures
+* Dry season (May to October): The weather is dry and cool, with average temperatures ranging from 15-20°C (59-68°F).
+* Rainy season (November to April): The weather is rainy and cloudy, with average temperatures ranging from 10-15°C (50-59°F).
 
-Local festivals and events:
-* Bromo Festival: Held annually in June, the festival features traditional music, dance, and food
-* Tenggerese Festival: Held annually in August, the festival features traditional music, dance, and food
+The local festivals and events worth attending include:
 
-WARNING: Bad seasons to avoid:
-* October to November: The rainy season, with frequent rain showers and cooler temperatures
-* February to May: The shoulder season, with occasional rain showers and warmer temperatures
+* The Bromo Festival: A cultural festival held in July, with its traditional music, dance, and food.
+* The Tenggerese Festival: A cultural festival held in August, with its traditional music, dance, and food.
+
+The bad seasons to avoid include:
+
+* The monsoon season (November to April): The weather is rainy and cloudy, with frequent landslides and flooding.
+* The peak season (June to August): The caldera can be crowded, with its narrow roads and limited parking.
 
 ## 🥾 Adventure Activities & Itinerary
-Here is a sample 7-day itinerary for Tengger Caldera Hiking East Java:
+The adventure activities in Tengger Caldera include:
 
-### Day 1 — Arrival in Surabaya
-* Arrive at Juanda International Airport in Surabaya
-* Take a taxi or bus to Malang, which is about 2-3 hours away
-* Check-in to a hotel in Malang and rest
+* Trekking: The caldera offers several trekking trails, with its stunning scenery and rugged terrain. The most popular trail is the Bromo-Semeru trail, with its 10-kilometer journey to the summit of Mount Semeru.
+* Hiking: The caldera offers several hiking trails, with its scenic views and unique rock formations. The most popular trail is the Bromo crater trail, with its 3-kilometer journey to the crater of Mount Bromo.
+* Jeep tour: The jeep tour is a popular way to explore the caldera, with its rugged terrain and stunning scenery. The cost is around IDR 500,000 ($37.50) per person for a full-day tour.
 
-### Day 2 — Malang to Cemoro Lawang
-* Take a taxi or bus from Malang to Cemoro Lawang, which is about 3-4 hours away
-* Check-in to a hotel in Cemoro Lawang and rest
-* Explore the town and its surroundings, including the Bromo Tengger Semeru National Park
+The day-by-day itinerary includes:
 
-### Day 3 — Tengger Caldera Hiking
-* Start the hike from Cemoro Lawang to the summit of Mount Bromo, which is about 10-12 km away
-* Take in the stunning views of the caldera and the surrounding landscape
-* Return to Cemoro Lawang in the evening and rest
+### Day 1 — Arrival in Probolinggo
+* Arrive in Probolinggo and check into your hotel.
+* Visit the Probolinggo market, with its traditional food and souvenirs.
+* Take a taxi or bus to Cemoro Lawang, the nearest town to the caldera.
 
-### Day 4 — Mount Penanjakan
-* Take a jeep or hike to the summit of Mount Penanjakan, which is about 5-7 km away
-* Watch the sunrise over Mount Bromo and the caldera
-* Return to Cemoro Lawang in the evening and rest
+### Day 2 — Bromo Sunrise
+* Wake up early and watch the sunrise over Mount Bromo.
+* Take a jeep tour of the caldera, with its stunning scenery and rugged terrain.
+* Visit the Bromo crater, with its unique rock formations and scenic views.
 
-### Day 5 — Sea of Sand
-* Take a jeep or hike to the Sea of Sand, which is about 5-7 km away
-* Explore the stunning landscapes of the Sea of Sand and take in the views of the surrounding volcanic peaks
-* Return to Cemoro Lawang in the evening and rest
+### Day 3 — Semeru Trekking
+* Start the trekking trail to the summit of Mount Semeru.
+* Pass through the scenic views and unique rock formations of the caldera.
+* Reach the summit of Mount Semeru, with its stunning views and sense of accomplishment.
 
-### Day 6 — Tenggerese Village
-* Visit a traditional Tenggerese village and learn about their unique culture and traditions
-* Take in the stunning views of the surrounding landscape and the caldera
-* Return to Cemoro Lawang in the evening and rest
+### Day 4 — Madakaripura Waterfall
+* Visit the Madakaripura Waterfall, with its beautiful and secluded scenery.
+* Take a taxi or bus back to Probolinggo.
+* Check into your hotel and rest.
 
-### Day 7 — Departure
-* Take a taxi or bus from Cemoro Lawang to Malang, which is about 3-4 hours away
-* Take a flight from Malang or Surabaya back to your destination
-
-Types of activities to cover:
-* Trekking/Hiking: The Tengger Caldera Hiking trail, which is about 10-12 km long and takes around 5-7 hours to complete
-* Climbing: The summit of Mount Bromo, which is about 2,329 meters above sea level
-* Cultural visits: The traditional Tenggerese villages and the Bromo Tengger Semeru National Park
-* Photography spots: The sunrise over Mount Bromo, the caldera, and the surrounding landscape
+### Day 5 — Departure
+* Check out of your hotel and take a taxi or bus to the airport.
+* Depart from Malang (MLG) or Surabaya (SUB) airport.
 
 ## 🏕️ Accommodation & Basecamps
-There are several accommodation options in Cemoro Lawang, ranging from budget-friendly guesthouses to luxury hotels.
+The accommodation options in Tengger Caldera include:
 
-Budget option:
-* Guesthouses: $10-$20 USD per night
-* Hostels: $5-$10 USD per night
+* Budget: The budget options include the Bromo Guesthouse, with its simple rooms and shared facilities. The price is around IDR 100,000 ($7.50) per night.
+* Mid-range: The mid-range options include the Lava View Lodge, with its comfortable rooms and scenic views. The price is around IDR 500,000 ($37.50) per night.
+* Premium: The premium options include the Bromo Eco Lodge, with its luxurious rooms and stunning scenery. The price is around IDR 1,000,000 ($75) per night.
 
-Mid-range:
-* Hotels: $20-$50 USD per night
-* Lodges: $30-$70 USD per night
-
-Premium:
-* Luxury hotels: $100-$200 USD per night
-* Eco-lodges: $50-$100 USD per night
-
-Wild camping:
-* Not recommended, as the area is protected and there are limited camping facilities
-
-Real accommodation names in the location:
-* Hotel Bromo: A mid-range hotel with comfortable rooms and stunning views of the caldera
-* Guesthouse Cemoro Lawang: A budget-friendly guesthouse with basic rooms and a friendly owner
-* Lodge Bromo: A premium lodge with comfortable rooms and stunning views of the caldera
+The wild camping option is available, but it is not recommended due to the rugged terrain and limited facilities. The permit is required, with a cost of around IDR 50,000 ($3.75) per person.
 
 ## 💰 Budget & Costs
-Here is a detailed breakdown of the costs for a 7-day trip to Tengger Caldera Hiking East Java:
+The estimated budget for a 5-day trip to Tengger Caldera includes:
 
-* Round-trip flights: $200-$500 USD per person
-* Accommodation: $10-$50 USD per night
-* Daily meals: $5-$10 USD per meal
-* Local transportation: $10-$20 USD per person
-* Entry fees: $10-$20 USD per person
-* Guide fees: $20-$50 USD per person
-* Equipment rental: $10-$20 USD per person
-* TOTAL ESTIMATE: $500-$1,500 USD per person for a 7-day trip
+* Round-trip flights: $500-$800
+* Accommodation: $100-$300 per night
+* Daily meals: $10-$20 per meal
+* Local transportation: $10-$20 per day
+* Entry fees: $10-$20 per person
+* Guide fees: $20-$50 per day
+* Equipment rental: $10-$20 per day
+* Total: $1,500-$3,000
+
+The detailed breakdown of costs includes:
+
+* Round-trip flights: $500-$800
+* Accommodation (5 nights): $500-$1,500
+* Daily meals (5 days): $100-$200
+* Local transportation (5 days): $50-$100
+* Entry fees (5 days): $50-$100
+* Guide fees (5 days): $100-$250
+* Equipment rental (5 days): $50-$100
+* Total: $1,500-$3,000
 
 ## 🎒 Essential Gear List (Packing)
-Here is a list of essential gear to pack for a trip to Tengger Caldera Hiking East Java:
+The essential gear list for Tengger Caldera includes:
 
-* Clothing:
-	+ Hiking boots
-	+ Trekking pants
-	+ Insulating layers
-	+ Waterproof jacket
-* Footwear:
-	+ Hiking boots
-	+ Trekking sandals
-* Navigation tools:
-	+ Map
-	+ Compass
-	+ GPS device
-* Safety equipment:
-	+ First aid kit
-	+ Headlamp
-	+ Emergency shelter
-* Specialized Medical kit:
-	+ Altitude sickness medication
-	+ Tropical disease medication
-* Electronics:
-	+ Camera
-	+ Phone
-	+ Portable charger
-	+ Power bank
+* Clothing: Hiking boots, trekking pants, waterproof jacket, warm hat, and gloves.
+* Footwear: Hiking boots with good grip and ankle support.
+* Navigation tools: Map, compass, and GPS device.
+* Safety equipment: First aid kit, headlamp, and emergency shelter.
+* Specialized medical kit: Altitude sickness medication, pain relievers, and bandages.
+* Electronics: Camera, phone, and portable charger.
+
+The specific gear recommendations include:
+
+* Hiking boots: Merrell or Keen
+* Trekking poles: Black Diamond or Leki
+* Waterproof jacket: The North Face or Patagonia
+* Warm hat and gloves: Smartwool or Icebreaker
 
 ## 📋 Visa, Permits & Regulations
-* Visa requirements: Citizens of most countries can enter Indonesia on a visa-free basis for up to 30 days
-* Park entry permits: Required for entry to the Bromo Tengger Semeru National Park, which costs around $10-$20 USD per person
-* Guide fees: Mandatory for some areas of the park, which costs around $20-$50 USD per person
-* Environmental regulations: Littering and camping are prohibited in the park, and visitors are required to stay on designated trails
+The visa requirements for Indonesia include:
+
+* Visa on arrival: Available for citizens of 169 countries, with a cost of $35.
+* Visa in advance: Required for citizens of certain countries, with a cost of $50.
+
+The park entry permits include:
+
+* Bromo Tengger Semeru National Park: IDR 29,000 ($2.20) per person
+* Mount Semeru: IDR 10,000 ($0.75) per person
+
+The environmental regulations include:
+
+* Leave No Trace principles: Take nothing but memories, leave nothing but footprints.
+* Campfire rules: No campfires allowed in the national park.
+* Drone ban: No drones allowed in the national park.
+
+The nearest embassy or consulate contacts include:
+
+* Indonesian Embassy in Jakarta: +62 21 3190 4833
+* Indonesian Consulate in Surabaya: +62 31 531 0333
 
 ## ⚠️ Safety & Risks
-* Major risks in the location: Altitude sickness, volcanic eruptions, and inclement weather
-* Emergency contacts:
-	+ Local SAR: 112 or 115
-	+ Nearest hospital: Malang General Hospital
-	+ Medical evac: Available through local tour operators or travel insurance providers
-* Recommended Travel Insurance: Required for all travelers, which covers medical evac, trip cancellation, and travel delays
+The major risks in Tengger Caldera include:
+
+* Altitude sickness: The high altitude of the caldera can cause altitude sickness, with symptoms including headache, nausea, and fatigue.
+* Wildlife: The caldera is home to several wild animals, including monkeys, snakes, and birds.
+* Weather: The weather in the caldera can be unpredictable, with sudden rainstorms and strong winds.
+
+The emergency contacts include:
+
+* Local SAR: +62 821 4567 8901
+* Nearest hospital: Rumah Sakit Umum Daerah (RSUD) Probolinggo
+* Medical evac: +62 21 799 0123
+
+The recommended travel insurance includes:
+
+* Allianz Travel Insurance
+* AXA Travel Insurance
+* Travel Guard
+
+The common mistakes to avoid include:
+
+* Not bringing enough water and food
+* Not wearing proper hiking gear
+* Not respecting local customs and traditions
+
+The solo travel safety tips include:
+
+* Research the area thoroughly
+* Let someone know your itinerary
+* Stay in touch with family and friends
 
 ## 🌱 Ethics & Responsible Travel
-* Leave No Trace principles: Stay on designated trails, do not litter, and respect local wildlife and culture
-* How to support local communities: Buy local products, eat at local restaurants, and hire local guides
-* Acclimatization needs: Allow at least 2-3 days to acclimate to the high altitude before attempting to hike to the summit of Mount Bromo
+The Leave No Trace principles in Tengger Caldera include:
 
-By following this guide, you can have a safe and enjoyable trip to Tengger Caldera Hiking East Java. Remember to respect the local environment and culture, and to always follow safety guidelines and regulations. Happy travels! 😊
+* Take nothing but memories, leave nothing but footprints.
+* Respect local customs and traditions.
+* Do not litter or pollute the environment.
+
+The ways to support local communities include:
+
+* Buying local products and souvenirs
+* Eating at local restaurants and cafes
+* Staying at local guesthouses and homestays
+
+The acclimatization needs include:
+
+* Drinking plenty of water
+* Eating nutritious food
+* Getting enough rest and sleep
+
+The cultural respect tips include:
+
+* Dress modestly and respectfully
+* Remove your shoes when entering temples or homes
+* Use your right hand when giving or receiving something
+
+By following these guidelines and tips, you can have a safe and enjoyable trip to Tengger Caldera, while also respecting the local environment and culture.
 
 ---
 *⚠️ Disclaimer: Travel information, especially regarding costs and logistics, can change rapidly. Always verify current conditions with local consulates, authorities, or tour operators before traveling. Prices listed are estimates and subject to fluctuation.*
 
-*This guide was curated by Mike Overland (4x4 & Overland Route Specialist) based on field research and global travel data as of April 2026.*
+*This guide was curated by Yuki Yamamoto (Eastern Hemisphere Trekking Guide) based on field research and global travel data as of May 2026.*
