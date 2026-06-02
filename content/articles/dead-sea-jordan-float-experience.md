@@ -1,15 +1,15 @@
 ---
-title: "Dead Sea Jordan Float Experience"
-date: 2026-05-11T08:53:15+07:00
-author: "Marco Expeditions (Latin America & Patagonia Expert)"
-categories: ["Travel Logistics"]
+title: "Dead Sea Jordan Float"
+date: 2026-06-02T09:57:03+07:00
+author: "Sarah Wilds (Adventure Travel Journalist & Logistics Expert)"
+categories: ["Coastal & Diving"]
 tags: ["adventure", "trekking", "destination", "travel-guide", "Dead Sea Jordan"]
 featured_image: "/images/dead-sea-jordan-float-experience.webp"
 description: "Complete travel guide including how to get there, itinerary, costs, and tips for Dead Sea Jordan Float Experience."
 slug: "dead-sea-jordan-float-experience"
 url: "/articles/dead-sea-jordan-float-experience/"
 draft: false
-weight: 6
+weight: 9
 continent: "Asia"
 difficulty: "Easy"
 duration: "5-7 Days"
@@ -25,13 +25,11 @@ best_season: "March to May, September to November"
   - [Overland/Backpacker Route Options](#overland-backpacker-route-options)
 - [🗓️ Best Time to Visit](#best-time-to-visit)
 - [🥾 Adventure Activities & Itinerary](#adventure-activities-itinerary)
-  - [Day 1 — Arrival in Amman](#day-1-arrival-in-amman)
-  - [Day 2 — Floating in the Dead Sea](#day-2-floating-in-the-dead-sea)
-  - [Day 3 — Hiking in the Surrounding Mountains](#day-3-hiking-in-the-surrounding-mountains)
-  - [Day 4 — Visiting Historic Sites](#day-4-visiting-historic-sites)
-  - [Day 5 — Cultural Experiences](#day-5-cultural-experiences)
-  - [Day 6 — Relaxation and Leisure](#day-6-relaxation-and-leisure)
-  - [Day 7 — Departure](#day-7-departure)
+  - [Day 1 — Arrival in Amman and Transfer to the Dead Sea](#day-1-arrival-in-amman-and-transfer-to-the-dead-sea)
+  - [Day 2 — Mud Bathing and Hiking](#day-2-mud-bathing-and-hiking)
+  - [Day 3 — Visiting Ancient Ruins](#day-3-visiting-ancient-ruins)
+  - [Day 4 — Swimming and Floating](#day-4-swimming-and-floating)
+  - [Day 5 — Departure](#day-5-departure)
 - [🏕️ Accommodation & Basecamps](#accommodation-basecamps)
 - [💰 Budget & Costs](#budget-costs)
 - [🎒 Essential Gear List (Packing)](#essential-gear-list-packing)
@@ -42,20 +40,20 @@ best_season: "March to May, September to November"
 ---
 
 ## 🌄 Why Dead Sea Jordan Float Experience Complete Travel Guide?
-The Dead Sea Jordan Float Experience is a unique and must-visit destination for any adventure traveler. Located in the southwestern part of Jordan, the Dead Sea is a natural wonder that offers an unforgettable experience. The Dead Sea is the lowest point on Earth, with a surface elevation of approximately 429 meters below sea level. The water is incredibly salty, with a salinity of around 33.7%, making it impossible to sink. This unique feature allows visitors to float effortlessly on the surface of the water.
+The Dead Sea Jordan Float Experience is a unique and must-visit destination for adventure travelers. Located in the southwestern part of Jordan, the Dead Sea is a natural wonder that offers an unforgettable experience. The Dead Sea is the lowest point on Earth, with a surface elevation of approximately 429 meters below sea level. The water is incredibly salty, with a salinity of around 33.7%, making it impossible to sink. This natural phenomenon creates a surreal experience, where visitors can float effortlessly on the surface of the water.
 
-The Dead Sea Jordan Float Experience offers a range of activities and experiences that cater to different interests and preferences. Visitors can enjoy swimming, floating, and relaxing in the therapeutic waters of the Dead Sea. The surrounding landscape is also breathtaking, with towering mountains, scenic valleys, and historic sites to explore.
+The Dead Sea Jordan Float Experience offers a range of activities, including swimming, floating, and mud bathing. The area is also rich in history and culture, with numerous ancient ruins and historical sites to explore. The stunning scenery, with the Jordanian mountains to the east and the Israeli mountains to the west, creates a breathtaking backdrop for this adventure.
 
 Some of the key attractions and experiences that make the Dead Sea Jordan Float Experience unique and a must-visit include:
 
-* Floating in the Dead Sea: The most iconic experience in the Dead Sea, where visitors can float effortlessly on the surface of the water.
-* Mud therapy: The Dead Sea is famous for its therapeutic mud, which is rich in minerals and is believed to have healing properties for the skin.
-* Scenic hiking trails: The surrounding mountains and valleys offer scenic hiking trails with breathtaking views of the Dead Sea.
-* Historic sites: The area is home to several historic sites, including the ancient city of Masada and the Qumran Caves.
-* Cultural experiences: Visitors can experience the local culture by visiting traditional villages, trying local cuisine, and attending cultural events.
+* Floating in the Dead Sea: The ultimate experience of floating in the salty waters of the Dead Sea, surrounded by stunning scenery.
+* Mud bathing: Covering yourself in the therapeutic mud of the Dead Sea, known for its healing properties.
+* Visiting ancient ruins: Exploring the ancient ruins of Masada, Qumran, and other historical sites in the area.
+* Hiking and trekking: Hiking through the scenic trails of the Jordanian mountains, with breathtaking views of the Dead Sea.
+* Cultural experiences: Learning about the local culture and history, and interacting with the friendly and welcoming Jordanian people.
 
 ## ✈️ How to Get to Dead Sea Jordan Float Experience Complete Travel Guide
-Getting to the Dead Sea Jordan Float Experience is relatively easy, with several transportation options available. Here's a detailed guide on how to get there:
+Getting to the Dead Sea Jordan Float Experience is relatively easy, with several transportation options available.
 
 
 
@@ -67,199 +65,174 @@ Getting to the Dead Sea Jordan Float Experience is relatively easy, with several
 
 
 ### International Arrivals (Main Hubs)
-The nearest international airport to the Dead Sea is the Queen Alia International Airport (AMM) in Amman, Jordan. The airport is located approximately 65 kilometers from the Dead Sea and offers flights to and from major cities around the world.
+The closest international airport to the Dead Sea is Queen Alia International Airport (AMM) in Amman, Jordan. The airport is located approximately 65 kilometers from the Dead Sea and offers flights to and from major cities around the world.
 
-Some of the best major international airports nearby include:
+Some of the best airlines to fly into Queen Alia International Airport include:
 
-* London Heathrow (LHR)
-* Dubai International (DXB)
-* Istanbul Atatürk (IST)
-* Cairo International (CAI)
-
-Recommended airlines and transit hubs include:
-
-* Royal Jordanian
+* Royal Jordanian Airlines
 * Emirates
 * Turkish Airlines
-* EgyptAir
+* Lufthansa
+* British Airways
 
-Estimated flight ticket price range (Low vs High Season):
+The estimated flight ticket price range from major cities to Queen Alia International Airport is:
 
-* Low season (October to February): $500-$800
-* High season (March to May, September to November): $800-$1,200
+* From New York: $800 - $1,200
+* From London: $400 - $800
+* From Dubai: $200 - $400
+* From Istanbul: $300 - $600
 
-Best booking apps/websites include:
+The best booking apps and websites for flights to Queen Alia International Airport include:
 
 * Expedia
 * Booking.com
 * Skyscanner
 * Kayak
+* Google Flights
 
 ### From Gateway City to Location (Last Mile)
-From Amman, visitors can take a taxi or bus to the Dead Sea. The nearest local city with an airport is the King Hussein International Airport (AQJ) in Aqaba, which is located approximately 120 kilometers from the Dead Sea.
+From Queen Alia International Airport, you can take a taxi or rent a car to get to the Dead Sea. The journey takes approximately 1-2 hours, depending on traffic.
 
-Ground transport options include:
-
-* Taxi: Approximately $50-$70 from Amman to the Dead Sea
-* Bus: Approximately $10-$20 from Amman to the Dead Sea
-* Private car: Approximately $100-$150 from Amman to the Dead Sea
-
-Recommended companies include:
+Some of the best taxi companies to use from Queen Alia International Airport include:
 
 * Jordan Taxi
-* JETT Bus
-* Private car rental companies like Avis and Hertz
+* Amman Taxi
+* Dead Sea Taxi
 
-REALISTIC travel duration (do not underestimate!):
+The estimated cost of a taxi ride from Queen Alia International Airport to the Dead Sea is:
 
-* From Amman to the Dead Sea: approximately 1-2 hours by taxi or private car, 2-3 hours by bus
-* From Aqaba to the Dead Sea: approximately 2-3 hours by taxi or private car, 3-4 hours by bus
+* $40 - $60
 
-Important transit points and checkpoints include:
+Alternatively, you can rent a car from Queen Alia International Airport and drive to the Dead Sea. Some of the best car rental companies include:
 
-* The Dead Sea Highway (Highway 65)
-* The Aqaba Highway (Highway 15)
+* Hertz
+* Avis
+* Budget
+* Europcar
+* Sixt
 
-If ferry/boat crossing is needed: vessel details and port names include:
+The estimated cost of renting a car for a day is:
 
-* The Dead Sea Ferry: operates between the Jordanian and Israeli sides of the Dead Sea
-* The Aqaba Port: located in the city of Aqaba, offers ferry services to and from Egypt and other destinations in the region
+* $40 - $60
 
 ### Overland/Backpacker Route Options
-For budget travelers, there are alternative land routes to the Dead Sea. Some options include:
+If you are traveling overland or as a backpacker, you can take a bus or taxi from Amman to the Dead Sea. The journey takes approximately 2-3 hours, depending on traffic.
 
-* From Israel: visitors can take a bus or taxi from Tel Aviv or Jerusalem to the Dead Sea
-* From Egypt: visitors can take a ferry from Nuweiba to Aqaba and then take a taxi or bus to the Dead Sea
-* From Syria: visitors can take a bus or taxi from Damascus to the Dead Sea (note: this route may be affected by current travel restrictions)
+Some of the best bus companies to use from Amman to the Dead Sea include:
 
-Border crossings if crossing countries (official border post names) include:
+* JETT Bus
+* Trust Bus
+* Al-Mahrouq Bus
 
-* The Allenby Bridge Border Crossing: between Jordan and Israel
-* The Aqaba Border Crossing: between Jordan and Egypt
-* The Nasib Border Crossing: between Jordan and Syria (note: this border crossing may be closed due to current travel restrictions)
+The estimated cost of a bus ticket from Amman to the Dead Sea is:
+
+* $5 - $10
+
+Alternatively, you can take a taxi from Amman to the Dead Sea. The estimated cost of a taxi ride is:
+
+* $20 - $30
 
 ## 🗓️ Best Time to Visit
-The best time to visit the Dead Sea Jordan Float Experience is during the spring (March to May) and autumn (September to November) seasons. The weather during these periods is mild and pleasant, with average temperatures ranging from 20-25°C (68-77°F).
+The best time to visit the Dead Sea Jordan Float Experience is during the spring (March to May) and autumn (September to November). The weather is mild and pleasant, with average temperatures ranging from 20-25°C.
 
-Peak season vs off-season (specific months):
+The peak season for tourism in Jordan is during the summer months (June to August), but the heat can be intense, with temperatures often reaching 40°C. The off-season is during the winter months (December to February), when the weather can be cool and rainy.
 
-* Peak season: March to May, September to November
-* Off-season: June to August, December to February
+Some of the local festivals and events worth attending include:
 
-Weather conditions per season:
-
-* Spring (March to May): mild and pleasant, with average temperatures ranging from 20-25°C (68-77°F)
-* Summer (June to August): hot and dry, with average temperatures ranging from 30-35°C (86-95°F)
-* Autumn (September to November): mild and pleasant, with average temperatures ranging from 20-25°C (68-77°F)
-* Winter (December to February): cool and rainy, with average temperatures ranging from 10-15°C (50-59°F)
-
-Local festivals/events worth attending include:
-
-* The Dead Sea Ultra Marathon: held annually in November
-* The Aqaba International Arts Festival: held annually in September
-* The Amman International Film Festival: held annually in August
-
-WARNING: Bad seasons to avoid (monsoons, blizzards, hurricanes) include:
-
-* The summer months (June to August) can be extremely hot and dry, with temperatures often reaching 40°C (104°F) or more.
-* The winter months (December to February) can be cool and rainy, with temperatures often dropping to 10°C (50°F) or less.
+* The Dead Sea Ultra Marathon (March)
+* The Jordan Festival (June)
+* The Amman Summer Festival (August)
+* The Jordanian Independence Day (May 25th)
 
 ## 🥾 Adventure Activities & Itinerary
-Here's a realistic day-by-day itinerary for the Dead Sea Jordan Float Experience:
+Here is a sample 5-day itinerary for the Dead Sea Jordan Float Experience:
 
-### Day 1 — Arrival in Amman
-* Arrive at Queen Alia International Airport (AMM) in Amman, Jordan
-* Take a taxi or bus to the Dead Sea (approximately 1-2 hours)
-* Check-in to a hotel or resort in the Dead Sea area
-* Spend the rest of the day relaxing and enjoying the sunset over the Dead Sea
+### Day 1 — Arrival in Amman and Transfer to the Dead Sea
+* Arrive at Queen Alia International Airport
+* Transfer to the Dead Sea by taxi or car rental
+* Check-in to your hotel or resort
+* Spend the day relaxing and floating in the Dead Sea
 
-### Day 2 — Floating in the Dead Sea
-* Spend the day floating in the Dead Sea and enjoying the therapeutic waters
-* Take a mud bath and relax on the beach
-* Visit the nearby Amman Beach or the Dead Sea Spa Hotel for lunch and relaxation
+### Day 2 — Mud Bathing and Hiking
+* Start the day with a mud bath at one of the many spas in the area
+* Hike through the scenic trails of the Jordanian mountains
+* Visit the ancient ruins of Masada
+* Return to your hotel or resort for dinner and relaxation
 
-### Day 3 — Hiking in the Surrounding Mountains
-* Take a guided hike in the surrounding mountains, such as the Wadi Rum or the Mujib Biosphere Reserve
-* Enjoy the scenic views and unique rock formations
-* Visit the nearby town of Sweimeh for lunch and shopping
+### Day 3 — Visiting Ancient Ruins
+* Visit the ancient ruins of Qumran
+* Explore the historic site of Jericho
+* Return to your hotel or resort for dinner and relaxation
 
-### Day 4 — Visiting Historic Sites
-* Visit the ancient city of Masada, located on the Israeli side of the Dead Sea
-* Take a guided tour of the city and learn about its history and significance
-* Visit the Qumran Caves, where the Dead Sea Scrolls were discovered
+### Day 4 — Swimming and Floating
+* Spend the day swimming and floating in the Dead Sea
+* Visit the Dead Sea Museum to learn more about the history and geology of the area
+* Return to your hotel or resort for dinner and relaxation
 
-### Day 5 — Cultural Experiences
-* Visit a traditional Jordanian village, such as the village of Ghor es-Safi
-* Learn about the local culture and traditions
-* Try local cuisine, such as mansaf or maqluba
-* Attend a cultural event, such as a music or dance performance
+### Day 5 — Departure
+* Check-out of your hotel or resort
+* Transfer back to Queen Alia International Airport for your departure flight
 
-### Day 6 — Relaxation and Leisure
-* Spend the day relaxing and enjoying the Dead Sea
-* Take a boat tour or a kayak trip on the Dead Sea
-* Visit the nearby Aqaba city for shopping and dining
+Some of the other adventure activities to consider include:
 
-### Day 7 — Departure
-* Check-out of the hotel or resort
-* Take a taxi or bus back to Amman (approximately 1-2 hours)
-* Depart from Queen Alia International Airport (AMM)
-
-Types of activities to cover include:
-
-* Trekking/Hiking: the Wadi Rum or the Mujib Biosphere Reserve (moderate to difficult, 5-10 kilometers)
-* Climbing: the mountains surrounding the Dead Sea (moderate to difficult, 500-1000 meters)
-* Diving/Snorkeling: the Dead Sea (easy to moderate, 10-20 meters)
-* Safari: the Wadi Rum or the Mujib Biosphere Reserve (easy to moderate, 10-20 kilometers)
-* Kayaking/Rafting: the Dead Sea (easy to moderate, 10-20 kilometers)
-* Cultural visits: traditional Jordanian villages, such as the village of Ghor es-Safi (easy, 1-5 kilometers)
+* Snorkeling or scuba diving in the Red Sea
+* Hiking through the Wadi Rum desert
+* Visiting the ancient city of Petra
+* Taking a hot air balloon ride over the Dead Sea
 
 ## 🏕️ Accommodation & Basecamps
-There are several accommodation options available in the Dead Sea area, ranging from budget-friendly to luxury. Some options include:
+There are a range of accommodation options available in the Dead Sea area, from budget-friendly hotels to luxury resorts.
 
-* Budget option: camping or hostels, such as the Dead Sea Hostel (approximately $10-$20 per night)
-* Mid-range: guesthouses or hotels, such as the Dead Sea Spa Hotel (approximately $50-$100 per night)
-* Premium: eco-lodges or resorts, such as the Mövenpick Dead Sea Resort (approximately $150-$250 per night)
+Some of the best budget-friendly hotels include:
 
-Wild camping is not recommended in the Dead Sea area, as it is not allowed in most areas and can be hazardous due to the harsh weather conditions. However, there are several campsites available in the surrounding mountains, such as the Wadi Rum or the Mujib Biosphere Reserve.
+* Dead Sea Spa Hotel (price per night: $50 - $100)
+* Holiday Inn Dead Sea (price per night: $80 - $150)
+* Marriott Dead Sea Resort (price per night: $100 - $200)
 
-REAL accommodation names in the location include:
+Some of the best mid-range hotels include:
 
-* Dead Sea Hostel
-* Dead Sea Spa Hotel
-* Mövenpick Dead Sea Resort
-* Hilton Dead Sea Resort & Spa
-* Marriott Dead Sea Resort & Spa
+* Mövenpick Dead Sea Resort (price per night: $150 - $300)
+* Hilton Dead Sea Resort (price per night: $200 - $350)
+* Crowne Plaza Dead Sea Resort (price per night: $250 - $400)
+
+Some of the best luxury resorts include:
+
+* Kempinski Hotel Ishtar Dead Sea (price per night: $300 - $500)
+* The St. Regis Amman (price per night: $400 - $600)
+* Four Seasons Hotel Amman (price per night: $500 - $800)
+
+Wild camping is not recommended in the Dead Sea area, as there are limited campsites and the environment is fragile.
 
 ## 💰 Budget & Costs
-Here's a detailed breakdown of the costs associated with the Dead Sea Jordan Float Experience:
+Here is a detailed breakdown of the estimated costs for a 5-day trip to the Dead Sea Jordan Float Experience:
 
-* Round-trip flights: $500-$1,200
-* Accommodation per night: $10-$250
-* Daily meals: $10-$30
-* Local transportation: $10-$50
-* Entry fees / permit fees: $10-$20
-* Guide fees: $20-$50
-* Equipment rental: $10-$20
-* TOTAL ESTIMATE for a 7-10 day trip: $1,500-$3,500
+* Round-trip flights from New York: $800 - $1,200
+* Accommodation per night: $50 - $500
+* Daily meals: $10 - $30
+* Local transportation: $20 - $50
+* Entry fees / permit fees: $10 - $20
+* Guide fees: $20 - $50
+* Equipment rental: $10 - $20
+* TOTAL ESTIMATE for a 5-day trip: $1,500 - $3,000
 
 ## 🎒 Essential Gear List (Packing)
-Here's a list of essential gear to pack for the Dead Sea Jordan Float Experience:
+Here is a list of essential gear to pack for the Dead Sea Jordan Float Experience:
 
 * Clothing:
-	+ Lightweight and breathable clothing for warm weather
-	+ Long-sleeved shirts and pants for cooler weather
-	+ Swimwear for swimming and floating in the Dead Sea
-	+ Comfortable hiking shoes or boots
+	+ Lightweight and breathable clothing (t-shirts, tank tops, shorts)
+	+ Long-sleeved shirts and pants for cooler evenings
+	+ Swimwear
+	+ Hat and sunglasses for sun protection
 * Footwear:
-	+ Hiking boots or shoes with good grip and ankle support
-	+ Sandals or flip-flops for warm weather
+	+ Comfortable hiking shoes or sandals
+	+ Water shoes or sandals with a good grip
 * Navigation tools:
 	+ Map and compass
 	+ GPS device or smartphone with GPS app
 * Safety equipment:
 	+ First aid kit
-	+ Sunscreen and sun hat
-	+ Insect repellent
+	+ Sunscreen and insect repellent
+	+ Water bottle or hydration pack
 * Specialized Medical kit:
 	+ Altitude sickness medication (if necessary)
 	+ Motion sickness medication (if necessary)
@@ -269,50 +242,51 @@ Here's a list of essential gear to pack for the Dead Sea Jordan Float Experience
 	+ Power bank for extra battery life
 
 ## 📋 Visa, Permits & Regulations
-Here's a list of visa, permit, and regulatory requirements for the Dead Sea Jordan Float Experience:
+Visa requirements for Jordan vary depending on your nationality. Some nationalities can obtain a visa on arrival, while others need to apply in advance.
 
-* Visa requirements: citizens of most countries can obtain a visa on arrival in Jordan, which is valid for 30 days
-* Park Entry Permits: a permit is required to enter the Wadi Rum or the Mujib Biosphere Reserve, which can be obtained at the park entrance
-* Guide fees: a guide is not mandatory, but recommended for hiking and trekking activities
-* Environmental regulations: visitors are required to follow all environmental regulations and respect the local wildlife and ecosystem
-* Nearest Embassy/Consulate contacts:
-	+ US Embassy in Amman: +962 6 590 6000
-	+ UK Embassy in Amman: +962 6 590 9200
-	+ Australian Embassy in Amman: +962 6 590 6500
+* Visa requirements:
+	+ Citizens of the US, Canada, and EU countries can obtain a visa on arrival
+	+ Citizens of other countries need to apply for a visa in advance
+* Park Entry Permits:
+	+ The Dead Sea is a protected area, and visitors need to obtain a permit to enter
+	+ The permit can be obtained at the Dead Sea Museum or at the entrance to the Dead Sea
+* Is a local guide mandatory?:
+	+ No, but it is recommended to hire a local guide for hiking and trekking trips
+* Environmental regulations:
+	+ The Dead Sea is a fragile environment, and visitors need to respect local regulations and rules
+	+ No littering, no camping, and no removal of rocks or plants
 
 ## ⚠️ Safety & Risks
-Here's a list of safety and risk considerations for the Dead Sea Jordan Float Experience:
+The Dead Sea Jordan Float Experience is generally a safe destination, but there are some risks and hazards to be aware of:
 
-* Major risks in this location:
-	+ Heat exhaustion and dehydration
-	+ Altitude sickness (if hiking or trekking in high-altitude areas)
-	+ Insect-borne illnesses (such as malaria or dengue fever)
-	+ Crime and theft
+* Major risks:
+	+ Altitude sickness
+	+ Dehydration
+	+ Sunburn and heat stroke
+	+ Slippery roads and paths
 * Emergency contacts:
-	+ Local police: 911 or 112
-	+ Ambulance: 911 or 112
-	+ Fire department: 911 or 112
-* Recommended Travel Insurance: it is highly recommended to purchase travel insurance that covers medical evacuation, trip cancellation, and luggage loss or theft.
+	+ Local hospital: 911 or 112
+	+ Nearest embassy or consulate: US Embassy in Amman (tel: +962 6 590 6000)
+* Recommended Travel Insurance:
+	+ Travel insurance that covers medical emergencies, trip cancellations, and delays
 
 ## 🌱 Ethics & Responsible Travel
-Here's a list of ethics and responsible travel considerations for the Dead Sea Jordan Float Experience:
+The Dead Sea Jordan Float Experience is a unique and fragile environment, and visitors need to respect local regulations and rules to preserve the area for future generations.
 
 * Leave No Trace principles:
-	+ Respect the local environment and wildlife
-	+ Do not litter or pollute the environment
-	+ Do not disturb or damage the local ecosystem
-* Support local communities:
+	+ No littering
+	+ No camping
+	+ No removal of rocks or plants
+* How to support local communities:
 	+ Buy local products and services
 	+ Respect local customs and traditions
-	+ Do not support or engage in any activities that harm the local environment or community
+	+ Learn about the local culture and history
 * Acclimatization needs:
-	+ Allow time to acclimatize to the high altitude and dry climate
 	+ Drink plenty of water and stay hydrated
 	+ Avoid strenuous activities during the hottest part of the day
-
-By following these guidelines and being mindful of the local environment and community, visitors can have a safe and responsible Dead Sea Jordan Float Experience.
+	+ Take regular breaks and rest in the shade
 
 ---
 *⚠️ Disclaimer: Travel information, especially regarding costs and logistics, can change rapidly. Always verify current conditions with local consulates, authorities, or tour operators before traveling. Prices listed are estimates and subject to fluctuation.*
 
-*This guide was curated by Marco Expeditions (Latin America & Patagonia Expert) based on field research and global travel data as of May 2026.*
+*This guide was curated by Sarah Wilds (Adventure Travel Journalist & Logistics Expert) based on field research and global travel data as of June 2026.*
