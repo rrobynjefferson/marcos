@@ -1,19 +1,19 @@
 ---
 title: "Baja California Whale Watching"
-date: 2026-05-17T08:07:57+07:00
-author: "Sarah Wilds (Adventure Travel Journalist & Logistics Expert)"
-categories: ["Hidden Gems"]
-tags: ["whale watching", "Baja California", "Mexico", "travel guide", "adventure travel"]
-featured_image: "/images/default-adventure.webp"
-description: "Complete travel guide for Baja California Whale Watching in Mexico, including logistics, itinerary, and costs."
+date: 2026-06-06T08:20:16+07:00
+author: "Marco Expeditions (Latin America & Patagonia Expert)"
+categories: ["Coastal & Diving"]
+tags: ["adventure", "whale watching", "mexico", "travel-guide", "baja california"]
+featured_image: "/images/baja-california-whale-watching-mexico.webp"
+description: "Complete travel guide including how to get there, itinerary, costs, and tips for Baja California Whale Watching Mexico."
 slug: "baja-california-whale-watching-mexico"
 url: "/articles/baja-california-whale-watching-mexico/"
 draft: false
-weight: 4
+weight: 6
 continent: "North America"
 difficulty: "Easy"
 duration: "7-10 Days"
-best_season: "December to May"
+best_season: "December to April"
 ---
 
 **📋 Table of Contents**
@@ -25,13 +25,13 @@ best_season: "December to May"
   - [Overland/Backpacker Route Options](#overland-backpacker-route-options)
 - [🗓️ Best Time to Visit](#best-time-to-visit)
 - [🥾 Adventure Activities & Itinerary](#adventure-activities-itinerary)
-  - [Day 1 — Arrival in San José del Cabo](#day-1-arrival-in-san-jose-del-cabo)
+  - [Day 1 — Arrival in Loreto](#day-1-arrival-in-loreto)
   - [Day 2 — Whale Watching Tour](#day-2-whale-watching-tour)
-  - [Day 3 — La Paz](#day-3-la-paz)
-  - [Day 4 — Espíritu Santo Island](#day-4-espiritu-santo-island)
-  - [Day 5 — Loreto](#day-5-loreto)
-  - [Day 6 — Gray Whale Festival](#day-6-gray-whale-festival)
-  - [Day 7 — Departure](#day-7-departure)
+  - [Day 3 — Kayaking in the Bay of Loreto](#day-3-kayaking-in-the-bay-of-loreto)
+  - [Day 4 — Hiking in the Sierra de San Francisco Mountains](#day-4-hiking-in-the-sierra-de-san-francisco-mountains)
+  - [Day 5 — Boat Tour to Isla del Carmen](#day-5-boat-tour-to-isla-del-carmen)
+  - [Day 6 — Cultural Tour in Loreto](#day-6-cultural-tour-in-loreto)
+  - [Day 7 — Departure from Loreto](#day-7-departure-from-loreto)
 - [🏕️ Accommodation & Basecamps](#accommodation-basecamps)
 - [💰 Budget & Costs](#budget-costs)
 - [🎒 Essential Gear List (Packing)](#essential-gear-list-packing)
@@ -42,31 +42,30 @@ best_season: "December to May"
 ---
 
 ## 🌄 Why Baja California Whale Watching Mexico Complete Travel Guide?
-Baja California is a unique and must-visit destination for adventure travelers and nature lovers. The region offers an unparalleled opportunity to witness the majestic gray whales in their natural habitat. The experiences you cannot get anywhere else include:
-* Witnessing the annual gray whale migration, where thousands of whales travel from Alaska to Mexico's Baja California Peninsula to mate and give birth.
-* Exploring the stunning landscapes of the Baja California Peninsula, including the Sierra de San Francisco Mountains and the Gulf of California.
-* Immersing yourself in the rich cultural heritage of the region, including the indigenous Cochimí and Kiliwa peoples.
-* Enjoying the delicious local cuisine, including fresh seafood, tacos, and traditional Mexican dishes.
+Baja California, Mexico, is a unique and must-visit destination for adventure travelers and nature enthusiasts. The region offers an unparalleled opportunity to witness the majestic gray whales in their natural habitat. The experiences you cannot get anywhere else include:
+- Witnessing the annual migration of gray whales to the lagoons of Baja California, where they give birth and nurse their young.
+- Exploring the stunning landscapes of the Baja California Peninsula, including the Sierra de San Francisco Mountains and the Gulf of California.
+- Immersing yourself in the rich cultural heritage of the region, including the indigenous Cochimí and Kumiai peoples.
+- Enjoying the vibrant colors of the desert flora, the sounds of the whales and seabirds, and the smells of the ocean and the desert.
 
-The visual and sensory highlights of Baja California include:
-* The breathtaking scenery of the Pacific Ocean and the Gulf of California, with its vibrant blue waters and stunning sunsets.
-* The sounds of the whales, dolphins, and sea lions, which can be heard throughout the region.
-* The smells of the ocean, including the salty air and the sweet scent of the local flora.
-* The feeling of the warm sun on your skin and the cool ocean breeze in your hair.
-
-The best reasons to visit Baja California include:
-* Spiritual: Connecting with nature and experiencing the majesty of the whales and the landscape.
-* Physical challenge: Participating in outdoor activities such as hiking, kayaking, and snorkeling.
-* Nature: Witnessing the incredible biodiversity of the region, including the whales, dolphins, sea lions, and over 400 species of birds.
-* Culture: Learning about the rich cultural heritage of the region and interacting with the local communities.
+The best reasons to visit Baja California for whale watching include:
+- Spiritual: Connecting with nature and experiencing the awe-inspiring beauty of the whales.
+- Physical challenge: Participating in guided hikes, kayaking, or snorkeling excursions to explore the region's diverse landscapes and wildlife.
+- Nature: Witnessing the incredible biodiversity of the region, including whales, dolphins, sea lions, and over 400 species of birds.
+- Culture: Learning about the history and traditions of the indigenous peoples and the early European settlers.
 
 ## ✈️ How to Get to Baja California Whale Watching Mexico Complete Travel Guide
 
 ### International Arrivals (Main Hubs)
-The best major international airports to fly into are:
-* Los Cabos International Airport (SJD) in San José del Cabo, Baja California Sur, Mexico.
-* Tijuana International Airport (TIJ) in Tijuana, Baja California, Mexico.
-* San Diego International Airport (SAN) in San Diego, California, USA.
+The best major international airports nearby are:
+- Los Cabos International Airport (SJD) in San José del Cabo, Baja California Sur.
+- Tijuana International Airport (TIJ) in Tijuana, Baja California.
+- San Diego International Airport (SAN) in San Diego, California, USA (for those traveling from the US).
+
+Recommended airlines and transit hubs include:
+- Aeroméxico: With flights from major US cities to Los Cabos and Tijuana.
+- American Airlines: With flights from major US cities to San Diego and connections to Los Cabos and Tijuana.
+- Delta Air Lines: With flights from major US cities to San Diego and connections to Los Cabos and Tijuana.
 
 
 
@@ -76,174 +75,174 @@ The best major international airports to fly into are:
 
 
 
-Recommended airlines and transit hubs include:
-* Aeromexico: With flights from major cities in the United States, including Los Angeles, San Francisco, and New York.
-* American Airlines: With flights from major cities in the United States, including Los Angeles, Dallas, and Miami.
-* Delta Air Lines: With flights from major cities in the United States, including Los Angeles, Atlanta, and New York.
+Estimated flight ticket price ranges (Low vs High Season) are:
+- Low season (May to November): $400-$700 USD return from the US to Los Cabos or Tijuana.
+- High season (December to April): $600-$1,000 USD return from the US to Los Cabos or Tijuana.
 
-Estimated flight ticket prices range from:
-* $400-$1,000 USD for a round-trip ticket from the United States to Los Cabos or Tijuana.
-* $500-$1,500 USD for a round-trip ticket from Canada or Europe to Los Cabos or Tijuana.
-
-Best booking apps and websites include:
-* Expedia: With a wide range of flight options and competitive prices.
-* Kayak: With a user-friendly interface and a price forecast tool.
-* Skyscanner: With a comprehensive search engine and a price alert feature.
+Best booking apps/websites include:
+- Expedia
+- Kayak
+- Skyscanner
+- Booking.com
 
 ### From Gateway City to Location (Last Mile)
 The nearest local city with an airport is:
-* San José del Cabo: With a range of accommodation options and a vibrant downtown area.
-* La Paz: With a stunning waterfront and a rich cultural heritage.
-* Loreto: With a historic downtown area and a range of outdoor activities.
+- Loreto (LTO) in Loreto, Baja California Sur (for those traveling to the central and southern parts of the peninsula).
 
-Ground transportation options include:
-* Bus: With companies such as Ecobaja Tours and Baja California Tours offering daily services from San José del Cabo to La Paz and Loreto.
-* Shuttle: With companies such as Baja Shuttle and East Cape Shuttle offering door-to-door services from the airport to your accommodation.
-* Car rental: With companies such as Avis, Hertz, and Europcar offering a range of vehicles and competitive prices.
+Ground transport options include:
+- Bus: Companies like Ecobaja Tours and Baja California Tours offer bus services from Los Cabos and Tijuana to Loreto and other towns along the peninsula.
+- Shuttle: Companies like Baja Shuttle and Loreto Shuttle offer shared shuttle services from the airport to hotels and tour operators.
+- Private transfer: Companies like Amigo Tours and Baja California Tours offer private transfers from the airport to hotels and tour operators.
+- Renting a car: Companies like Alamo, Avis, and Hertz offer car rentals from the airport.
 
 Realistic travel duration from the gateway city to the location is:
-* 2-3 hours by bus or shuttle from San José del Cabo to La Paz or Loreto.
-* 1-2 hours by car from San José del Cabo to La Paz or Loreto.
+- From Los Cabos to Loreto: 4-5 hours by car or bus.
+- From Tijuana to Loreto: 10-12 hours by car or bus.
+- From San Diego to Tijuana: 2-3 hours by car or bus, then connect to a domestic flight or bus to Loreto.
 
 Important transit points and checkpoints include:
-* The border crossing from the United States to Mexico: With a range of options, including the San Ysidro Port of Entry and the Otay Mesa Port of Entry.
-* The airport in San José del Cabo: With a range of transportation options, including buses, shuttles, and car rentals.
+- The US-Mexico border crossing at San Ysidro or Otay Mesa (for those traveling from the US).
+- The airport in Loreto (for those traveling to the central and southern parts of the peninsula).
 
 If ferry/boat crossing is needed:
-* The ferry from La Paz to Loreto: With daily services and a range of accommodation options.
-* The ferry from San José del Cabo to La Paz: With daily services and a range of accommodation options.
+- The ferry from Pichilingue to Topolobampo (for those traveling to the northern part of the peninsula).
+- The ferry from La Paz to Loreto (for those traveling to the central part of the peninsula).
 
 ### Overland/Backpacker Route Options
 Alternative land routes for budget travelers include:
-* The Baja California Peninsula: With a range of bus and shuttle services, as well as car rental options.
-* The Pacific Coast Highway: With a range of bus and shuttle services, as well as car rental options.
+- The Baja California Peninsula Highway (Mexico 1) from Tijuana to Cabo San Lucas.
+- The Transpeninsular Highway (Mexico 19) from La Paz to San José del Cabo.
 
 Border crossings if crossing countries include:
-* The San Ysidro Port of Entry: With a range of options, including pedestrian, bus, and car crossings.
-* The Otay Mesa Port of Entry: With a range of options, including pedestrian, bus, and car crossings.
+- The US-Mexico border crossing at San Ysidro or Otay Mesa (for those traveling from the US).
 
 ## 🗓️ Best Time to Visit
-The best time to visit Baja California for whale watching is from December to May, with the peak season being from January to March. The weather conditions during this time include:
-* Mild temperatures: With average highs of 75-85°F (24-29°C) and average lows of 55-65°F (13-18°C).
-* Low humidity: With an average relative humidity of 60-70%.
-* Calm seas: With an average wave height of 2-4 feet (0.5-1.2 meters).
+The peak season for whale watching in Baja California is from December to April, when the gray whales migrate to the lagoons of the peninsula. The weather conditions during this time are:
+- Mild temperatures: 60-70°F (15-21°C).
+- Low humidity: 40-60%.
+- Calm seas: Ideal for boat tours and whale watching.
+
+The off-season is from May to November, when the weather is:
+- Hot temperatures: 80-100°F (27-38°C).
+- High humidity: 60-80%.
+- Rough seas: Not ideal for boat tours and whale watching.
 
 Local festivals and events worth attending include:
-* The Gray Whale Festival: Held in February and March in Loreto, with a range of activities, including whale watching tours, cultural events, and food festivals.
-* The Baja California Sur Festival: Held in March and April in La Paz, with a range of activities, including music concerts, cultural events, and food festivals.
+- The Loreto Festival (February): A celebration of music, dance, and food.
+- The Whale Festival (March): A celebration of the gray whale migration.
+- The Baja California Sur Festival (April): A celebration of music, dance, and food.
 
-Warning: Bad seasons to avoid include:
-* The summer months: With high temperatures and high humidity, making it uncomfortable for outdoor activities.
-* The hurricane season: From June to November, with a range of storms and hurricanes affecting the region.
+WARNING: Bad seasons to avoid include:
+- The hurricane season (June to November): The peninsula can be affected by hurricanes and tropical storms.
+- The peak summer months (July to September): The heat and humidity can be extreme.
 
 ## 🥾 Adventure Activities & Itinerary
-Here is a realistic day-by-day itinerary for a 7-day trip to Baja California:
+Here is a realistic day-by-day itinerary for a 7-day whale watching tour in Baja California:
 
-### Day 1 — Arrival in San José del Cabo
-* Arrive at Los Cabos International Airport and transfer to your accommodation in San José del Cabo.
-* Spend the day exploring the town, including the historic downtown area and the waterfront.
-* In the evening, enjoy a traditional Mexican dinner and watch the sunset over the ocean.
+### Day 1 — Arrival in Loreto
+- Arrive at Loreto International Airport (LTO).
+- Transfer to your hotel in Loreto.
+- Spend the day exploring the town and its historic center.
 
 ### Day 2 — Whale Watching Tour
-* Take a guided whale watching tour from San José del Cabo to the Gulf of California.
-* Spend the day observing gray whales, dolphins, and sea lions in their natural habitat.
-* In the evening, return to San José del Cabo and enjoy a seafood dinner.
+- Take a guided whale watching tour in the Bay of Loreto.
+- Witness the gray whales in their natural habitat.
+- Learn about the biology and behavior of the whales.
 
-### Day 3 — La Paz
-* Take a bus or shuttle from San José del Cabo to La Paz.
-* Spend the day exploring the city, including the waterfront and the historic downtown area.
-* In the evening, enjoy a traditional Mexican dinner and watch the sunset over the ocean.
+### Day 3 — Kayaking in the Bay of Loreto
+- Take a guided kayaking tour in the Bay of Loreto.
+- Explore the coastline and marine life of the bay.
+- Paddle to a nearby island for snorkeling and swimming.
 
-### Day 4 — Espíritu Santo Island
-* Take a guided tour to Espíritu Santo Island, a UNESCO World Heritage Site and home to a range of marine life, including sea lions, dolphins, and whales.
-* Spend the day snorkeling, swimming, and exploring the island.
-* In the evening, return to La Paz and enjoy a seafood dinner.
+### Day 4 — Hiking in the Sierra de San Francisco Mountains
+- Take a guided hiking tour in the Sierra de San Francisco Mountains.
+- Explore the stunning landscapes and wildlife of the mountains.
+- Learn about the geology and ecology of the region.
 
-### Day 5 — Loreto
-* Take a bus or shuttle from La Paz to Loreto.
-* Spend the day exploring the town, including the historic downtown area and the waterfront.
-* In the evening, enjoy a traditional Mexican dinner and watch the sunset over the ocean.
+### Day 5 — Boat Tour to Isla del Carmen
+- Take a guided boat tour to Isla del Carmen.
+- Explore the island's beaches and marine life.
+- Snorkel or dive in the crystal-clear waters of the island.
 
-### Day 6 — Gray Whale Festival
-* Attend the Gray Whale Festival in Loreto, with a range of activities, including whale watching tours, cultural events, and food festivals.
-* Spend the day observing gray whales, dolphins, and sea lions in their natural habitat.
-* In the evening, enjoy a seafood dinner and watch the sunset over the ocean.
+### Day 6 — Cultural Tour in Loreto
+- Take a guided cultural tour in Loreto.
+- Learn about the history and traditions of the indigenous Cochimí and Kumiai peoples.
+- Visit the Mission of Our Lady of Loreto, a historic mission founded in 1697.
 
-### Day 7 — Departure
-* Spend the morning shopping for souvenirs or exploring the town.
-* Transfer to the airport for your departure flight.
+### Day 7 — Departure from Loreto
+- Spend the morning shopping for souvenirs or exploring the town.
+- Transfer to Loreto International Airport (LTO) for your departure.
 
 Types of activities to cover include:
-* Trekking/Hiking: With a range of trails, including the Sierra de San Francisco Mountains and the Gulf of California coastline.
-* Climbing: With a range of peaks, including the Sierra de San Francisco Mountains and the volcanic peaks of the Baja California Peninsula.
-* Diving/Snorkeling: With a range of dive sites, including the Gulf of California and the Pacific Ocean.
-* Safari: With a range of wildlife, including gray whales, dolphins, sea lions, and over 400 species of birds.
-* Kayaking/Rafting: With a range of rivers and lakes, including the Gulf of California and the Pacific Ocean.
-* Cultural visits: With a range of communities, including the indigenous Cochimí and Kiliwa peoples.
+- Trekking/Hiking: The Sierra de San Francisco Mountains offer several hiking trails, including the 10-mile (16 km) trail to the summit of Cerro de la Giganta.
+- Climbing: The Sierra de San Francisco Mountains offer several climbing routes, including the 1,000-foot (305 m) climb to the summit of Cerro de la Giganta.
+- Diving/Snorkeling: The Bay of Loreto and Isla del Carmen offer several dive sites, including the coral reefs and shipwrecks of the bay.
+- Safari: The peninsula offers several safari tours, including the 3-day safari tour to the Sierra de San Francisco Mountains.
+- Kayaking/Rafting: The Bay of Loreto and the Sierra de San Francisco Mountains offer several kayaking and rafting routes, including the 10-mile (16 km) route down the San Juan River.
+- Cultural visits: The town of Loreto offers several cultural visits, including the Mission of Our Lady of Loreto and the Loreto Museum.
 
 ## 🏕️ Accommodation & Basecamps
 Budget options include:
-* Camping: With a range of campsites, including the Sierra de San Francisco Mountains and the Gulf of California coastline.
-* Hostels: With a range of options, including the Loreto Hostel and the La Paz Hostel.
-* Price per night: $20-$50 USD.
+- Camping: $10-$20 USD per night.
+- Hostels: $20-$30 USD per night.
+- Guesthouses: $30-$50 USD per night.
 
 Mid-range options include:
-* Guesthouses: With a range of options, including the Loreto Guesthouse and the La Paz Guesthouse.
-* Lodges: With a range of options, including the Sierra de San Francisco Lodge and the Gulf of California Lodge.
-* Price per night: $50-$100 USD.
+- Hotels: $50-$100 USD per night.
+- Bed and breakfasts: $60-$120 USD per night.
+- Vacation rentals: $80-$150 USD per night.
 
 Premium options include:
-* Eco-lodges: With a range of options, including the Espíritu Santo Eco-Lodge and the Sierra de San Francisco Eco-Lodge.
-* Resorts: With a range of options, including the Loreto Resort and the La Paz Resort.
-* Price per night: $100-$250 USD.
+- Eco-lodges: $150-$250 USD per night.
+- Resorts: $200-$300 USD per night.
+- Luxury hotels: $250-$500 USD per night.
 
-Wild camping is allowed in some areas, but a permit is required. Real accommodation names in the location include:
-* Hotel Posada del Molino: A boutique hotel in Loreto with a range of rooms and suites.
-* Hotel La Paz: A hotel in La Paz with a range of rooms and suites.
-* Sierra de San Francisco Lodge: A lodge in the Sierra de San Francisco Mountains with a range of rooms and cabins.
+Wild camping is allowed in some areas, but a permit is required. REAL accommodation names in the location include:
+- Hotel Loreto
+- Posada del Cortés
+- La Mision Loreto
+- El Jardín de Loreto
 
 ## 💰 Budget & Costs
-Detailed breakdown of costs:
-* Round-trip flights: $400-$1,000 USD.
-* Accommodation per night: $20-$250 USD.
-* Daily meals: $10-$30 USD.
-* Local transportation: $10-$50 USD.
-* Entry fees/permit fees: $10-$50 USD.
-* Guide fees: $50-$100 USD.
-* Equipment rental: $20-$50 USD.
-* Total estimate for a 7-10 day trip: $1,500-$3,500 USD.
+Detailed breakdown (in USD):
+- Round-trip flights: $400-$1,000.
+- Accommodation per night: $20-$500.
+- Daily meals: $10-$30.
+- Local transportation: $10-$50.
+- Entry fees / permit fees: $10-$50.
+- Guide fees: $50-$100.
+- Equipment rental: $20-$50.
+- TOTAL ESTIMATE for a 7-day trip: $1,500-$3,500.
 
 ## 🎒 Essential Gear List (Packing)
 Specific to this destination's conditions:
-* Clothing: Layers for cooler evenings, including a fleece jacket and pants.
-* Footwear: Hiking boots or shoes with good traction.
-* Navigation tools: Map, compass, and GPS device.
-* Safety equipment: First aid kit, emergency whistle, and headlamp.
-* Specialized Medical kit: Altitude sickness medication, sun protection, and insect repellent.
-* Electronics: Camera, binoculars, and a portable charger.
+- Clothing: Pack layers for mild temperatures, including a jacket and pants for cooler evenings.
+- Footwear: Bring hiking boots or shoes with good traction for hiking and walking on uneven terrain.
+- Navigation tools: Bring a map, compass, and GPS device or smartphone with GPS app.
+- Safety equipment: Bring a first aid kit, sunscreen, and insect repellent.
+- Specialized Medical kit: Bring any personal medications and a small supply of pain relievers and antihistamines.
+- Electronics: Bring a camera, binoculars, and a portable charger for your phone or other devices.
 
 ## 📋 Visa, Permits & Regulations
-* Visa requirements: A valid passport and a tourist visa are required for entry into Mexico.
-* Park Entry Permits: A permit is required for entry into the Sierra de San Francisco Mountains and the Gulf of California.
-* Local guide: A local guide is recommended for hiking and trekking in the Sierra de San Francisco Mountains.
-* Environmental regulations: A range of regulations, including no camping in sensitive areas and no littering.
-* Nearest Embassy/Consulate contacts: The United States Embassy in Mexico City and the Canadian Embassy in Mexico City.
+- Visa requirements: US citizens do not need a visa to enter Mexico, but must have a valid passport.
+- Park Entry Permits: A permit is required to enter the Bay of Loreto National Park, which can be obtained at the park's entrance.
+- Is a local guide mandatory? No, but it is highly recommended to hire a local guide for whale watching and hiking tours.
+- Environmental regulations: The park has strict regulations to protect the environment and wildlife, including no littering, no feeding the wildlife, and no removal of plants or rocks.
+- Nearest Embassy/Consulate contacts: The US Embassy in Mexico City is located at Paseo de la Reforma 305, Colonia Cuauhtémoc, 06500 Mexico City.
 
 ## ⚠️ Safety & Risks
-* Major risks in this location: Altitude sickness, dehydration, and sun exposure.
-* Emergency contacts: Local hospitals and medical clinics, including the Loreto Hospital and the La Paz Hospital.
-* Recommended Travel Insurance: A range of options, including travel insurance and medical insurance.
-* Common mistakes to avoid: Not bringing enough water, not wearing sunscreen, and not respecting local regulations.
-* Solo travel: It is safe to travel solo in Baja California, but it is recommended to take necessary precautions, including staying in touch with family and friends and being aware of your surroundings.
+- Major risks in this location: The main risks are related to outdoor activities, such as hiking, kayaking, and whale watching, including accidents, injuries, and encounters with wildlife.
+- Emergency contacts: The nearest hospital is the Loreto General Hospital, located at Calle de la Independencia 131, Loreto, Baja California Sur.
+- Recommended Travel Insurance: It is highly recommended to purchase travel insurance that covers medical emergencies, trip cancellations, and delays.
+- Common mistakes to avoid: Not hiring a local guide, not following park regulations, and not being prepared for outdoor activities.
+- Solo travel: It is generally safe for solo travelers, but it is recommended to take necessary precautions, such as staying in touch with family and friends, and being aware of your surroundings.
 
 ## 🌱 Ethics & Responsible Travel
-* Leave No Trace principles: A range of principles, including no littering, no camping in sensitive areas, and no disturbance of wildlife.
-* How to support local communities: Buying local products, eating at local restaurants, and supporting local tour operators.
-* Acclimatization needs: It is recommended to acclimatize to the altitude by spending a few days in Loreto or La Paz before hiking or trekking in the Sierra de San Francisco Mountains.
-
-By following this guide, you can have a safe and enjoyable trip to Baja California, while also respecting the local environment and communities. Remember to always follow local regulations, respect the wildlife, and support local businesses. With its stunning landscapes, rich cultural heritage, and incredible biodiversity, Baja California is a destination that will leave you with unforgettable memories.
+- Leave No Trace principles: The park has strict regulations to protect the environment and wildlife, including no littering, no feeding the wildlife, and no removal of plants or rocks.
+- How to support local communities: By hiring local guides, eating at local restaurants, and shopping at local markets.
+- Acclimatization needs: The high altitude of the Sierra de San Francisco Mountains can cause altitude sickness, so it is recommended to acclimatize by spending a few days in Loreto before hiking or climbing.
 
 ---
 *⚠️ Disclaimer: Travel information, especially regarding costs and logistics, can change rapidly. Always verify current conditions with local consulates, authorities, or tour operators before traveling. Prices listed are estimates and subject to fluctuation.*
 
-*This guide was curated by Sarah Wilds (Adventure Travel Journalist & Logistics Expert) based on field research and global travel data as of May 2026.*
+*This guide was curated by Marco Expeditions (Latin America & Patagonia Expert) based on field research and global travel data as of June 2026.*
