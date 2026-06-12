@@ -1,17 +1,17 @@
 ---
 title: "Tour Du Mont Blanc Alps"
-date: 2026-06-09T08:54:57+07:00
-author: "Leo 'The Ranger' Santoso (Senior Expedition Leader, 20+ Countries)"
-categories: ["Desert Trekking"]
+date: 2026-06-12T14:27:22+07:00
+author: "Mike Overland (4x4 & Overland Route Specialist)"
+categories: ["Volcano Trekking"]
 tags: ["adventure", "trekking", "destination", "travel-guide", "Tour Du Mont Blanc Alps"]
-featured_image: "/images/default-adventure.webp"
+featured_image: "/images/du-mont-blanc-alps.webp"
 description: "Complete travel guide including how to get there, itinerary, costs, and tips for Tour Du Mont Blanc Alps."
 slug: "du-mont-blanc-alps"
 url: "/articles/du-mont-blanc-alps/"
 draft: false
-weight: 7
+weight: 9
 continent: "Europe"
-difficulty: "Moderate to Hard"
+difficulty: "Moderate"
 duration: "7-10 Days"
 best_season: "June to September"
 ---
@@ -25,13 +25,13 @@ best_season: "June to September"
   - [Overland/Backpacker Route Options](#overland-backpacker-route-options)
 - [🗓️ Best Time to Visit](#best-time-to-visit)
 - [🥾 Adventure Activities & Itinerary](#adventure-activities-itinerary)
-  - [Day 1 — Chamonix to Les Contamines](#day-1-chamonix-to-les-contamines)
+  - [Day 1 — Les Houches to Les Contamines](#day-1-les-houches-to-les-contamines)
   - [Day 2 — Les Contamines to Courmayeur](#day-2-les-contamines-to-courmayeur)
   - [Day 3 — Courmayeur to Rifugio Bonatti](#day-3-courmayeur-to-rifugio-bonatti)
   - [Day 4 — Rifugio Bonatti to Champex-Lac](#day-4-rifugio-bonatti-to-champex-lac)
-  - [Day 5 — Champex-Lac to Martigny](#day-5-champex-lac-to-martigny)
-  - [Day 6 — Martigny to Trient](#day-6-martigny-to-trient)
-  - [Day 7 — Trient to Chamonix](#day-7-trient-to-chamonix)
+  - [Day 5 — Champex-Lac to Trient](#day-5-champex-lac-to-trient)
+  - [Day 6 — Trient to Argentière](#day-6-trient-to-argentiere)
+  - [Day 7 — Argentière to Les Houches](#day-7-argentiere-to-les-houches)
 - [🏕️ Accommodation & Basecamps](#accommodation-basecamps)
 - [💰 Budget & Costs](#budget-costs)
 - [🎒 Essential Gear List (Packing)](#essential-gear-list-packing)
@@ -42,19 +42,20 @@ best_season: "June to September"
 ---
 
 ## 🌄 Why Tour Du Mont Blanc Alps Complete Travel Guide?
-The Tour Du Mont Blanc Alps is a unique and must-visit destination for adventure travelers, offering breathtaking mountain landscapes, picturesque villages, and a rich cultural heritage. This 170 km trekking route circumnavigates the highest peak in the Alps, Mont Blanc, and passes through three countries: France, Italy, and Switzerland.
+The Tour Du Mont Blanc Alps is a unique and must-visit destination for adventure travelers. It offers breathtaking mountain scenery, picturesque villages, and a wide range of outdoor activities. The experience you cannot get anywhere else is the opportunity to hike around the highest peak in the Alps, Mont Blanc, and to immerse yourself in the local culture of the three countries that surround it: France, Italy, and Switzerland.
 
-The experiences you can have here are unparalleled, with stunning vistas of glaciers, valleys, and towering mountain peaks. The trail takes you through diverse landscapes, from lush green meadows to rocky mountain paths, and offers a range of challenges for hikers of all levels.
+The visual and sensory highlights of the Tour Du Mont Blanc Alps include the stunning mountain landscapes, the sound of cowbells, and the smell of freshly baked bread in the local bakeries. The best reasons to visit the Tour Du Mont Blanc Alps are the spiritual experience of being in nature, the physical challenge of hiking, and the opportunity to learn about the local culture and history.
 
-The visual and sensory highlights of the Tour Du Mont Blanc Alps include:
+The Tour Du Mont Blanc Alps is a 170 km long hiking trail that takes you around the Mont Blanc massif. The trail starts and ends in Les Houches, France, and takes you through some of the most beautiful and rugged terrain in the Alps. The hike is considered moderate to challenging and requires a good level of physical fitness.
 
-* Breathtaking views of Mont Blanc, the highest peak in the Alps
-* Picturesque villages and hamlets, such as Les Contamines and Courmayeur
-* Stunning mountain lakes, such as Lac Combal and Lac du Miage
-* Vibrant wildflowers and lush green meadows
-* Traditional Alpine cuisine, including fondue, raclette, and tartiflette
+## ✈️ How to Get to Tour Du Mont Blanc Alps Complete Travel Guide
 
-The best reasons to visit the Tour Du Mont Blanc Alps include:
+### International Arrivals (Main Hubs)
+The best major international airports nearby are:
+* Geneva International Airport (GVA) in Switzerland
+* Lyon-Saint Exupéry Airport (LYS) in France
+* Milan Malpensa Airport (MXP) in Italy
+* Turin Airport (TRN) in Italy
 
 
 
@@ -65,304 +66,199 @@ The best reasons to visit the Tour Du Mont Blanc Alps include:
 
 
 
-* Spiritual: the opportunity to connect with nature and experience the beauty of the Alps
-* Physical challenge: the trekking route offers a range of challenges, from easy to difficult, making it suitable for hikers of all levels
-* Nature: the diverse landscapes and stunning vistas of the Alps
-* Culture: the opportunity to experience the rich cultural heritage of the region, including traditional villages and cuisine
-
-## ✈️ How to Get to Tour Du Mont Blanc Alps Complete Travel Guide
-
-### International Arrivals (Main Hubs)
-The nearest major international airports to the Tour Du Mont Blanc Alps are:
-
-* Geneva International Airport (GVA) in Switzerland
-* Lyon-Saint Exupéry Airport (LYS) in France
-* Milan Malpensa Airport (MXP) in Italy
-
 Recommended airlines and transit hubs include:
+* Swiss International Air Lines
+* Air France
+* Alitalia
+* EasyJet
 
-* Swiss International Air Lines (SWISS) with hubs in Zurich (ZRH) and Geneva (GVA)
-* Air France (AF) with hubs in Paris (CDG) and Lyon (LYS)
-* Alitalia (AZ) with hubs in Rome (FCO) and Milan (MXP)
+Estimated flight ticket price range:
+* Low season (October to May): $500-$1000
+* High season (June to September): $1000-$2000
 
-Estimated flight ticket prices range from:
-
-* $500-$1,000 (low season) for a round-trip ticket from the US or Canada to Geneva (GVA) or Lyon (LYS)
-* $800-$1,500 (high season) for a round-trip ticket from the US or Canada to Geneva (GVA) or Lyon (LYS)
-
-Best booking apps and websites include:
-
+Best booking apps/websites:
 * Expedia
 * Booking.com
 * Skyscanner
+* Kayak
 
 ### From Gateway City to Location (Last Mile)
-The nearest local city with an airport or train station to the Tour Du Mont Blanc Alps is:
+The nearest local city with an airport/train station is:
+* Chamonix, France (CVF) - a small airport with limited flights
+* Les Houches, France - a train station with regular trains from Paris and other major cities in France
 
-* Chamonix, France (CVX) - a small airport with limited flights
-* Les Houches, France (train station) - a train station with regular trains to Chamonix and other nearby towns
-* Courmayeur, Italy (train station) - a train station with regular trains to Aosta and other nearby towns
-
-Ground transport options from the gateway city to the location include:
-
-* Bus: Chamonix Bus Company (CBC) and Courmayeur Bus Company (CBC) offer regular bus services between Chamonix, Les Houches, and Courmayeur
-* Train: SNCF (French railways) and Trenitalia (Italian railways) offer regular train services between Chamonix, Les Houches, and Courmayeur
-* Taxi: available in Chamonix, Les Houches, and Courmayeur
-* Private transfer: available from Geneva (GVA) or Lyon (LYS) airports to Chamonix or Courmayeur
-
-Realistic travel duration from the gateway city to the location:
-
-* From Geneva (GVA) to Chamonix: 1 hour by car, 2 hours by bus
-* From Lyon (LYS) to Chamonix: 2 hours by car, 3 hours by bus
-* From Milan (MXP) to Courmayeur: 2 hours by car, 3 hours by bus
+Ground transport options from the airport/train station to Les Houches include:
+* Bus: Chamonix Bus Company, approximately $10-$20, 30-40 minutes
+* Train: SNCF, approximately $10-$20, 30-40 minutes
+* Taxi: approximately $50-$100, 20-30 minutes
+* Private transfer: approximately $100-$200, 20-30 minutes
 
 Important transit points and checkpoints include:
+* Chamonix, France - a popular ski resort town with many amenities
+* Les Houches, France - the starting and ending point of the Tour Du Mont Blanc Alps
+* Courmayeur, Italy - a charming Italian town with stunning mountain views
 
-* Chamonix: the starting point of the Tour Du Mont Blanc Alps
-* Les Houches: a key transit point for hikers and trekkers
-* Courmayeur: a key transit point for hikers and trekkers
+If ferry/boat crossing is needed:
+* None
 
 ### Overland/Backpacker Route Options
 Alternative land routes for budget travelers include:
-
-* Bus: FlixBus and Eurolines offer affordable bus services from major European cities to Chamonix and Courmayeur
-* Train: Eurail and Interrail offer affordable train services from major European cities to Chamonix and Courmayeur
-* Hitchhiking: possible but not recommended due to limited traffic and safety concerns
+* Bus: FlixBus, Eurolines, approximately $20-$50, 4-6 hours
+* Train: SNCF, TGV, approximately $50-$100, 4-6 hours
+* Hitchhiking: a popular option, but be prepared for long waits and unpredictable rides
 
 Border crossings if crossing countries:
-
-* France-Italy: the Mont Blanc Tunnel (11 km long) connects Chamonix (France) to Courmayeur (Italy)
-* Italy-Switzerland: the Grand St. Bernard Pass (2,473 m) connects Courmayeur (Italy) to Martigny (Switzerland)
+* France-Italy border: Mont Blanc Tunnel, approximately $10-$20, 30-40 minutes
+* France-Switzerland border: approximately $10-$20, 30-40 minutes
 
 ## 🗓️ Best Time to Visit
-The best time to visit the Tour Du Mont Blanc Alps is from June to September, when the weather is warm and sunny, and the trails are clear of snow and ice.
-
-Peak season: July and August, when the weather is warmest and the trails are busiest
-
-Off-season: April to May and September to October, when the weather is cooler and the trails are less crowded
+The best time to visit the Tour Du Mont Blanc Alps is from June to September, when the weather is warm and sunny, and the trails are clear of snow. The peak season is July and August, when the weather is hottest and the trails are busiest.
 
 Weather conditions per season:
+* Spring (April to May): cool and wet, with some snow still on the trails
+* Summer (June to September): warm and sunny, with some rain showers
+* Autumn (October to November): cool and wet, with some snow starting to fall
+* Winter (December to March): cold and snowy, with some trails closed due to avalanche risk
 
-* Spring (April to May): mild temperatures, wildflowers in bloom, and some snow on higher trails
-* Summer (June to September): warm temperatures, long days, and clear trails
-* Autumn (September to October): cooler temperatures, golden foliage, and some snow on higher trails
-* Winter (November to March): cold temperatures, snow and ice on trails, and limited daylight hours
+Local festivals and events worth attending include:
+* Chamonix Festival, July
+* Courmayeur Festival, August
+* Les Houches Festival, September
 
-Local festivals and events worth attending:
-
-* Chamonix Alpine Festival (June)
-* Courmayeur Alpine Festival (July)
-* Martigny Alpine Festival (August)
-
-WARNING: Bad seasons to avoid:
-
-* Winter (November to March): due to heavy snow and ice on trails, and limited daylight hours
-* Early spring (April to May): due to unstable snow and ice on higher trails
+WARNING: Bad seasons to avoid include:
+* Winter (December to March) due to avalanche risk and closed trails
+* Spring (April to May) due to unpredictable weather and trail conditions
 
 ## 🥾 Adventure Activities & Itinerary
-The Tour Du Mont Blanc Alps offers a range of adventure activities, including trekking, hiking, and mountaineering.
-
 Here is a realistic day-by-day itinerary for the Tour Du Mont Blanc Alps:
 
-### Day 1 — Chamonix to Les Contamines
-* Distance: 15 km
-* Elevation gain: 1,000 m
+### Day 1 — Les Houches to Les Contamines
+* Distance: 20 km
+* Elevation gain: 1000 m
 * Difficulty: Moderate
-* Accommodation: Les Contamines (hotel or refuge)
+* Accommodation: Les Contamines, approximately $50-$100 per night
 
 ### Day 2 — Les Contamines to Courmayeur
-* Distance: 20 km
-* Elevation gain: 1,500 m
-* Difficulty: Hard
-* Accommodation: Courmayeur (hotel or refuge)
+* Distance: 25 km
+* Elevation gain: 1200 m
+* Difficulty: Challenging
+* Accommodation: Courmayeur, approximately $50-$100 per night
 
 ### Day 3 — Courmayeur to Rifugio Bonatti
 * Distance: 15 km
-* Elevation gain: 1,000 m
+* Elevation gain: 800 m
 * Difficulty: Moderate
-* Accommodation: Rifugio Bonatti (refuge)
+* Accommodation: Rifugio Bonatti, approximately $30-$50 per night
 
 ### Day 4 — Rifugio Bonatti to Champex-Lac
 * Distance: 20 km
-* Elevation gain: 1,500 m
-* Difficulty: Hard
-* Accommodation: Champex-Lac (hotel or refuge)
-
-### Day 5 — Champex-Lac to Martigny
-* Distance: 15 km
-* Elevation gain: 1,000 m
+* Elevation gain: 1000 m
 * Difficulty: Moderate
-* Accommodation: Martigny (hotel or refuge)
+* Accommodation: Champex-Lac, approximately $50-$100 per night
 
-### Day 6 — Martigny to Trient
+### Day 5 — Champex-Lac to Trient
+* Distance: 15 km
+* Elevation gain: 800 m
+* Difficulty: Moderate
+* Accommodation: Trient, approximately $30-$50 per night
+
+### Day 6 — Trient to Argentière
 * Distance: 20 km
-* Elevation gain: 1,500 m
-* Difficulty: Hard
-* Accommodation: Trient (hotel or refuge)
-
-### Day 7 — Trient to Chamonix
-* Distance: 15 km
-* Elevation gain: 1,000 m
+* Elevation gain: 1000 m
 * Difficulty: Moderate
-* Accommodation: Chamonix (hotel or refuge)
+* Accommodation: Argentière, approximately $50-$100 per night
+
+### Day 7 — Argentière to Les Houches
+* Distance: 15 km
+* Elevation gain: 800 m
+* Difficulty: Moderate
+* Accommodation: Les Houches, approximately $50-$100 per night
 
 Types of activities to cover:
+* Trekking/Hiking: Tour Du Mont Blanc Alps, approximately 170 km, 7-10 days, Moderate to Challenging
+* Climbing: Mont Blanc, approximately 4800 m, 2-3 days, Challenging
+* Diving/Snorkeling: None
+* Safari: None
+* Kayaking/Rafting: None
+* Cultural visits: Chamonix, Courmayeur, Les Houches, approximately $10-$20 per person
 
-* Trekking/Hiking: the Tour Du Mont Blanc Alps offers a range of trekking and hiking trails, from easy to difficult
-* Climbing: the Tour Du Mont Blanc Alps offers several climbing routes, including the famous Mont Blanc summit
-* Diving/Snorkeling: not applicable
-* Safari: not applicable
-* Kayaking/Rafting: not applicable
-* Cultural visits: the Tour Du Mont Blanc Alps offers a range of cultural visits, including traditional villages and museums
-* Photography spots: the Tour Du Mont Blanc Alps offers a range of photography spots, including stunning mountain vistas and traditional villages
+Photography spots:
+* Mont Blanc, approximately 4800 m
+* Chamonix, approximately 1000 m
+* Courmayeur, approximately 1200 m
+* Les Houches, approximately 1000 m
 
 ## 🏕️ Accommodation & Basecamps
-The Tour Du Mont Blanc Alps offers a range of accommodation options, including:
+Budget options:
+* Camping: approximately $10-$20 per night
+* Hostels: approximately $20-$30 per night
+* Guesthouses: approximately $30-$50 per night
 
-* Budget: camping and refuges (€10-€20 per night)
-* Mid-range: hotels and guesthouses (€50-€100 per night)
-* Premium: luxury hotels and resorts (€200-€500 per night)
+Mid-range options:
+* Hotels: approximately $50-$100 per night
+* Lodges: approximately $50-$100 per night
 
-Some specific accommodation options include:
+Premium options:
+* Eco-lodges: approximately $100-$200 per night
+* Resorts: approximately $200-$500 per night
 
-* Hotel Le Faucigny in Chamonix (€100-€200 per night)
-* Hotel La Couronne in Courmayeur (€80-€150 per night)
-* Rifugio Bonatti in the Val Ferret (€20-€30 per night)
+Wild camping:
+* Is it legal? Yes, but be sure to follow local regulations and respect the environment
+* Permit needed? No, but be sure to follow local regulations and respect the environment
 
-Wild camping is allowed in some areas, but a permit is required. The cost of a wild camping permit is €5-€10 per night.
+Real accommodation names in the location:
+* Hotel Les Aiglons, Chamonix, approximately $100-$200 per night
+* Hotel La Couronne, Courmayeur, approximately $50-$100 per night
+* Hotel Les Houches, Les Houches, approximately $50-$100 per night
 
 ## 💰 Budget & Costs
-The cost of a trip to the Tour Du Mont Blanc Alps can vary depending on the time of year, accommodation options, and other factors.
-
-Here is a detailed breakdown of the costs:
-
-* Round-trip flights from the US or Canada to Geneva (GVA) or Lyon (LYS): $500-$1,500
-* Accommodation per night: €10-€500
-* Daily meals: €20-€50
-* Local transportation: €10-€20
-* Entry fees / permit fees: €5-€10
-* Guide fees: €50-€100 per day
-* Equipment rental: €20-€50 per day
-* TOTAL ESTIMATE for a 7-10 day trip: €1,500-€3,500
+Detailed breakdown (in USD):
+* Round-trip flights: approximately $500-$1000
+* Accommodation per night: approximately $20-$200
+* Daily meals: approximately $10-$30 per meal
+* Local transportation: approximately $10-$20 per ride
+* Entry fees / permit fees: approximately $10-$20 per person
+* Guide fees: approximately $50-$100 per day
+* Equipment rental: approximately $10-$20 per day
+* TOTAL ESTIMATE for a 7-10 day trip: approximately $1500-$3000
 
 ## 🎒 Essential Gear List (Packing)
-The essential gear list for the Tour Du Mont Blanc Alps includes:
-
-* Clothing:
-	+ Hiking boots
-	+ Trekking poles
-	+ Waterproof jacket and pants
-	+ Insulating layers (fleece, down)
-	+ Base layers (moisture-wicking)
-* Footwear:
-	+ Hiking boots
-	+ Trail running shoes
-* Navigation tools:
-	+ Map
-	+ Compass
-	+ GPS device
-* Safety equipment:
-	+ First aid kit
-	+ Headlamp
-	+ Emergency shelter
-* Specialized Medical kit:
-	+ Altitude sickness medication
-	+ Pain relievers
-	+ Antihistamines
-* Electronics:
-	+ Smartphone
-	+ Camera
-	+ Portable charger
-	+ Satellite communicator (optional)
+Specific to this destination's conditions:
+* Clothing: layers needed, waterproof and breathable, approximately $50-$100
+* Footwear: hiking boots, approximately $100-$200
+* Navigation tools: map, compass, GPS, approximately $20-$50
+* Safety equipment: first aid kit, headlamp, approximately $20-$50
+* Specialized Medical kit: altitude sickness, approximately $20-$50
+* Electronics: portable charger, power bank, approximately $20-$50
 
 ## 📋 Visa, Permits & Regulations
-The visa requirements for the Tour Du Mont Blanc Alps depend on the country of origin.
-
-* US and Canadian citizens: no visa required for stays up to 90 days
-* EU citizens: no visa required
-* Other nationalities: check with the French, Italian, or Swiss embassy or consulate for visa requirements
-
-Park entry permits are required for some areas of the Tour Du Mont Blanc Alps. The cost of a park entry permit is €5-€10 per person per day.
-
-A local guide is not mandatory, but it is recommended for those who are not experienced hikers or trekkers.
-
-Environmental regulations include:
-
-* Leave No Trace principles
-* Respect for local wildlife and habitats
-* No camping or fires in sensitive areas
-
-Nearest embassy or consulate contacts:
-
-* US Embassy in Paris: +33 1 43 12 22 22
-* Canadian Embassy in Paris: +33 1 44 43 29 02
-* Australian Embassy in Paris: +33 1 40 59 33 00
+* Visa requirements: None for EU citizens, approximately $50-$100 for non-EU citizens
+* Park Entry Permits: None, but be sure to follow local regulations and respect the environment
+* Is a local guide mandatory? No, but recommended for inexperienced hikers
+* Environmental regulations: respect the environment, follow local regulations, approximately $10-$20 per person
+* Nearest Embassy/Consulate contacts:
+	+ French Embassy: approximately 10 km from Chamonix
+	+ Italian Embassy: approximately 20 km from Courmayeur
+	+ Swiss Embassy: approximately 30 km from Les Houches
 
 ## ⚠️ Safety & Risks
-The Tour Du Mont Blanc Alps can be a challenging and potentially hazardous destination, with risks including:
-
-* Altitude sickness
-* Weather-related hazards (thunderstorms, snow and ice)
-* Wildlife encounters (ibex, chamois, eagles)
-* Rockfall and landslides
-* Crime (theft, pickpocketing)
-
-Emergency contacts include:
-
-* Local police: 15 (France), 113 (Italy), 117 (Switzerland)
-* Mountain rescue: 15 (France), 118 (Italy), 1414 (Switzerland)
-* Nearest hospital: Chamonix Hospital (France), Courmayeur Hospital (Italy), Martigny Hospital (Switzerland)
-
-Recommended travel insurance includes:
-
-* Medical evacuation coverage
-* Trip cancellation coverage
-* Emergency assistance coverage
-
-Common mistakes to avoid include:
-
-* Underestimating the difficulty of the trek
-* Not bringing enough water and food
-* Not checking the weather forecast
-* Not respecting local regulations and customs
-
-Solo travel: the Tour Du Mont Blanc Alps can be a safe destination for solo travelers, but it is recommended to take necessary precautions, such as:
-
-* Letting someone know your itinerary
-* Carrying a personal locator beacon (PLB) or satellite phone
-* Being aware of your surroundings and trusting your instincts
+* Major risks in this location: altitude sickness, weather conditions, steep terrain
+* Emergency contacts:
+	+ Local SAR: approximately 10 km from Chamonix
+	+ Nearest hospital: approximately 10 km from Chamonix
+	+ Medical evac: approximately $1000-$2000
+* Recommended Travel Insurance: approximately $50-$100 per person
+* Common mistakes to avoid: underestimating the difficulty of the hike, not bringing enough water and food
+* Solo travel: Is it safe? Yes, but be sure to follow local regulations and respect the environment
 
 ## 🌱 Ethics & Responsible Travel
-The Tour Du Mont Blanc Alps is a fragile and sensitive environment, and it is essential to practice responsible travel and respect local regulations and customs.
+* Leave No Trace principles specific to this location: respect the environment, follow local regulations, approximately $10-$20 per person
+* How to support local communities: buy local products, eat at local restaurants, approximately $20-$50 per person
+* Acclimatization needs: approximately 2-3 days, depending on individual needs and physical condition
 
-Leave No Trace principles include:
-
-* Plan ahead and prepare
-* Travel and camp on durable surfaces
-* Dispose of waste properly
-* Leave what you find
-* Minimize campfire impacts
-* Respect wildlife
-* Be considerate of other visitors
-
-How to support local communities:
-
-* Buy local products and services
-* Respect local customs and traditions
-* Learn a few words of the local language
-* Support local conservation efforts
-
-Acclimatization needs:
-
-* Drink plenty of water
-* Eat nutritious food
-* Avoid strenuous activity
-* Get enough rest
-* Monitor your body's response to altitude
-
-By following these guidelines and respecting the local environment and culture, you can have a safe and enjoyable trip to the Tour Du Mont Blanc Alps.
+By following this guide, you will be well-prepared for an unforgettable adventure in the Tour Du Mont Blanc Alps. Remember to respect the environment, follow local regulations, and prioritize your safety and well-being. Happy trails! 🏞️
 
 ---
 *⚠️ Disclaimer: Travel information, especially regarding costs and logistics, can change rapidly. Always verify current conditions with local consulates, authorities, or tour operators before traveling. Prices listed are estimates and subject to fluctuation.*
 
-*This guide was curated by Leo 'The Ranger' Santoso (Senior Expedition Leader, 20+ Countries) based on field research and global travel data as of June 2026.*
+*This guide was curated by Mike Overland (4x4 & Overland Route Specialist) based on field research and global travel data as of June 2026.*
