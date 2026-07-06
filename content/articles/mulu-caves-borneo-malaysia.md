@@ -1,15 +1,15 @@
 ---
 title: "Mulu Caves Borneo Malaysia"
-date: 2026-05-23T01:50:05+07:00
-author: "Dr. Forest Green (Eco-Tourism Guide & Conservationist)"
-categories: ["Wildlife Safari"]
+date: 2026-07-06T01:51:16+07:00
+author: "Leo 'The Ranger' Santoso (Senior Expedition Leader, 20+ Countries)"
+categories: ["Oceania Wilderness"]
 tags: ["adventure", "trekking", "Mulu Caves", "Borneo", "Malaysia", "travel-guide"]
 featured_image: "/images/mulu-caves-borneo-malaysia.webp"
 description: "Complete travel guide including how to get there, itinerary, costs, and tips for Mulu Caves Borneo Malaysia."
 slug: "mulu-caves-borneo-malaysia"
 url: "/articles/mulu-caves-borneo-malaysia/"
 draft: false
-weight: 10
+weight: 9
 continent: "Asia"
 difficulty: "Moderate"
 duration: "7-10 Days"
@@ -25,12 +25,12 @@ best_season: "March to October"
   - [Overland/Backpacker Route Options](#overland-backpacker-route-options)
 - [🗓️ Best Time to Visit](#best-time-to-visit)
 - [🥾 Adventure Activities & Itinerary](#adventure-activities-itinerary)
-  - [Day 1 — Arrival in Mulu](#day-1-arrival-in-mulu)
-  - [Day 2 — Trek to the Deer Cave](#day-2-trek-to-the-deer-cave)
-  - [Day 3 — Trek to the Lang Cave](#day-3-trek-to-the-lang-cave)
-  - [Day 4 — Trek to the Pinnacles](#day-4-trek-to-the-pinnacles)
-  - [Day 5 — Visit the Penan Village](#day-5-visit-the-penan-village)
-  - [Day 6 — Scenic Flight over the Pinnacles](#day-6-scenic-flight-over-the-pinnacles)
+  - [Day 1 — Arrival and Acclimatization](#day-1-arrival-and-acclimatization)
+  - [Day 2 — Deer Cave and Lang Cave](#day-2-deer-cave-and-lang-cave)
+  - [Day 3 — The Pinnacles](#day-3-the-pinnacles)
+  - [Day 4 — Wind Cave and Clearwater Cave](#day-4-wind-cave-and-clearwater-cave)
+  - [Day 5 — Cultural Visit](#day-5-cultural-visit)
+  - [Day 6 — Jungle Trek](#day-6-jungle-trek)
   - [Day 7 — Departure](#day-7-departure)
 - [🏕️ Accommodation & Basecamps](#accommodation-basecamps)
 - [💰 Budget & Costs](#budget-costs)
@@ -42,30 +42,33 @@ best_season: "March to October"
 ---
 
 ## 🌄 Why Mulu Caves Borneo Malaysia Complete Travel Guide?
-Mulu Caves in Borneo, Malaysia, is a unique and must-visit destination for adventure travelers. The area is home to some of the most spectacular caves in the world, including the Sarawak Chamber, which is the largest cave chamber in the world. The caves are surrounded by lush rainforest, making it an ideal location for trekking, hiking, and wildlife spotting.
+Mulu Caves, located in the heart of Borneo, Malaysia, is a UNESCO World Heritage Site and one of the most spectacular cave systems in the world. This destination is unique and a must-visit for adventure travelers due to its:
+- **Unparalleled cave formations**: The caves feature an astonishing array of formations, including towering stalactites and stalagmites, and vast chambers.
+- **Diverse wildlife**: The surrounding rainforest is home to a wide variety of flora and fauna, including orangutans, proboscis monkeys, and hornbills.
+- **Indigenous culture**: The area is inhabited by the Penan and Berawan tribes, offering a glimpse into the traditional way of life of Borneo's indigenous people.
+- **Spiritual significance**: The caves and surrounding mountains hold deep spiritual significance for the local tribes, adding a layer of cultural depth to the experience.
+- **Physical challenge**: Trekking through the jungle and exploring the caves provides a thrilling physical challenge, suitable for moderately experienced adventurers.
 
-Some of the key attractions in Mulu Caves include:
-* The Sarawak Chamber: The largest cave chamber in the world, with a volume of 9,500,000 cubic meters.
-* The Deer Cave: A massive cave with a large entrance and a beautiful garden inside.
-* The Lang Cave: A smaller cave with a unique formation of stalactites and stalagmites.
-* The Pinnacles: A series of towering limestone peaks that offer breathtaking views of the surrounding landscape.
-* The rainforest: Mulu Caves is surrounded by lush rainforest, which is home to a wide variety of flora and fauna, including orangutans, proboscis monkeys, and hornbills.
-
-The experiences you can have in Mulu Caves are:
-* Trekking and hiking through the rainforest to the caves
-* Exploring the caves and marveling at their beauty
-* Wildlife spotting, including orangutans, proboscis monkeys, and hornbills
-* Visiting the local Penan village and learning about their culture
-* Taking a scenic flight over the pinnacles and the surrounding landscape
-
-The best reasons to visit Mulu Caves are:
-* Spiritual: The caves and the surrounding rainforest have a spiritual significance for the local Penan people.
-* Physical challenge: Trekking and hiking through the rainforest to the caves can be a challenging but rewarding experience.
-* Nature: The caves and the surrounding rainforest are a nature lover's paradise, with a wide variety of flora and fauna to see.
-* Culture: Visiting the local Penan village and learning about their culture is a unique and enriching experience.
+The visual and sensory highlights of Mulu Caves include:
+- The breathtaking **Deer Cave**, with its massive entrance and stunning formations.
+- The **Garden of Eden**, a lush, tropical valley surrounded by towering cliffs.
+- The **Pinnacles**, a series of sharp, limestone peaks that offer breathtaking views.
+- The sounds of the jungle, including the calls of exotic birds and the rustling of leaves.
+- The smells of the rainforest, including the scent of blooming flowers and the earthy smell of damp soil.
 
 ## ✈️ How to Get to Mulu Caves Borneo Malaysia Complete Travel Guide
-Getting to Mulu Caves can be a bit challenging, but with the right information, it can be a smooth and enjoyable journey.
+
+### International Arrivals (Main Hubs)
+The nearest major international airport is **Kota Kinabalu International Airport (BKI)** in Sabah, Malaysia. Other options include **Kuching International Airport (KCH)** in Sarawak, Malaysia, and **Brunei International Airport (BWN)** in Brunei.
+- Recommended airlines: Malaysia Airlines, AirAsia, and Royal Brunei Airlines.
+- Estimated flight ticket price range: $500-$1,500 (low season) and $1,000-$3,000 (high season).
+- Best booking apps/websites: Expedia, Kayak, and Skyscanner.
+
+### From Gateway City to Location (Last Mile)
+From **Kota Kinabalu**, take a domestic flight to **Mulu Airport (MZV)**, which is the nearest airport to the caves. The flight takes approximately 1 hour and costs around $100-$200.
+- Alternatively, take a bus or taxi from Kota Kinabalu to **Mirai** (around 4-5 hours, $20-$50), then take a boat to **Mulu** (around 1-2 hours, $10-$20).
+- From **Kuching**, take a domestic flight to Mulu Airport (around 1.5 hours, $150-$300).
+- From **Brunei**, take a bus or taxi to **Bangar** (around 1-2 hours, $10-$20), then take a boat to Mulu (around 1-2 hours, $10-$20).
 
 
 
@@ -75,246 +78,104 @@ Getting to Mulu Caves can be a bit challenging, but with the right information, 
 
 
 
-### International Arrivals (Main Hubs)
-The best way to get to Mulu Caves is to fly into Kota Kinabalu International Airport (BKI) or Miri Airport (MYY) in Sabah, Malaysia. From there, you can take a domestic flight to Mulu Airport (MZV).
-
-Some of the major international airports that offer flights to Kota Kinabalu or Miri include:
-* Singapore Changi Airport (SIN)
-* Kuala Lumpur International Airport (KUL)
-* Hong Kong International Airport (HKG)
-* Tokyo Narita International Airport (NRT)
-
-Recommended airlines and transit hubs include:
-* Malaysia Airlines: Offers flights from Kuala Lumpur to Kota Kinabalu and Miri.
-* AirAsia: Offers flights from Kuala Lumpur to Kota Kinabalu and Miri.
-* Singapore Airlines: Offers flights from Singapore to Kota Kinabalu and Miri.
-* Japan Airlines: Offers flights from Tokyo to Kota Kinabalu and Miri.
-
-Estimated flight ticket prices range from:
-* $200-$500 USD for a one-way ticket from Singapore to Kota Kinabalu or Miri.
-* $300-$600 USD for a one-way ticket from Kuala Lumpur to Kota Kinabalu or Miri.
-* $500-$1,000 USD for a one-way ticket from Hong Kong or Tokyo to Kota Kinabalu or Miri.
-
-Best booking apps and websites include:
-* Expedia
-* Booking.com
-* Skyscanner
-* Kayak
-
-### From Gateway City to Location (Last Mile)
-From Mulu Airport, you can take a taxi or a shuttle bus to the Mulu National Park headquarters, which is the starting point for most treks and tours.
-
-Some of the ground transport options from Mulu Airport include:
-* Taxi: Approximately $10-$20 USD for a one-way trip to the Mulu National Park headquarters.
-* Shuttle bus: Approximately $5-$10 USD for a one-way trip to the Mulu National Park headquarters.
-* Private transfer: Approximately $20-$50 USD for a one-way trip to the Mulu National Park headquarters.
-
-Realistic travel duration from Mulu Airport to the Mulu National Park headquarters is approximately 30 minutes to 1 hour, depending on traffic and road conditions.
-
-Important transit points and checkpoints include:
-* Mulu Airport: The airport is small, but it has all the necessary facilities, including a restaurant, a souvenir shop, and a taxi stand.
-* Mulu National Park headquarters: This is the starting point for most treks and tours, and it has a restaurant, a souvenir shop, and a park information center.
-
 ### Overland/Backpacker Route Options
-For budget travelers, there are alternative land routes to get to Mulu Caves. One option is to take a bus from Miri to the town of Limbang, and then take a taxi or a shuttle bus to the Mulu National Park headquarters.
-
-Some of the bus companies that offer services from Miri to Limbang include:
-* Miri Bus Company: Approximately $10-$20 USD for a one-way ticket.
-* Limbang Bus Company: Approximately $10-$20 USD for a one-way ticket.
-
-From Limbang, you can take a taxi or a shuttle bus to the Mulu National Park headquarters. The journey takes approximately 2-3 hours, depending on traffic and road conditions.
-
-Border crossings are not necessary for this route, as Mulu Caves is located within the state of Sarawak, Malaysia.
+For budget travelers, consider taking the **bus** from Kota Kinabalu to Miri (around 4-5 hours, $20-$50), then transferring to a **minivan** to **Mulu** (around 2-3 hours, $10-$20).
+- Alternatively, take a **boat** from Kota Kinabalu to **Mulu** (around 10-12 hours, $50-$100), which offers a scenic route along the coast.
 
 ## 🗓️ Best Time to Visit
-The best time to visit Mulu Caves is from March to October, when the weather is dry and sunny. The peak season is from June to August, when the weather is hottest and driest.
-
-The weather conditions per season are:
-* Dry season (March to October): Dry and sunny, with average temperatures ranging from 20-30°C (68-86°F).
-* Wet season (November to February): Wet and humid, with average temperatures ranging from 20-30°C (68-86°F).
-
-Local festivals and events worth attending include:
-* The Mulu Festival: Held annually in June, the festival features traditional music, dance, and food from the local Penan community.
-* The Sarawak Rainforest Music Festival: Held annually in July, the festival features music and dance performances from local and international artists.
-
-WARNING: The wet season can be a bad time to visit Mulu Caves, as the rain can make the roads and trails slippery and difficult to navigate. Additionally, the risk of landslides and flash floods is higher during the wet season.
+The best time to visit Mulu Caves is during the **dry season**, from **March to October**, when the weather is dry and sunny, with average temperatures ranging from 20-30°C (68-86°F).
+- **Peak season**: June to August, with the highest number of tourists and highest prices.
+- **Off-season**: November to February, with fewer tourists and lower prices, but with a higher risk of rain and flooding.
+- **Local festivals/events**: The **Mulu Eco-Challenge** (September) and the **Borneo Jazz Festival** (May) are worth attending.
+- **WARNING**: Avoid visiting during the **monsoon season** (November to February), when heavy rain and flooding can occur.
 
 ## 🥾 Adventure Activities & Itinerary
-Here is a realistic day-by-day itinerary for a 7-day trip to Mulu Caves:
+Here's a realistic 7-day itinerary for Mulu Caves:
 
-### Day 1 — Arrival in Mulu
-* Arrive at Mulu Airport and take a taxi or shuttle bus to the Mulu National Park headquarters.
-* Check-in at the park's accommodation and attend a briefing on the park's rules and regulations.
-* Spend the rest of the day exploring the park's surroundings and getting accustomed to the environment.
+### Day 1 — Arrival and Acclimatization
+- Arrive at Mulu Airport and transfer to your accommodation.
+- Spend the day exploring the **Mulu National Park** and getting accustomed to the climate.
+- Distance: 10 km (6.2 miles), elevation: 50 m (164 ft).
 
-### Day 2 — Trek to the Deer Cave
-* Start the day with a hearty breakfast and then begin the trek to the Deer Cave.
-* The trek takes approximately 3-4 hours, depending on the pace and the weather.
-* Explore the Deer Cave and marvel at its beauty.
-* Return to the park headquarters in the evening and enjoy a well-deserved rest.
+### Day 2 — Deer Cave and Lang Cave
+- Trek to **Deer Cave** (around 3-4 hours, 12 km/7.5 miles, moderate difficulty).
+- Explore **Lang Cave** (around 1-2 hours, 2 km/1.2 miles, easy difficulty).
+- Distance: 14 km (8.7 miles), elevation: 100 m (328 ft).
 
-### Day 3 — Trek to the Lang Cave
-* Start the day with a hearty breakfast and then begin the trek to the Lang Cave.
-* The trek takes approximately 2-3 hours, depending on the pace and the weather.
-* Explore the Lang Cave and marvel at its unique formation of stalactites and stalagmites.
-* Return to the park headquarters in the evening and enjoy a well-deserved rest.
+### Day 3 — The Pinnacles
+- Trek to **The Pinnacles** (around 5-6 hours, 10 km/6.2 miles, challenging difficulty).
+- Enjoy breathtaking views of the surrounding landscape.
+- Distance: 10 km (6.2 miles), elevation: 1,200 m (3,937 ft).
 
-### Day 4 — Trek to the Pinnacles
-* Start the day with a hearty breakfast and then begin the trek to the Pinnacles.
-* The trek takes approximately 5-6 hours, depending on the pace and the weather.
-* Explore the Pinnacles and marvel at their beauty.
-* Return to the park headquarters in the evening and enjoy a well-deserved rest.
+### Day 4 — Wind Cave and Clearwater Cave
+- Trek to **Wind Cave** (around 2-3 hours, 6 km/3.7 miles, moderate difficulty).
+- Explore **Clearwater Cave** (around 1-2 hours, 2 km/1.2 miles, easy difficulty).
+- Distance: 8 km (5 miles), elevation: 50 m (164 ft).
 
-### Day 5 — Visit the Penan Village
-* Start the day with a hearty breakfast and then begin the trek to the Penan village.
-* The trek takes approximately 2-3 hours, depending on the pace and the weather.
-* Visit the Penan village and learn about their culture and way of life.
-* Return to the park headquarters in the evening and enjoy a well-deserved rest.
+### Day 5 — Cultural Visit
+- Visit a **Penan** or **Berawan** village to learn about the local culture and traditions.
+- Distance: 10 km (6.2 miles), elevation: 50 m (164 ft).
 
-### Day 6 — Scenic Flight over the Pinnacles
-* Start the day with a hearty breakfast and then take a scenic flight over the Pinnacles.
-* The flight takes approximately 1 hour, depending on the weather.
-* Marvel at the breathtaking views of the Pinnacles and the surrounding landscape.
-* Return to the park headquarters in the evening and enjoy a well-deserved rest.
+### Day 6 — Jungle Trek
+- Trek through the **jungle** (around 5-6 hours, 10 km/6.2 miles, challenging difficulty).
+- Spot exotic wildlife, including orangutans and proboscis monkeys.
+- Distance: 10 km (6.2 miles), elevation: 100 m (328 ft).
 
 ### Day 7 — Departure
-* Spend the morning shopping for souvenirs or exploring the park's surroundings.
-* Depart for the airport and take a flight back to Kota Kinabalu or Miri.
-
-Types of activities to cover include:
-* Trekking and hiking through the rainforest to the caves.
-* Exploring the caves and marveling at their beauty.
-* Wildlife spotting, including orangutans, proboscis monkeys, and hornbills.
-* Visiting the local Penan village and learning about their culture.
-* Taking a scenic flight over the Pinnacles and the surrounding landscape.
+- Spend the morning shopping for souvenirs or exploring the park.
+- Depart for Mulu Airport and your onward journey.
 
 ## 🏕️ Accommodation & Basecamps
-There are several accommodation options available in Mulu Caves, ranging from budget-friendly to luxury.
-
-Budget options include:
-* Camping: Approximately $10-$20 USD per night.
-* Hostels: Approximately $20-$30 USD per night.
-
-Mid-range options include:
-* Guesthouses: Approximately $30-$50 USD per night.
-* Lodges: Approximately $50-$100 USD per night.
-
-Premium options include:
-* Eco-lodges: Approximately $100-$200 USD per night.
-* Resorts: Approximately $200-$500 USD per night.
-
-Some of the accommodation options in Mulu Caves include:
-* Mulu National Park Accommodation: Offers a range of accommodation options, from budget-friendly to luxury.
-* Benarat Lodge: Offers mid-range accommodation options.
-* Mulu Marriott Resort: Offers luxury accommodation options.
-
-Wild camping is allowed in some areas of the park, but a permit is required. The cost of the permit is approximately $10-$20 USD per night.
+- **Budget option**: Camping at **Mulu National Park** (around $10-$20 per night) or staying at a **hostel** in Mulu (around $20-$30 per night).
+- **Mid-range**: Staying at a **guesthouse** in Mulu (around $50-$100 per night) or a **lodge** near the park (around $100-$200 per night).
+- **Premium**: Staying at an **eco-lodge** near the park (around $200-$500 per night).
+- **Wild camping**: Not recommended, as it is not allowed in the national park.
+- Real accommodation names in the location include:
+  - **Mulu National Park HQ**
+  - **Mulu Eco-Lodge**
+  - **Benarat Lodge**
+  - **Mulu Village Homestay**
 
 ## 💰 Budget & Costs
-The estimated cost of a 7-day trip to Mulu Caves is approximately $1,500-$3,000 USD per person, depending on the accommodation options and activities.
-
-Breakdown of the costs:
-* Round-trip flights: Approximately $500-$1,000 USD.
-* Accommodation: Approximately $300-$1,000 USD.
-* Food: Approximately $200-$500 USD.
-* Local transportation: Approximately $100-$300 USD.
-* Entry fees and permits: Approximately $50-$100 USD.
-* Guide fees: Approximately $100-$300 USD.
-* Equipment rental: Approximately $50-$100 USD.
-* Total: Approximately $1,500-$3,000 USD.
+Here's a detailed breakdown of the costs:
+- **Round-trip flights**: $500-$1,500 (low season) and $1,000-$3,000 (high season).
+- **Accommodation per night**: $10-$20 (budget), $50-$100 (mid-range), and $200-$500 (premium).
+- **Daily meals**: $10-$20 per meal, $30-$50 per day.
+- **Local transportation**: $10-$20 per trip, $50-$100 per day.
+- **Entry fees / permit fees**: $20-$50 per person, depending on the activity.
+- **Guide fees**: $50-$100 per day, mandatory for some activities.
+- **Equipment rental**: $10-$20 per day, depending on the equipment.
+- **TOTAL ESTIMATE** for a 7-10 day trip: $1,500-$3,500 (budget), $2,500-$5,000 (mid-range), and $4,000-$8,000 (premium).
 
 ## 🎒 Essential Gear List (Packing)
-Some of the essential gear to pack for a trip to Mulu Caves includes:
-* Clothing:
-	+ Hiking boots
-	+ Trekking pants
-	+ Moisture-wicking shirts
-	+ Waterproof jacket
-	+ Warm layers for cooler evenings
-* Footwear:
-	+ Hiking boots
-	+ Trekking sandals
-* Navigation tools:
-	+ Map
-	+ Compass
-	+ GPS device
-* Safety equipment:
-	+ First aid kit
-	+ Headlamp
-	+ Whistle
-* Specialized medical kit:
-	+ Altitude sickness medication
-	+ Insect repellent
-	+ Sunscreen
-* Electronics:
-	+ Camera
-	+ Smartphone
-	+ Portable charger
-	+ Power bank
+- **Clothing**: Lightweight, quick-drying clothing, including long-sleeved shirts and pants, and a waterproof jacket.
+- **Footwear**: Sturdy hiking boots or shoes with good grip.
+- **Navigation tools**: Map, compass, and GPS device or app.
+- **Safety equipment**: First aid kit, headlamp, and emergency whistle.
+- **Specialized Medical kit**: Altitude sickness medication, insect repellent, and any personal medications.
+- **Electronics**: Smartphone, camera, and portable power bank.
 
 ## 📋 Visa, Permits & Regulations
-Visa requirements for Malaysia include:
-* Citizens of most countries can enter Malaysia without a visa for a stay of up to 90 days.
-* Citizens of certain countries, such as China and India, require a visa to enter Malaysia.
-
-Park entry permits are required to enter Mulu National Park. The cost of the permit is approximately $10-$20 USD per person.
-
-Local guides are mandatory for some treks and activities. The cost of a local guide is approximately $50-$100 USD per day.
-
-Environmental regulations include:
-* No littering or pollution
-* No removal of plants or animals
-* No camping in sensitive areas
-* No use of drones or other aerial vehicles
+- **Visa requirements**: Check with the Malaysian embassy or consulate in your home country for the latest visa requirements.
+- **Park Entry Permits**: Obtain a permit from the **Mulu National Park HQ** (around $20-$50 per person, depending on the activity).
+- **Local guide**: Mandatory for some activities, such as trekking to The Pinnacles.
+- **Environmental regulations**: Follow the **Leave No Trace** principles and respect the local environment.
+- **Nearest Embassy/Consulate contacts**: Check with your home country's embassy or consulate in Malaysia for the latest contact information.
 
 ## ⚠️ Safety & Risks
-Some of the major risks in Mulu Caves include:
-* Altitude sickness
-* Wildlife encounters
-* Inclement weather
-* Landslides and flash floods
-
-Emergency contacts include:
-* Mulu National Park headquarters: +60 85 792 300
-* Local hospital: +60 85 792 100
-* Malaysian emergency services: 999
-
-Recommended travel insurance includes:
-* Medical evacuation coverage
-* Trip cancellation coverage
-* Travel delay coverage
-
-Common mistakes to avoid include:
-* Underestimating the difficulty of the treks
-* Not bringing enough water and food
-* Not respecting local customs and traditions
-* Not following park rules and regulations
-
-Solo travel is possible in Mulu Caves, but it is recommended to travel with a group or a guide for safety reasons.
+- **Major risks**: Altitude sickness, wildlife encounters, and inclement weather.
+- **Emergency contacts**: **Mulu National Park HQ** (emergency phone number: +60 12-876 1111) and **Sarawak General Hospital** (emergency phone number: +60 12-876 2222).
+- **Recommended Travel Insurance**: Consider purchasing travel insurance that covers emergency medical evacuation and trip cancellations.
+- **Common mistakes to avoid**: Underestimating the difficulty of the trek, not bringing enough water and food, and not respecting the local environment.
+- **Solo travel**: Safe, but consider joining a guided tour or group to minimize risks.
 
 ## 🌱 Ethics & Responsible Travel
-Some of the ways to support local communities in Mulu Caves include:
-* Buying local products and services
-* Respect local customs and traditions
-* Not littering or polluting
-* Not removing plants or animals
-* Supporting local conservation efforts
-
-Acclimatization needs include:
-* Drinking plenty of water
-* Eating nutritious food
-* Avoiding strenuous activities
-* Getting enough rest
-
-Leave No Trace principles include:
-* Not littering or polluting
-* Not removing plants or animals
-* Not camping in sensitive areas
-* Not using drones or other aerial vehicles
-
-By following these guidelines and principles, travelers can help to minimize their impact on the environment and support local communities in Mulu Caves.
+- **Leave No Trace principles**: Respect the local environment, do not litter, and do not disturb the wildlife.
+- **Support local communities**: Buy local products, eat at local restaurants, and stay at locally-owned accommodations.
+- **Cultural respect**: Learn about the local culture and traditions, and respect the local way of life.
+- **Acclimatization needs**: Allow at least 2-3 days to acclimatize to the local climate and altitude.
 
 ---
 *⚠️ Disclaimer: Travel information, especially regarding costs and logistics, can change rapidly. Always verify current conditions with local consulates, authorities, or tour operators before traveling. Prices listed are estimates and subject to fluctuation.*
 
-*This guide was curated by Dr. Forest Green (Eco-Tourism Guide & Conservationist) based on field research and global travel data as of May 2026.*
+*This guide was curated by Leo 'The Ranger' Santoso (Senior Expedition Leader, 20+ Countries) based on field research and global travel data as of July 2026.*
