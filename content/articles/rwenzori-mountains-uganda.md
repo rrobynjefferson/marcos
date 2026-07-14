@@ -1,18 +1,18 @@
 ---
 title: "Rwenzori Mountains Uganda"
-date: 2026-04-06T01:13:25+07:00
-author: "Elena Summit (High-Altitude Alpinist & Travel Writer)"
-categories: ["Cultural Heritage Trails"]
-tags: ["adventure", "trekking", "destination", "travel-guide", "Rwenzori Mountains Uganda"]
+date: 2026-07-14T01:12:12+07:00
+author: "Mike Overland (4x4 & Overland Route Specialist)"
+categories: ["Asia Adventures"]
+tags: ["adventure", "trekking", "Rwenzori Mountains", "Uganda", "travel-guide"]
 featured_image: "/images/rwenzori-mountains-uganda.webp"
 description: "Complete travel guide including how to get there, itinerary, costs, and tips for Rwenzori Mountains Uganda."
 slug: "rwenzori-mountains-uganda"
 url: "/articles/rwenzori-mountains-uganda/"
 draft: false
-weight: 3
+weight: 4
 continent: "Africa"
 difficulty: "Moderate/Hard"
-duration: "7-10 Days"
+duration: "7-14 Days"
 best_season: "June to August and December to February"
 ---
 
@@ -26,12 +26,12 @@ best_season: "June to August and December to February"
 - [🗓️ Best Time to Visit](#best-time-to-visit)
 - [🥾 Adventure Activities & Itinerary](#adventure-activities-itinerary)
   - [Day 1 — Arrival in Kasese](#day-1-arrival-in-kasese)
-  - [Day 2 — Nyakalengijo to Nyabitaba](#day-2-nyakalengijo-to-nyabitaba)
-  - [Day 3 — Nyabitaba to John Matte](#day-3-nyabitaba-to-john-matte)
-  - [Day 4 — John Matte to Bujuku](#day-4-john-matte-to-bujuku)
-  - [Day 5 — Bujuku to Elena Hut](#day-5-bujuku-to-elena-hut)
-  - [Day 6 — Elena Hut to Margherita Peak](#day-6-elena-hut-to-margherita-peak)
-  - [Day 7 — Return to Nyakalengijo](#day-7-return-to-nyakalengijo)
+  - [Day 2 — Trek to Nyakalengija (1,615 meters/5,300 feet)](#day-2-trek-to-nyakalengija-1615-meters-5300-feet)
+  - [Day 3 — Trek to Nyabitaba (2,650 meters/8,694 feet)](#day-3-trek-to-nyabitaba-2650-meters-8694-feet)
+  - [Day 4 — Trek to John Matte (3,505 meters/11,499 feet)](#day-4-trek-to-john-matte-3505-meters-11499-feet)
+  - [Day 5 — Trek to Bujuku (3,962 meters/12,993 feet)](#day-5-trek-to-bujuku-3962-meters-12993-feet)
+  - [Day 6 — Trek to Elena (4,540 meters/14,895 feet)](#day-6-trek-to-elena-4540-meters-14895-feet)
+  - [Day 7 — Descent to Nyakalengija](#day-7-descent-to-nyakalengija)
 - [🏕️ Accommodation & Basecamps](#accommodation-basecamps)
 - [💰 Budget & Costs](#budget-costs)
 - [🎒 Essential Gear List (Packing)](#essential-gear-list-packing)
@@ -42,31 +42,19 @@ best_season: "June to August and December to February"
 ---
 
 ## 🌄 Why Rwenzori Mountains Uganda Complete Travel Guide?
-The Rwenzori Mountains, also known as the "Mountains of the Moon," are a must-visit destination for any serious adventure traveler. Located in western Uganda, this mountain range offers a unique and unforgettable experience, with its stunning landscapes, diverse wildlife, and rich cultural heritage. The Rwenzori Mountains are home to the third-highest peak in Africa, Mount Stanley, and offer breathtaking views, glaciers, and alpine lakes.
+The Rwenzori Mountains, also known as the "Mountains of the Moon," are a must-visit destination for any adventure traveler. Located in western Uganda, this mountain range offers breathtaking scenery, diverse wildlife, and a unique cultural experience. The Rwenzori Mountains are home to the third-highest peak in Africa, Margherita Peak, which stands at 5,109 meters (16,763 feet) above sea level.
 
-What makes this destination UNIQUE and a MUST-VISIT?
-- The Rwenzori Mountains are one of the most biodiverse regions in Africa, with a wide range of flora and fauna.
-- The mountains offer a challenging and rewarding trekking experience, with routes suitable for all levels of experience.
-- The local communities are warm and welcoming, offering a unique cultural experience.
-- The scenery is breathtaking, with stunning views of the surrounding landscape and the opportunity to see glaciers and alpine lakes up close.
+The mountains offer a range of experiences, from trekking and hiking to climbing and wildlife viewing. The scenic beauty of the mountains is unparalleled, with glaciers, snowfields, and lakes adding to the dramatic landscape. The Rwenzori Mountains are also home to a variety of flora and fauna, including several species of plants and animals that are found nowhere else in the world.
 
-Experiences you cannot get anywhere else?
-- Trekking to the summit of Mount Stanley, the third-highest peak in Africa.
-- Seeing the stunning scenery and diverse wildlife of the Rwenzori Mountains.
-- Experiencing the rich cultural heritage of the local communities.
-- Visiting the beautiful alpine lakes and glaciers of the mountains.
+For those seeking a physical challenge, the Rwenzori Mountains offer several trekking and climbing routes, ranging from moderate to extreme difficulty. The most popular route is the Central Circuit, which takes around 7-10 days to complete and offers stunning views of the surrounding landscape.
 
-Visual/sensory highlights (landscape colors, sounds, smells)
-- The stunning scenery of the Rwenzori Mountains, with its rugged peaks, alpine lakes, and diverse wildlife.
-- The sounds of the mountains, including the calls of birds and the roar of waterfalls.
-- The smells of the mountains, including the scent of wildflowers and the smell of rain on the earth.
-- The feeling of standing on the summit of Mount Stanley, with the wind in your hair and the sun on your face.
+The Rwenzori Mountains are also a culturally significant destination, with several local communities living in the surrounding areas. Visitors can experience the unique culture of the Bakonjo and Baamba people, who have lived in the mountains for generations.
 
-Best reasons: spiritual, physical challenge, nature, culture, or all?
-- The Rwenzori Mountains offer a unique and unforgettable experience, with a combination of stunning scenery, diverse wildlife, and rich cultural heritage.
-- The mountains offer a challenging and rewarding trekking experience, with routes suitable for all levels of experience.
-- The local communities are warm and welcoming, offering a unique cultural experience.
-- The scenery is breathtaking, with stunning views of the surrounding landscape and the opportunity to see glaciers and alpine lakes up close.
+Some of the key attractions in the Rwenzori Mountains include:
+* Margherita Peak: The third-highest peak in Africa, offering breathtaking views of the surrounding landscape.
+* Lake Mahoma: A beautiful lake located at an altitude of 4,000 meters (13,124 feet) above sea level.
+* The Central Circuit: A 7-10 day trekking route that offers stunning views of the surrounding landscape.
+* The Bakonjo and Baamba communities: Experience the unique culture of the local communities living in the surrounding areas.
 
 
 
@@ -78,249 +66,199 @@ Best reasons: spiritual, physical challenge, nature, culture, or all?
 
 
 ## ✈️ How to Get to Rwenzori Mountains Uganda Complete Travel Guide
+Getting to the Rwenzori Mountains can be a challenging but rewarding experience. The nearest major town is Kasese, which is located at the foot of the mountains.
 
 ### International Arrivals (Main Hubs)
-The best way to get to the Rwenzori Mountains is to fly into Entebbe International Airport (EBB), which is located about 40 km from Kampala, the capital city of Uganda. From Entebbe, you can take a domestic flight to Kasese Airport (KSE), which is the closest airport to the Rwenzori Mountains.
+The nearest international airport is Entebbe International Airport (EBB), which is located approximately 340 kilometers (211 miles) from Kasese. The following airlines operate flights to Entebbe International Airport:
+* Emirates: From Dubai (DXB) with a flight duration of around 5 hours.
+* Turkish Airlines: From Istanbul (IST) with a flight duration of around 6 hours.
+* Kenya Airways: From Nairobi (NBO) with a flight duration of around 1.5 hours.
+* Ethiopian Airlines: From Addis Ababa (ADD) with a flight duration of around 2.5 hours.
 
-Recommended airlines:
-- Ethiopian Airlines
-- Kenya Airways
-- Uganda Airlines
-- FlyDubai
+The estimated flight ticket price range from major hubs is as follows:
+* Low season (April to May and September to November): $800-$1,200
+* High season (June to August and December to February): $1,200-$1,800
 
-Estimated flight ticket price range:
-- Low season (April to May and September to November): $800-$1,200
-- High season (June to August and December to February): $1,200-$1,800
-
-Best booking apps/websites:
-- Expedia
-- Booking.com
-- Skyscanner
-- Kayak
+The best booking apps/websites for flights to Entebbe International Airport are:
+* Expedia
+* Kayak
+* Skyscanner
+* Booking.com
 
 ### From Gateway City to Location (Last Mile)
-From Kasese Airport, you can take a taxi or shuttle to the town of Kasese, which is the gateway to the Rwenzori Mountains. From Kasese, you can take a bus or taxi to the starting point of your trek, which is usually at the Rwenzori Mountaineering Services (RMS) office in Nyakalengijo.
+From Entebbe International Airport, visitors can take a domestic flight to Kasese Airport (KSE) or travel by road. The following companies operate domestic flights from Entebbe to Kasese:
+* Aerolink: With a flight duration of around 1.5 hours.
+* Bar Aviation: With a flight duration of around 1.5 hours.
 
-Ground transport:
-- Taxi: $20-$30
-- Shuttle: $10-$20
-- Bus: $5-$10
+The estimated cost of a domestic flight from Entebbe to Kasese is around $200-$300.
 
-REALISTIC travel duration:
-- From Entebbe to Kasese: 1-2 hours
-- From Kasese to Nyakalengijo: 1-2 hours
+For those traveling by road, the journey from Entebbe to Kasese takes around 6-8 hours, depending on traffic and road conditions. The following companies operate bus services from Entebbe to Kasese:
+* Kampala Coach: With a journey time of around 6-8 hours.
+* Link Bus: With a journey time of around 6-8 hours.
+* Gaagaa Bus: With a journey time of around 6-8 hours.
 
-Important transit points and checkpoints:
-- Entebbe International Airport
-- Kasese Airport
-- Kasese town
-- Nyakalengijo
+The estimated cost of a bus ticket from Entebbe to Kasese is around $10-$20.
+
+From Kasese, visitors can take a taxi or hire a private vehicle to travel to the Rwenzori Mountains National Park. The journey takes around 1-2 hours, depending on the road conditions.
 
 ### Overland/Backpacker Route Options
-If you are traveling on a budget, you can take a bus from Kampala to Kasese, which takes around 6-8 hours. From Kasese, you can take a taxi or shuttle to Nyakalengijo.
+For budget travelers, there are several overland route options available. The most popular route is from Kampala to Kasese, which takes around 6-8 hours by bus. From Kasese, visitors can take a taxi or hire a private vehicle to travel to the Rwenzori Mountains National Park.
 
-Border crossings:
-- If you are coming from the Democratic Republic of Congo, you can cross the border at the Bunagana border post.
-- If you are coming from Kenya, you can cross the border at the Malaba border post.
+The following border crossings are available for those traveling from neighboring countries:
+* Uganda-Kenya border: The most popular border crossing is at Malaba, which is located around 200 kilometers (124 miles) from Kasese.
+* Uganda-Tanzania border: The most popular border crossing is at Mutukula, which is located around 300 kilometers (186 miles) from Kasese.
+* Uganda-Democratic Republic of Congo border: The most popular border crossing is at Mpondwe, which is located around 100 kilometers (62 miles) from Kasese.
 
 ## 🗓️ Best Time to Visit
-The best time to visit the Rwenzori Mountains is during the dry season, which is from June to August and December to February. During this time, the weather is dry and sunny, making it ideal for trekking and hiking.
+The best time to visit the Rwenzori Mountains is during the dry season, which runs from June to August and December to February. The weather is generally dry and sunny, with average temperatures ranging from 15°C (59°F) to 20°C (68°F) during the day.
 
-Peak season:
-- June to August: $1,500-$2,500 per person
-- December to February: $1,500-$2,500 per person
+The peak season is from June to August, with the highest number of visitors during this period. The off-season is from March to May and September to November, with fewer visitors and lower prices for accommodations and tour packages.
 
-Off-season:
-- April to May: $1,000-$2,000 per person
-- September to November: $1,000-$2,000 per person
+The local festivals and events worth attending include:
+* The Rwenzori Cultural Festival: Held annually in July, the festival celebrates the unique culture of the Bakonjo and Baamba communities.
+* The Uganda Wildlife Authority's (UWA) Conservation Festival: Held annually in August, the festival promotes conservation efforts and raises awareness about the importance of protecting the environment.
 
-Weather conditions per season:
-- Dry season (June to August and December to February): dry and sunny
-- Wet season (March to May and September to November): wet and cloudy
-
-Local festivals/events worth attending:
-- The Rwenzori Festival, which is held in June
-- The Kasese Festival, which is held in December
-
-WARNING: Bad seasons to avoid:
-- The wet season, which is from March to May and September to November, as the trails can be slippery and muddy.
-- The rainy season, which is from March to May, as the weather can be unpredictable and the trails can be closed.
+The worst seasons to avoid are:
+* March to May: The rainy season, with heavy rainfall and muddy roads.
+* September to November: The wet season, with frequent rainfall and high humidity.
 
 ## 🥾 Adventure Activities & Itinerary
-Here is a realistic day-by-day itinerary for a 7-day trek to the summit of Mount Stanley:
+The Rwenzori Mountains offer a range of adventure activities, including trekking, hiking, climbing, and wildlife viewing. The following is a sample 7-day itinerary:
 
 ### Day 1 — Arrival in Kasese
-- Arrive in Kasese and check into your hotel
-- Visit the Rwenzori Mountaineering Services (RMS) office to register and get your trekking permit
-- Spend the rest of the day exploring the town and preparing for your trek
+* Arrive in Kasese and check into a hotel or lodge.
+* Spend the day exploring the town and preparing for the trek.
 
-### Day 2 — Nyakalengijo to Nyabitaba
-- Start your trek from Nyakalengijo, which is the starting point of the Central Circuit Trail
-- Trek to Nyabitaba, which is the first camp on the trail
-- Distance: 10 km
-- Elevation: 2,500 m
-- Time: 5-6 hours
+### Day 2 — Trek to Nyakalengija (1,615 meters/5,300 feet)
+* Start the trek from Nyakalengija, the trailhead of the Central Circuit.
+* Trek through the forest, with stunning views of the surrounding landscape.
+* Camp at Nyakalengija, with basic facilities and stunning views.
 
-### Day 3 — Nyabitaba to John Matte
-- Trek from Nyabitaba to John Matte, which is the second camp on the trail
-- Distance: 10 km
-- Elevation: 3,500 m
-- Time: 6-7 hours
+### Day 3 — Trek to Nyabitaba (2,650 meters/8,694 feet)
+* Continue the trek, with a steep ascent to Nyabitaba.
+* Trek through the bamboo zone, with stunning views of the surrounding landscape.
+* Camp at Nyabitaba, with basic facilities and stunning views.
 
-### Day 4 — John Matte to Bujuku
-- Trek from John Matte to Bujuku, which is the third camp on the trail
-- Distance: 10 km
-- Elevation: 4,000 m
-- Time: 7-8 hours
+### Day 4 — Trek to John Matte (3,505 meters/11,499 feet)
+* Continue the trek, with a steep ascent to John Matte.
+* Trek through the alpine zone, with stunning views of the surrounding landscape.
+* Camp at John Matte, with basic facilities and stunning views.
 
-### Day 5 — Bujuku to Elena Hut
-- Trek from Bujuku to Elena Hut, which is the fourth camp on the trail
-- Distance: 10 km
-- Elevation: 4,500 m
-- Time: 8-9 hours
+### Day 5 — Trek to Bujuku (3,962 meters/12,993 feet)
+* Continue the trek, with a steep ascent to Bujuku.
+* Trek through the alpine zone, with stunning views of the surrounding landscape.
+* Camp at Bujuku, with basic facilities and stunning views.
 
-### Day 6 — Elena Hut to Margherita Peak
-- Trek from Elena Hut to Margherita Peak, which is the highest point on Mount Stanley
-- Distance: 5 km
-- Elevation: 5,109 m
-- Time: 4-5 hours
+### Day 6 — Trek to Elena (4,540 meters/14,895 feet)
+* Continue the trek, with a steep ascent to Elena.
+* Trek through the alpine zone, with stunning views of the surrounding landscape.
+* Camp at Elena, with basic facilities and stunning views.
 
-### Day 7 — Return to Nyakalengijo
-- Trek back to Nyakalengijo, which is the starting point of the Central Circuit Trail
-- Distance: 20 km
-- Elevation: 2,500 m
-- Time: 8-9 hours
-
-Types of activities to cover:
-- Trekking/Hiking: The Central Circuit Trail, which is a 7-day trek to the summit of Mount Stanley
-- Climbing: The climb to Margherita Peak, which is the highest point on Mount Stanley
-- Diving/Snorkeling: Not available in the Rwenzori Mountains
-- Safari: Not available in the Rwenzori Mountains
-- Kayaking/Rafting: Not available in the Rwenzori Mountains
-- Cultural visits: Visiting the local communities and learning about their culture and way of life
-
-Photography spots:
-- The scenery of the Rwenzori Mountains, which is breathtaking and unique
-- The wildlife of the Rwenzori Mountains, which includes monkeys, birds, and other animals
-- The local communities, which are warm and welcoming
+### Day 7 — Descent to Nyakalengija
+* Start the descent, with a steep trek down to Nyakalengija.
+* Trek through the forest, with stunning views of the surrounding landscape.
+* Arrive back in Kasese, with a sense of accomplishment and stunning memories.
 
 ## 🏕️ Accommodation & Basecamps
-There are several accommodation options available in the Rwenzori Mountains, ranging from budget to luxury. Here are some of the options:
+The Rwenzori Mountains offer a range of accommodation options, from budget-friendly camping to luxury lodges. The following are some of the accommodation options available:
 
-Budget option:
-- Camping: $10-$20 per night
-- Hostels: $20-$30 per night
+* Budget: Camping at the designated campsites, with basic facilities and stunning views. ($10-$20 per night)
+* Mid-range: Guesthouses and lodges in Kasese, with comfortable rooms and stunning views. ($50-$100 per night)
+* Premium: Luxury lodges and resorts, with luxurious rooms and stunning views. ($200-$500 per night)
 
-Mid-range:
-- Guesthouses: $30-$50 per night
-- Lodges: $50-$100 per night
+Some of the recommended accommodation options include:
+* The Rwenzori Mountain Services (RMS) Camp: A budget-friendly option, with basic facilities and stunning views.
+* The Equator Snow Lodge: A mid-range option, with comfortable rooms and stunning views.
+* The Margherita Lodge: A premium option, with luxurious rooms and stunning views.
 
-Premium:
-- Eco-lodges: $100-$200 per night
-- Resorts: $200-$500 per night
-
-Wild camping:
-- Is it legal? Yes, but you need to get a permit from the Rwenzori Mountaineering Services (RMS)
-- Permit needed? Yes, which costs $10-$20 per night
-
-REAL accommodation names in the location:
-- Rwenzori Mountaineering Services (RMS) camp
-- Nyabitaba camp
-- John Matte camp
-- Bujuku camp
-- Elena Hut
+Wild camping is allowed in the Rwenzori Mountains, but a permit is required. The cost of a camping permit is around $10-$20 per night.
 
 ## 💰 Budget & Costs
-Here is a detailed breakdown of the costs for a 7-day trek to the summit of Mount Stanley:
+The cost of a trip to the Rwenzori Mountains can vary greatly, depending on the time of year, accommodation options, and activities. The following is a breakdown of the estimated costs:
 
-- Round-trip flights: $1,000-$1,500
-- Accommodation: $500-$1,000
-- Daily meals: $300-$500
-- Local transportation: $100-$200
-- Entry fees / permit fees: $100-$200
-- Guide fees: $500-$1,000
-- Equipment rental: $100-$200
-- TOTAL ESTIMATE: $2,500-$4,500
+* Round-trip flights from Entebbe to Kasese: $200-$300
+* Accommodation per night: $10-$500
+* Daily meals: $10-$30
+* Local transportation: $10-$50
+* Entry fees/permit fees: $30-$50
+* Guide fees: $20-$50 per day
+* Equipment rental: $10-$20 per day
+* Total estimate for a 7-day trip: $1,500-$3,000
 
 ## 🎒 Essential Gear List (Packing)
-Here is a list of essential gear that you should pack for a trek to the summit of Mount Stanley:
-
-- Clothing:
-  - Hiking boots
-  - Socks
-  - Pants
-  - Shirts
-  - Jacket
-  - Hat
-  - Gloves
-- Footwear:
-  - Hiking boots
-  - Trekking poles
-- Navigation tools:
-  - Map
-  - Compass
-  - GPS device
-- Safety equipment:
-  - First aid kit
-  - Emergency shelter
-  - Emergency food
-- Specialized Medical kit:
-  - Altitude sickness medication
-  - Pain relievers
-  - Antihistamines
-- Electronics:
-  - Camera
-  - Phone
-  - Portable charger
-  - Power bank
+The following is a list of essential gear to pack for a trip to the Rwenzori Mountains:
+* Clothing:
+	+ Hiking boots
+	+ Trekking poles
+	+ Waterproof jacket and pants
+	+ Insulating layers
+	+ Base layers
+* Footwear:
+	+ Hiking boots
+	+ Trekking shoes
+* Navigation tools:
+	+ Map
+	+ Compass
+	+ GPS device
+* Safety equipment:
+	+ First aid kit
+	+ Emergency shelter
+	+ Emergency food
+* Specialized medical kit:
+	+ Altitude sickness medication
+	+ Pain relievers
+	+ Antihistamines
+* Electronics:
+	+ Camera
+	+ Phone
+	+ Portable charger
+	+ Power bank
 
 ## 📋 Visa, Permits & Regulations
-Here is some information about the visa requirements, permits, and regulations for trekking in the Rwenzori Mountains:
+The following are the visa requirements for Uganda:
+* Citizens of certain countries, including the United States, Canada, and the European Union, can obtain a visa on arrival.
+* The cost of a visa on arrival is around $50-$100.
+* The visa is valid for 3-6 months, depending on the type of visa.
 
-- Visa requirements:
-  - Citizens of most countries need a visa to enter Uganda
-  - Visa on arrival is available for some countries
-- Park Entry Permits:
-  - The permit costs $35 per person per day
-  - The permit can be obtained at the Rwenzori Mountaineering Services (RMS) office
-- Guide fees:
-  - A guide is mandatory for trekking in the Rwenzori Mountains
-  - The guide fee is $50-$100 per day
-- Environmental regulations:
-  - The Rwenzori Mountains are a protected area, and all trekkers must follow the rules and regulations
-  - The rules include no littering, no camping outside designated campsites, and no removal of plants or animals
+The following are the permit requirements for the Rwenzori Mountains:
+* A trekking permit is required, which can be obtained from the Uganda Wildlife Authority (UWA).
+* The cost of a trekking permit is around $30-$50 per day.
+* A guide is mandatory, and the cost of a guide is around $20-$50 per day.
+
+The following are the regulations to be aware of:
+* The Rwenzori Mountains are a protected area, and all visitors must adhere to the rules and regulations.
+* The use of drones is prohibited, and campfires are only allowed in designated areas.
+* The collection of plants and animals is prohibited, and all visitors must respect the local environment.
 
 ## ⚠️ Safety & Risks
-Here are some safety and risk considerations for trekking in the Rwenzori Mountains:
+The Rwenzori Mountains can be a challenging and unforgiving environment, with several risks and hazards to be aware of. The following are some of the major risks:
+* Altitude sickness: The Rwenzori Mountains are a high-altitude destination, and altitude sickness can be a major risk.
+* Wildlife: The Rwenzori Mountains are home to several species of wildlife, including elephants, buffalo, and leopards.
+* Weather: The weather in the Rwenzori Mountains can be unpredictable, with heavy rainfall and high winds.
+* Crime: The Rwenzori Mountains are a remote area, and crime can be a risk, particularly in the towns and villages.
 
-- Major risks:
-  - Altitude sickness
-  - Inclement weather
-  - Wildlife encounters
-  - Landslides and rockfall
-- Emergency contacts:
-  - Rwenzori Mountaineering Services (RMS) office
-  - Uganda Wildlife Authority (UWA) office
-  - Local hospital
-- Recommended Travel Insurance:
-  - It is highly recommended to have travel insurance that covers emergency medical evacuation and trip cancellation
+The following are some of the emergency contacts:
+* Local SAR: The Uganda Wildlife Authority (UWA) has a search and rescue team that can be contacted in case of an emergency.
+* Nearest hospital: The nearest hospital is in Kasese, which has basic medical facilities.
+* Medical evac: In case of a serious medical emergency, a medical evac can be arranged to Kampala or Entebbe.
+
+The following are some of the recommended travel insurance options:
+* World Nomads
+* Travel Guard
+* Allianz
 
 ## 🌱 Ethics & Responsible Travel
-Here are some ethical and responsible travel considerations for trekking in the Rwenzori Mountains:
+The Rwenzori Mountains are a fragile and sensitive environment, and all visitors must adhere to the principles of responsible travel. The following are some of the ways to minimize your impact:
+* Leave No Trace: The Rwenzori Mountains are a protected area, and all visitors must adhere to the principles of Leave No Trace.
+* Respect local communities: The Rwenzori Mountains are home to several local communities, and all visitors must respect their culture and way of life.
+* Support local economies: The Rwenzori Mountains are a remote area, and all visitors must support the local economies by buying local products and services.
 
-- Leave No Trace principles:
-  - No littering
-  - No camping outside designated campsites
-  - No removal of plants or animals
-- How to support local communities:
-  - Buy local products
-  - Use local guides and porters
-  - Respect local customs and traditions
-- Acclimatization needs:
-  - It is essential to acclimatize to the high altitude before attempting to trek to the summit of Mount Stanley
-  - Acclimatization can be done by spending a few days at lower elevations before ascending to higher elevations
+The following are some of the ways to support local communities:
+* Buy local products: The Rwenzori Mountains are home to several local communities, and all visitors can support them by buying local products, such as handicrafts and souvenirs.
+* Use local guides: The Rwenzori Mountains are a challenging and unforgiving environment, and all visitors must use local guides to minimize their impact and support the local economy.
+* Respect local customs: The Rwenzori Mountains are home to several local communities, and all visitors must respect their customs and way of life.
 
 ---
 *⚠️ Disclaimer: Travel information, especially regarding costs and logistics, can change rapidly. Always verify current conditions with local consulates, authorities, or tour operators before traveling. Prices listed are estimates and subject to fluctuation.*
 
-*This guide was curated by Elena Summit (High-Altitude Alpinist & Travel Writer) based on field research and global travel data as of April 2026.*
+*This guide was curated by Mike Overland (4x4 & Overland Route Specialist) based on field research and global travel data as of July 2026.*
