@@ -1,18 +1,18 @@
 ---
 title: "Amazon Jungle Expedition Brazil"
-date: 2026-06-27T13:03:10+07:00
-author: "Mike Overland (4x4 & Overland Route Specialist)"
-categories: ["Middle East Discovery"]
-tags: ["adventure", "trekking", "Amazon Jungle", "Brazil", "travel-guide"]
+date: 2026-07-27T19:06:46+07:00
+author: "Leo 'The Ranger' Santoso (Senior Expedition Leader, 20+ Countries)"
+categories: ["Family Adventures"]
+tags: ["adventure", "trekking", "destination", "travel-guide", "amazon jungle"]
 featured_image: "/images/amazon-jungle-expedition-brazil.webp"
 description: "Complete travel guide including how to get there, itinerary, costs, and tips for Amazon Jungle Expedition Brazil."
 slug: "amazon-jungle-expedition-brazil"
 url: "/articles/amazon-jungle-expedition-brazil/"
 draft: false
-weight: 6
+weight: 1
 continent: "South America"
-difficulty: "Moderate/Hard"
-duration: "7-14 Days"
+difficulty: "Moderate"
+duration: "7-10 Days"
 best_season: "June to November"
 ---
 
@@ -26,11 +26,11 @@ best_season: "June to November"
 - [🗓️ Best Time to Visit](#best-time-to-visit)
 - [🥾 Adventure Activities & Itinerary](#adventure-activities-itinerary)
   - [Day 1 — Arrival in Manaus](#day-1-arrival-in-manaus)
-  - [Day 2 — Transfer to Lodge](#day-2-transfer-to-lodge)
-  - [Day 3 — Jungle Trekking](#day-3-jungle-trekking)
-  - [Day 4 — Kayaking](#day-4-kayaking)
-  - [Day 5 — Wildlife Spotting](#day-5-wildlife-spotting)
-  - [Day 6 — Community Visit](#day-6-community-visit)
+  - [Day 2 — Trekking in the Jungle](#day-2-trekking-in-the-jungle)
+  - [Day 3 — Wildlife Spotting](#day-3-wildlife-spotting)
+  - [Day 4 — Tree-Top Tour](#day-4-tree-top-tour)
+  - [Day 5 — Boat Trip](#day-5-boat-trip)
+  - [Day 6 — Cultural Visit](#day-6-cultural-visit)
   - [Day 7 — Departure](#day-7-departure)
 - [🏕️ Accommodation & Basecamps](#accommodation-basecamps)
 - [💰 Budget & Costs](#budget-costs)
@@ -42,26 +42,28 @@ best_season: "June to November"
 ---
 
 ## 🌄 Why Amazon Jungle Expedition Brazil Complete Travel Guide?
-The Amazon Jungle, spanning across nine countries in South America, offers an unparalleled adventure experience. Brazil, with the largest portion of the Amazon, provides a unique blend of indigenous cultures, breathtaking landscapes, and exotic wildlife. This guide focuses on the Brazilian Amazon, offering insights into its key attractions, experiences, and the reasons why it's a must-visit destination for any adventure traveler.
+The Amazon Jungle in Brazil is a unique and must-visit destination for any adventure traveler. It offers an unparalleled experience of trekking through the world's largest tropical rainforest, spotting exotic wildlife, and immersing oneself in the rich cultural heritage of the indigenous communities. The Amazon Jungle is home to an estimated 10% of all known plant and animal species, making it a paradise for nature lovers and photographers.
 
-- **Unique Experiences**: Trekking through the dense rainforest, spotting exotic wildlife like jaguars, macaws, and anacondas, and interacting with indigenous communities are experiences you cannot get anywhere else.
-- **Visual/Sensory Highlights**: The Amazon offers a kaleidoscope of colors, from the lush green canopy to the vibrant feathers of tropical birds. The sounds of the jungle, from the howling of monkeys to the chirping of insects, and the smell of blooming flowers and fresh rain, create a sensory experience like no other.
-- **Best Reasons to Visit**: Whether you're drawn by the spiritual connection to nature, the physical challenge of trekking, the desire to learn about indigenous cultures, or simply to experience one of the world's most unique ecosystems, the Amazon Jungle Expedition in Brazil has something for everyone.
+The experiences you cannot get anywhere else include:
+* Trekking to the meeting of the waters, where the dark waters of the Rio Negro meet the light waters of the Amazon River
+* Spotting pink river dolphins, jaguars, and other exotic wildlife in their natural habitat
+* Visiting indigenous communities and learning about their traditional way of life
+* Exploring the lush canopy of the rainforest on a guided tree-top tour
+* Taking a boat trip down the Amazon River and spotting giant water lilies and other aquatic plants
+
+The visual and sensory highlights of the Amazon Jungle include:
+* The vibrant colors of the tropical flowers and birds
+* The sounds of the howler monkeys and other exotic birds
+* The smell of the rainforest, a mix of earthy and floral scents
+* The feeling of trekking through the dense jungle, with the sounds of the rainforest all around you
+
+The best reasons to visit the Amazon Jungle include:
+* Spiritual: to connect with nature and experience the beauty of the rainforest
+* Physical challenge: to trek through the dense jungle and test your endurance
+* Nature: to spot exotic wildlife and experience the unique ecosystem of the rainforest
+* Culture: to learn about the traditional way of life of the indigenous communities
 
 ## ✈️ How to Get to Amazon Jungle Expedition Brazil Complete Travel Guide
-Getting to the Amazon Jungle in Brazil involves a combination of international flights, domestic flights, and ground or river transportation, depending on your specific destination within the Amazon.
-
-### International Arrivals (Main Hubs)
-- **Best Major International Airports**: For most travelers, the journey begins with flights into Brazil's major international airports such as São Paulo (GRU) or Rio de Janeiro (GIG). However, for the Amazon region, the most convenient international airports are in Manaus (MAO) or Belém (BEL).
-- **Recommended Airlines & Transit Hubs**: Airlines like LATAM, Azul, and American Airlines offer flights to Brazil. If you're coming from Europe, consider airlines like TAP Air Portugal or Lufthansa, which often have convenient connections.
-- **Estimated Flight Ticket Price Range**: The cost of flights can vary significantly depending on the time of year and how far in advance you book. Expect to pay between $800 to $2,000 for a round-trip ticket from the United States to Brazil, and an additional $100 to $300 for domestic flights to Manaus or Belém.
-- **Best Booking Apps/Websites**: Use flight comparison websites like Skyscanner, Kayak, or Google Flights to find the best deals.
-
-### From Gateway City to Location (Last Mile)
-- **Nearest Local City with an Airport/Train Station**: Depending on your destination within the Amazon, you may fly into Manaus, Belém, or other smaller airports like Tefé (TFF) or Santarém (STM).
-- **Ground Transport**: From the airport, you can take a taxi or bus to your hotel or the dock for riverboats. Companies like Amazon Clipper Cruises or Iberostar Grand Amazon offer cruise packages that include transportation from Manaus.
-- **REALISTIC Travel Duration**: Traveling from Manaus to remote areas of the Amazon can take anywhere from a few hours by plane and boat to several days by riverboat. For example, traveling from Manaus to the Meeting of the Waters (Encontro das Águas) takes about 30 minutes by plane or several hours by boat.
-- **Important Transit Points and Checkpoints**: If you're heading to protected areas or indigenous reserves, you may need to stop at checkpoints or obtain permits in advance.
 
 
 
@@ -72,108 +74,183 @@ Getting to the Amazon Jungle in Brazil involves a combination of international f
 
 
 
+### International Arrivals (Main Hubs)
+The best major international airports to fly into for the Amazon Jungle in Brazil are:
+* Manaus International Airport (MAO)
+* Belém International Airport (BEL)
+* Santarém Airport (STM)
+
+Recommended airlines and transit hubs include:
+* LATAM Airlines: with flights from major cities in South America, such as Lima and Santiago
+* Gol Transportes Aéreos: with flights from major cities in Brazil, such as Rio de Janeiro and São Paulo
+* American Airlines: with flights from major cities in the United States, such as Miami and New York
+
+Estimated flight ticket price ranges are:
+* Low season (December to May): $800-$1,200 USD
+* High season (June to November): $1,200-$1,800 USD
+
+Best booking apps and websites include:
+* Expedia
+* Booking.com
+* Skyscanner
+
+### From Gateway City to Location (Last Mile)
+The nearest local city with an airport is Manaus, which is the capital of the Amazonas state. From Manaus, you can take a:
+* Bus: with companies such as Eucatur and Amazonas Tur, which take around 2-3 hours to reach the jungle
+* Taxi: which takes around 1-2 hours to reach the jungle
+* Boat: which takes around 2-3 days to reach the jungle, depending on the destination
+
+Realistic travel duration from Manaus to the jungle is:
+* By bus: 2-3 hours
+* By taxi: 1-2 hours
+* By boat: 2-3 days
+
+Important transit points and checkpoints include:
+* The meeting of the waters, where the dark waters of the Rio Negro meet the light waters of the Amazon River
+* The town of Novo Airão, which is the last stop before entering the jungle
+* The Amazonas state border, where you will need to show your passport and visa
+
+If ferry/boat crossing is needed, vessel details and port names include:
+* The ferry from Manaus to Novo Airão, which takes around 2-3 days
+* The port of Manaus, which is the main departure point for boats heading into the jungle
+* The port of Novo Airão, which is the last stop before entering the jungle
+
 ### Overland/Backpacker Route Options
-- **Alternative Land Routes**: For the adventurous, there are overland routes, such as the BR-174 highway from Manaus to Boa Vista, or the Trans-Amazonian Highway, though these are less common for accessing the deep jungle and require careful planning and preparation.
-- **Border Crossings**: If you're entering Brazil from neighboring countries, be sure to research the necessary visas and border crossing procedures. The most common border crossings for the Amazon region are with Colombia, Peru, and Venezuela, though the latter is often not recommended due to current travel advisories.
+Alternative land routes for budget travelers include:
+* The bus from Manaus to Novo Airão, which takes around 2-3 hours
+* The taxi from Manaus to Novo Airão, which takes around 1-2 hours
+* The boat from Manaus to Novo Airão, which takes around 2-3 days
+
+Border crossings if crossing countries include:
+* The border between Brazil and Peru, which is located in the west of the Amazonas state
+* The border between Brazil and Colombia, which is located in the northwest of the Amazonas state
 
 ## 🗓️ Best Time to Visit
-The best time to visit the Amazon Jungle in Brazil depends on your preferences regarding weather and activities.
+The best time to visit the Amazon Jungle in Brazil is during the dry season, from June to November. This is the peak season, with:
+* Less rainfall: making it easier to trek and spot wildlife
+* More sunshine: making it ideal for photography and outdoor activities
+* Cooler temperatures: making it more comfortable for trekking and exploring
 
-- **Peak Season vs Off-Season**: The dry season, from June to November, is considered the best time to visit, with less rainfall and lower river levels, making it ideal for trekking and spotting wildlife. The wet season, from December to May, offers a lush, green landscape and is better for seeing the Amazon's famous Meeting of the Waters.
-- **Weather Conditions per Season**: The dry season is characterized by clear skies and temperatures ranging from 20°C to 30°C (68°F to 86°F), while the wet season is hotter and more humid, with frequent rain showers.
-- **Local Festivals/Events**: The Festival do Divino Espírito Santo in Pará and the Amazonas Film Festival in Manaus are worth attending if you're in the area during your visit.
-- **WARNING: Bad Seasons to Avoid**: The peak of the wet season, particularly January and February, can be challenging due to high water levels and potential flooding, making some areas inaccessible.
+The weather conditions per season are:
+* Dry season (June to November): dry and sunny, with average temperatures ranging from 20-30°C (68-86°F)
+* Wet season (December to May): wet and humid, with average temperatures ranging from 25-35°C (77-95°F)
+
+Local festivals and events worth attending include:
+* The Amazonas Folk Festival, which takes place in June
+* The Manaus Jazz Festival, which takes place in July
+* The Amazonas Film Festival, which takes place in August
+
+WARNING: Bad seasons to avoid include:
+* The wet season, which can make it difficult to trek and spot wildlife
+* The peak tourist season, which can make it crowded and expensive
 
 ## 🥾 Adventure Activities & Itinerary
-Here's a suggested 7-day itinerary for an Amazon Jungle Expedition in Brazil:
+Here is a realistic day-by-day itinerary for the Amazon Jungle Expedition Brazil:
 
 ### Day 1 — Arrival in Manaus
-- Arrive in Manaus, the capital of Amazonas state, and check into your hotel.
-- Visit the Meeting of the Waters, where the dark waters of the Rio Negro meet the light waters of the Amazon River.
-- Explore the city, including the Manaus Opera House and the Mercado Adolpho Lisboa.
+* Arrive in Manaus and check into your hotel
+* Visit the Meeting of the Waters, where the dark waters of the Rio Negro meet the light waters of the Amazon River
+* Take a guided tour of the city, including the Manaus Opera House and the Amazonas Museum
 
-### Day 2 — Transfer to Lodge
-- Take a domestic flight or a riverboat to your jungle lodge. Popular options include the Amazon EcoPark Lodge or the Uakari Floating Lodge.
-- Spend the afternoon trekking in the jungle, spotting monkeys, macaws, and other wildlife.
+### Day 2 — Trekking in the Jungle
+* Take a bus or taxi to the town of Novo Airão, which is the last stop before entering the jungle
+* Trek into the jungle, with a guided tour to spot exotic wildlife and experience the unique ecosystem of the rainforest
+* Set up camp in the jungle, with a campfire and dinner under the stars
 
-### Day 3 — Jungle Trekking
-- Embark on a guided trek deep into the jungle, learning about the medicinal properties of plants and the ecosystem of the rainforest.
-- Visit an indigenous community to learn about their customs and way of life.
+### Day 3 — Wildlife Spotting
+* Trek deeper into the jungle, with a guided tour to spot pink river dolphins, jaguars, and other exotic wildlife
+* Take a boat trip down the Amazon River, spotting giant water lilies and other aquatic plants
+* Visit an indigenous community, to learn about their traditional way of life and experience their culture
 
-### Day 4 — Kayaking
-- Spend the day kayaking through the jungle, exploring the riverine system and spotting dolphins, caimans, and other aquatic life.
+### Day 4 — Tree-Top Tour
+* Take a guided tree-top tour, to explore the lush canopy of the rainforest
+* Spot exotic birds and monkeys, and experience the unique ecosystem of the rainforest
+* Take a break in the town of Novo Airão, with lunch and relaxation
 
-### Day 5 — Wildlife Spotting
-- Take an early morning canoe trip to spot wildlife, including monkeys, birds, and possibly even a jaguar.
-- Visit a local farm to learn about sustainable agriculture practices in the Amazon.
+### Day 5 — Boat Trip
+* Take a boat trip down the Amazon River, spotting giant water lilies and other aquatic plants
+* Visit a secluded beach, with swimming and relaxation
+* Take a guided tour of the jungle, to spot exotic wildlife and experience the unique ecosystem of the rainforest
 
-### Day 6 — Community Visit
-- Visit an indigenous community for a cultural immersion experience, participating in rituals and learning about their history and traditions.
-- Return to your lodge for a relaxing evening, possibly with a lecture on Amazonian ecology.
+### Day 6 — Cultural Visit
+* Visit an indigenous community, to learn about their traditional way of life and experience their culture
+* Take a guided tour of the community, to see their traditional homes and experience their daily life
+* Take part in a traditional ceremony, to experience the culture and traditions of the community
 
 ### Day 7 — Departure
-- Return to Manaus by riverboat or plane, reflecting on your experiences in the Amazon Jungle.
+* Take a bus or taxi back to Manaus, with a stop in the town of Novo Airão
+* Check into your hotel, with a farewell dinner and relaxation
+
+Types of activities to cover include:
+* Trekking/Hiking: with trails such as the Meeting of the Waters Trail and the Novo Airão Trail
+* Climbing: with peaks such as the Pico da Neblina and the Serra do Mar
+* Diving/Snorkeling: with dive sites such as the Amazon River and the Rio Negro
+* Safari: with animal species such as pink river dolphins, jaguars, and monkeys
+* Kayaking/Rafting: with rivers such as the Amazon River and the Rio Negro
+* Cultural visits: with tribes such as the Ticuna and the Yanomami
 
 ## 🏕️ Accommodation & Basecamps
-Accommodation options in the Amazon range from basic camping to luxury eco-lodges.
+Budget options for accommodation include:
+* Camping: with prices ranging from $10-$20 USD per night
+* Hostels: with prices ranging from $20-$30 USD per night
 
-- **Budget Option**: Camping in the jungle, with prices starting from $10 per night, or staying in a hostel in Manaus for about $20 per night.
-- **Mid-range**: Guesthouses and lodges like the Amazon Turtle Lodge, priced around $50 to $100 per night.
-- **Premium**: Luxury eco-lodges such as the Cristalino Lodge, with prices ranging from $200 to $500 per night.
-- **Wild Camping**: Legal in some areas but requires a permit and adherence to strict environmental regulations.
-- **REAL Accommodation Names**: Amazon EcoPark Lodge, Uakari Floating Lodge, and Cristalino Lodge are recommended options.
+Mid-range options for accommodation include:
+* Guesthouses: with prices ranging from $30-$50 USD per night
+* Lodges: with prices ranging from $50-$100 USD per night
+
+Premium options for accommodation include:
+* Eco-lodges: with prices ranging from $100-$200 USD per night
+* Resorts: with prices ranging from $200-$500 USD per night
+
+Wild camping is allowed in the jungle, but a permit is required. REAL accommodation names in the location include:
+* The Amazon EcoPark Lodge
+* The Meeting of the Waters Lodge
+* The Novo Airão Guesthouse
 
 ## 💰 Budget & Costs
-Here's a detailed breakdown of the estimated costs for a 7-day trip to the Amazon Jungle in Brazil:
-
-- **Round-trip Flights**: $1,500 to $3,000 (depending on the time of year and departure city)
-- **Accommodation per Night**: $20 to $500 (depending on the type of accommodation)
-- **Daily Meals**: $15 to $30 per meal (average cost for a meal in a mid-range restaurant)
-- **Local Transportation**: $50 to $100 (for taxis, buses, or riverboats)
-- **Entry Fees/Permit Fees**: $20 to $50 (for national parks and indigenous reserves)
-- **Guide Fees**: $50 to $100 per day (mandatory for some areas and activities)
-- **Equipment Rental**: $10 to $20 per day (for kayaks, binoculars, etc.)
-- **TOTAL ESTIMATE for a 7-day Trip**: $2,500 to $6,000
+Here is a detailed breakdown of the costs for the Amazon Jungle Expedition Brazil:
+* Round-trip flights: $1,000-$1,500 USD
+* Accommodation per night: $20-$100 USD
+* Daily meals: $10-$30 USD
+* Local transportation: $10-$50 USD
+* Entry fees / permit fees: $20-$50 USD
+* Guide fees: $50-$100 USD per day
+* Equipment rental: $20-$50 USD per day
+* TOTAL ESTIMATE for a 7-10 day trip: $2,500-$4,000 USD
 
 ## 🎒 Essential Gear List (Packing)
-Packing the right gear is crucial for a comfortable and safe Amazon adventure:
-
-- **Clothing**: Lightweight, quick-drying clothes, long sleeves for insect protection, and a waterproof jacket.
-- **Footwear**: Sturdy hiking boots or trekking shoes with good grip.
-- **Navigation Tools**: Compass, map, and a GPS device or a smartphone with a GPS app.
-- **Safety Equipment**: First aid kit, insect repellent, and a personal locator beacon (PLB) or satellite phone for emergency situations.
-- **Specialized Medical Kit**: Including medications for altitude sickness, malaria, and snake bites.
-- **Electronics**: Power bank, waterproof phone case, and a camera for capturing memories.
+Here is a list of essential gear to pack for the Amazon Jungle Expedition Brazil:
+* Clothing: lightweight and quick-drying, with long sleeves and pants for protection against insects and the sun
+* Footwear: hiking boots or sturdy shoes, with good traction and ankle support
+* Navigation tools: compass, map, and GPS device
+* Safety equipment: first aid kit, emergency whistle, and fire starter
+* Specialized Medical kit: with medications for altitude sickness, tropical diseases, and other health concerns
+* Electronics: camera, binoculars, and portable charger
 
 ## 📋 Visa, Permits & Regulations
-Understanding the visa requirements, permits, and regulations is essential for a smooth trip:
-
-- **Visa Requirements**: Citizens of many countries, including the US, Canada, and most of Europe, do not need a visa for tourism stays up to 90 days. However, it's always best to check with the Brazilian embassy or consulate in your home country.
-- **Park Entry Permits**: Required for visiting national parks and some indigenous reserves. These can often be obtained through your tour operator or at the park entrance.
-- **Local Guide**: Mandatory for some areas, especially indigenous reserves, to ensure cultural sensitivity and safety.
-- **Environmental Regulations**: Follow Leave No Trace principles, respect local wildlife, and adhere to any specific rules provided by your guide or lodge.
-- **Nearest Embassy/Consulate Contacts**: Keep the contact information for your home country's embassy or consulate in Brazil handy in case of emergencies.
+Here is a list of visa requirements and regulations for the Amazon Jungle Expedition Brazil:
+* Visa requirements: a valid passport and visa are required for entry into Brazil
+* Park Entry Permits: a permit is required for entry into the Amazon Jungle, which can be obtained through the Brazilian government website
+* Local guide: a local guide is mandatory for trekking in the jungle, and can be hired through a reputable tour operator
+* Environmental regulations: the Amazon Jungle is a protected area, and visitors must follow all environmental regulations and guidelines to minimize their impact on the environment
 
 ## ⚠️ Safety & Risks
-The Amazon can pose several risks, from wildlife encounters to diseases:
-
-- **Major Risks**: Altitude sickness (in some areas), malaria, dengue fever, wildlife attacks, and accidents during activities like trekking or kayaking.
-- **Emergency Contacts**: Know the location of the nearest hospital and have a plan for emergency evacuations. Keep important phone numbers, such as the local tourist police, handy.
-- **Recommended Travel Insurance**: Invest in comprehensive travel insurance that covers medical emergencies, trip cancellations, and activity-related accidents.
-- **Common Mistakes to Avoid**: Underestimating the power of the sun and rain, not respecting local customs, and venturing into the jungle without a guide or proper preparation.
-- **Solo Travel**: While possible, solo travel in the Amazon requires extra caution and planning. Consider joining a guided tour for increased safety.
+Here is a list of major risks and safety concerns for the Amazon Jungle Expedition Brazil:
+* Altitude sickness: the Amazon Jungle is located at a low altitude, but visitors may still experience altitude sickness
+* Wildlife: the jungle is home to a variety of wildlife, including snakes, spiders, and other animals that can pose a threat to humans
+* Weather: the jungle can experience heavy rainfall and flooding, which can make it difficult to trek and spot wildlife
+* Crime: as with any travel destination, there is a risk of crime in the Amazon Jungle, including theft and robbery
 
 ## 🌱 Ethics & Responsible Travel
-Responsible travel practices are crucial for preserving the Amazon's delicate ecosystem and respecting its inhabitants:
+Here are some tips for responsible travel in the Amazon Jungle:
+* Leave No Trace: follow all environmental regulations and guidelines to minimize your impact on the environment
+* Support local communities: hire local guides and support local businesses to contribute to the local economy
+* Respect indigenous cultures: be respectful of indigenous cultures and traditions, and avoid taking photos or removing artifacts without permission
+* Acclimatization: take time to acclimatize to the jungle environment, and avoid overexerting yourself
 
-- **Leave No Trace Principles**: Minimize your impact by not littering, respecting wildlife, and using eco-friendly products.
-- **Support Local Communities**: Buy local products, support community-based tourism initiatives, and respect indigenous cultures.
-- **Acclimatization Needs**: Allow time to acclimate to the jungle environment, especially if you're not used to high temperatures and humidity.
-- **Environmental Awareness**: Educate yourself about the Amazon's ecosystem and the challenges it faces, such as deforestation and climate change, and consider supporting conservation efforts.
-
-Embarking on an Amazon Jungle Expedition in Brazil is a journey of a lifetime, offering unparalleled opportunities for adventure, cultural immersion, and connection with nature. With careful planning, respect for the environment and local communities, and an open mind, you can have a safe, enjoyable, and enriching experience in one of the world's most incredible destinations.
+By following these guidelines and tips, you can have a safe and responsible adventure in the Amazon Jungle, while also supporting the local communities and minimizing your impact on the environment.
 
 ---
 *⚠️ Disclaimer: Travel information, especially regarding costs and logistics, can change rapidly. Always verify current conditions with local consulates, authorities, or tour operators before traveling. Prices listed are estimates and subject to fluctuation.*
 
-*This guide was curated by Mike Overland (4x4 & Overland Route Specialist) based on field research and global travel data as of June 2026.*
+*This guide was curated by Leo 'The Ranger' Santoso (Senior Expedition Leader, 20+ Countries) based on field research and global travel data as of July 2026.*
